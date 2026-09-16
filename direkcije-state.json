@@ -1,6 +1,54 @@
 {
-  "poslednji_obradjen_ts": "1789463748.000000",
-  "poslednji_run": null,
-  "otvorene_stavke": [],
-  "zatvorene_stavke": []
+  "poslednji_obradjen_ts": "1789549940.502539",
+  "poslednji_run": "2026-09-16T09:24:22Z",
+  "otvorene_stavke": [
+    {
+      "ts": "1789137965.007879",
+      "pitao": "U1T2LF7GD",
+      "ceka_odgovor_od": ["U1T2FE5CY"],
+      "tip": "zadatak",
+      "sazetak": "Janql da javi koliko VIP pozivnica imamo za WOW, da se podele klijentima (A1 tim bi ih obozavao).",
+      "broj_prijava": 2,
+      "napomena": "Ideja (VIP pozivnice za WOW) postoji od 11.09., dugo bez vlasnika. Danas (16.09. u 10:10) Milos konacno dodelio vlasnistvo janqlu direktno u kanalu: 'VIP pozivnice za klijente, janql preuzmi ovu malu temu, javi nam koliko imamo pozivnica pa da podelimo klijentima.' Janql je posle toga pisao u kanalu (escape room / poklon tim iskustvo tema) ali NIJE jos javio broj pozivnica. Napomena: WOW otvaranje je 27.09., pa ovo pocinje da gori - ako do tada nema broja, treba eskalirati kao large_yellow_circle. Plan za sledeci run: proveriti da li je janql u medjuvremenu javio broj pozivnica bilo u kanalu bilo u threadu originalne poruke (ts 1789137965.007879); ako je rok (27.09.) blizu a odgovora nema, podici hitnost."
+    },
+    {
+      "ts": "1789467808.171349",
+      "pitao": "U08NVRXT2BY",
+      "ceka_odgovor_od": ["U6USJ8LCD"],
+      "tip": "pitanje",
+      "sazetak": "Milja da odgovori Gru kako Rada da plati hotel za Zinica i kako da joj se vrate pare za avionsku kartu.",
+      "broj_prijava": 2,
+      "napomena": "Gru je 15.09. opisao (uz rage/cry reakcije, ali BEZ suštinskog odgovora) da Rada ne zna proceduru placanja/refundacije za goste (Zinica), i da Milja treba da joj objasni. Thread na originalnoj poruci je prazan - niko nije odgovorio. Nema pomena teme ni u kanalu posle toga. Ovo je operativno pitanje bez pomeranja dva dana zaredom (ranije prijavljeno 15.09/16.09 jutros, sad opet). Plan za sledeci run: proveriti thread ts 1789467808.171349 i kanal za Miljin odgovor; ako i dalje cuti, razmotriti da li Gru ima drugi kanal (DM) gde je vec resio sam, jer je situacija hitna (Rada ceka da plati hotel)."
+    }
+  ],
+  "zatvorene_stavke": [
+    {
+      "ts": "1787741109.953589",
+      "sazetak": "Odrediti ko od mediora iz Direkcije predaje LSR i kada.",
+      "vlasnici": ["U899GA893", "U08NVRXT2BY", "U6USJ8LCD", "US38XUCMV"],
+      "datum_zatvaranja": "2026-09-16",
+      "kako": "Milos je 16.09. u 10:10 eksplicitno skinuo temu sa liste: 'Ok, potrebno je da uklonimo iz nase liste prvu temu. Gru ce odrediti na pocetku sledece sezone ko sve predaje. To je to. Nije vise otvorena tema.' Stavka je visila 15 radnih dana pre zatvaranja - zatvorena odlukom da se odlozi za sledecu sezonu, ne stvarnim resenjem pitanja ko predaje."
+    },
+    {
+      "ts": "1788349998.247619",
+      "sazetak": "Sonja da javi da li je otisao mejl Aleksandru i Dzoniju za raspodelu ljudi na 4 LSR.",
+      "vlasnici": ["U899GA893"],
+      "datum_zatvaranja": "2026-09-16",
+      "kako": "Milos je 16.09. u 10:10 oslobodio Sonju obaveze: 'Sonja, ako do sad nije otisao mejl Aleksandru i Dzoniju za LSR, ne mora ni sad. Takodje, u svetlu guzve, necemo forsirati ovo. Task vise nije otvoren.' Sonja je posle toga ipak najavila da ce ga poslati ('Poslacu sad mejl Aleksandru i Dzoniju, pa sta bude') ali to je sad njena dobrovoljna akcija, ne otvoren task za pracenje."
+    },
+    {
+      "ts": "1789406951.022949",
+      "sazetak": "Milos da javi sta je izaslo iz sastanka sa podizvodjacem za Loreal i ko salje mejl advokata.",
+      "vlasnici": ["U1T2LF7GD"],
+      "datum_zatvaranja": "2026-09-16",
+      "kako": "Milos je 16.09. u 10:11 potvrdio zavrsetak: 'Moj task za Loreal je done. Resili smo to u okviru tima.' Eksplicitna potvrda vlasnika da je zadatak izvrsen."
+    },
+    {
+      "ts": "1789461192.181579",
+      "sazetak": "Milos i Tija da potvrde i jave svima da li se 25.09. radi do 12h pa off, kako predlaze Sonja.",
+      "vlasnici": ["U1T2LF7GD", "US38XUCMV"],
+      "datum_zatvaranja": "2026-09-16",
+      "kako": "Milos je 16.09. u 10:11 napisao: 'Milosev i Tijanin task vezan za team building - done. Tija organizuje dalje. Nije vise otvoren task ovde.' Zatvoreno izjavom jednog od dvoje zaduzenih da je stvar zavrsena; Tija dalje samostalno organizuje logistiku."
+    }
+  ]
 }
