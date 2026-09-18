@@ -1,33 +1,33 @@
 {
-  "poslednji_obradjen_ts": "1789596194.848029",
-  "poslednji_run": "2026-09-17T07:10:02Z",
+  "poslednji_obradjen_ts": "1789661056.548549",
+  "poslednji_run": "2026-09-18T07:07:54Z",
   "otvorene_stavke": [
     {
       "ts": "1789137965.007879",
       "pitao": "U1T2LF7GD",
-      "ceka_odgovor_od": ["U1T2FE5CY"],
+      "ceka_odgovor_od": ["U899GA893"],
       "tip": "zadatak",
-      "sazetak": "Janql da javi koliko VIP pozivnica imamo za WOW, da se podele klijentima (A1 tim bi ih obozavao).",
-      "broj_prijava": 3,
-      "napomena": "I dalje bez konkretnog broja od janqla - thread na originalnoj poruci (ts 1789137965.007879) ima samo staru Gruovu reakciju od 11.09 ('strava ideja'), nema novog odgovora. U kanalu 16.09. desila se zanimljiva epizoda koja MOZE ali ne mora biti povezana: Sonja je Milosu napisala 'prebaci samo na mene ovo WOW' (ts 1789550671.522269), a Milos je odgovorio 'Sonja je sada vlasnik taska za WOW karte' (ts 1789550686.386039) - odmah zatim je Sonja odvojeno trazila da se doda task za novi datum teambuildinga. Nisam siguran da je 'task za WOW karte' isto sto i janqlov zadatak oko VIP pozivnica (mozda je 'karte' operativna stvar - fizicke ulaznice/beleznice za sam event, a ne klijentske VIP pozivnice) - zato NISAM presao vlasnistvo na Sonju, samo belezim. WOW otvaranje je 27.09, rok se blizi. Plan za sledeci run: (1) direktno pitati/proveriti da li 'WOW karte' = ova ista tema, ako da - prebaciti ceka_odgovor_od na Sonju (U899GA893) i zatvoriti ovu formulaciju kao 'preneto'; (2) ako ostane janqlova, a do ~22-23.09 nema broja, podici na large_yellow_circle jer rok (27.09) stize."
+      "sazetak": "Sonja (preuzela od janqla) da javi koliko VIP pozivnica imamo za WOW da se podele klijentima (A1 tim).",
+      "broj_prijava": 4,
+      "napomena": "Danas (17.09, 09:14) je janql napisao u kanalu 'Sonja je preuzela sve za WOW' (ts 1789629288.554709), samostalna poruka bez threada i bez eksplicitnog pojasnjenja da li to ukljucuje i konkretno VIP pozivnice ili samo operativne 'WOW karte' pomenute ranije (16.09, ts 1789550686.386039 - 'Sonja je sada vlasnik taska za WOW karte'). Kako WOW event dolazi 27.09, a pitanje broja VIP pozivnica JOS NIJE odgovoreno (thread na originalnoj poruci ts 1789137965.007879 i dalje ima samo Gruovu staru reakciju 'strava ideja' od 11.09, nema novog sadrzaja), preneo sam ceka_odgovor_od sa janqla (U1T2FE5CY) na Sonju (U899GA893). Zadrzao sam originalni ts kao anchor za brojanje dana jer se sustinski upit (broj pozivnica) jos NIJE resio - promenjen je samo vlasnik, ne i sadrzaj pitanja, pa ovo NIJE tretirano kao zatvoreno. Ovo je sad 5. uzastopni radni dan da visi, prvi put je presla :warning: prag (>=5 radnih dana). Plan za sledeci run: (1) proveriti da li je Sonja javila konkretan broj VIP pozivnica bilo u kanalu bilo u threadu originalne poruke; (2) ako ni posle promene vlasnika ne bude pomeranja do ~22.09 (nedelju dana pred event 27.09), eskalirati direktno Milosu jer rok WOW-a opasno blizi; (3) uzgred proveriti da li 'WOW karte' (16.09) i ova VIP pozivnica tema uopste jesu ista stvar - jos nije potvrdjeno eksplicitno."
     },
     {
       "ts": "1789467808.171349",
       "pitao": "U08NVRXT2BY",
       "ceka_odgovor_od": ["U6USJ8LCD"],
       "tip": "pitanje",
-      "sazetak": "Milja da odgovori Gru kako Rada da plati hotel za Zinica i kako da joj se vrate pare za avionsku kartu.",
-      "broj_prijava": 3,
-      "napomena": "Trece uzastopno prijavljivanje bez ikakvog pomeranja. Thread (ts 1789467808.171349) je i dalje prazan, tema se nije pojavila nigde u kanalu 16-17.09 (ni pomena Rade, Zinica, hotela ili avionske karte). Rada aktivno ceka da plati hotel - ovo je operativno hitno, ne samo administrativno pitanje. Plan za sledeci run: ako Milja opet ne odgovori do sledeceg jutra, razmotriti da li ovo treba direktno eskalirati Milosu u poruci (npr. da se tag Milja + Milos zajedno) jer je moguce da Milja ovo uopste ne prati u kanalu; takodje proveriti da li je Gru u medjuvremenu sam resio problem mimo kanala pa je tema zapravo mrtva."
+      "sazetak": "Milja da odgovori Gru kako Rada da plati hotel za Žinića i kako da joj se vrate pare za avionsku kartu.",
+      "broj_prijava": 4,
+      "napomena": "Cetvrto uzastopno prijavljivanje bez ikakvog pomeranja. Thread (ts 1789467808.171349) je i dalje potpuno prazan (nema odgovora), a tema (Rada / Zinic / hotel / avionska karta) se nije pomenula NIGDE u kanalu tokom 16. i 17.09 - ni u glavnom kanalu ni u ijednom threadu koji sam procitao. Ovo je operativno hitno jer je Rada vec platila avionsku kartu iz svog dzepa i ceka 20+ dana na povracaj, a sad ne zeli da placa i hotel iz svog. Plan za sledeci run: ako Milja opet ne odgovori do sledeceg jutra, eskalirati direktno tako sto se u poruci tagne Milja ZAJEDNO sa Milosem (npr '<@Milja> + <@Milos> - Rada fizicki ceka, i dalje bez odgovora') umesto cistog cekanja treceg kruga; takodje razmotriti mogucnost da je Gru ovo u medjuvremenu resio telefonom/mimo kanala pa je tema zapravo mrtva, u kom slucaju bi trebalo direktno pitati Gru da potvrdi status pre nego sto se dalje eskalira."
     },
     {
       "ts": "1789550708.383549",
       "pitao": "U899GA893",
       "ceka_odgovor_od": ["US38XUCMV"],
       "tip": "zadatak",
-      "sazetak": "Tija da javi novi datum i lokaciju za teambuilding; rekla da finalizuje 16.09, jos nema potvrde svima.",
-      "broj_prijava": 1,
-      "napomena": "Nova stavka. Sonja je 16.09. u 11:25 trazila da se doda zadatak za novi datum teambuildinga (postojeci je u sukobu sa WOW-om), a Milos je isto jutro napisao 'Tijana ce javiti svima za teambuilding, mislim da jos lomi mozak oko toga' (ts 1789550744.339669). Tija je kasnije istog dana (13:46, ts 1789559204.343149) javila da trazi prostor 'adekvatan za lose vreme, a ima dobro dvoriste' i da 'trebalo bi danas to sve finalizovati u svakom slucaju' - taj rok (16.09) je prosao bez potvrde u kanalu da je datum/lokacija zaista finalizovana i saopstena svima, zato je oznaceno large_yellow_circle. Plan za sledeci run: proveriti da li je Tija objavila konacan datum/lokaciju bilo u kanalu bilo u threadu njene poruke (ts 1789559204.343149); ako jeste, zatvoriti sa citatom; ako opet cuti, razmotriti da li rok postaje ozbiljan problem s obzirom da se WOW (27.09) i teambuilding preklapaju po logistici (Sonja bira da hendla WOW umesto da dodje)."
+      "sazetak": "Tija da javi novi datum i lokaciju za teambuilding; rok bio 16.09, jos nema potvrde svima.",
+      "broj_prijava": 2,
+      "napomena": "Tija je 17.09 pisala opsirno o povratku iz Novog Sada, folikulima i planovima za narednu nedelju (rekruting/timbilling sastanak sa Gru i Aleksandrom), ali NIJE ni pomenula datum ili lokaciju teambuildinga - ni u glavnom kanalu ni u threadu njene ranije poruke o trazenju prostora (ts 1789559204.343149, i dalje bez odgovora). Rok je bio 16.09 ('trebalo bi danas to sve finalizovati u svakom slucaju'), sad visi 2 radna dana. S obzirom da Tija ima medicinsku intervenciju petak/vikend i gust raspored sledece nedelje (NS put ponedeljak, mozda), realno je da ovo padne niz njene prioritete. Podsetnik: Sonjina originalna poruka je nudila alternativu ('meni je skroz ok da ja hendlam wow i ne dodjem') ako se datum ne resi. Plan za sledeci run: proveriti da li se datum/lokacija pojavila bilo gde u kanalu ili u threadu ts 1789559204.343149; ako opet nema pomaka do srede 23.09, otvoreno pitati da li treba jednostavno otkazati/odloziti teambuilding umesto dalje cekati konkretan datum, s obzirom da se i WOW (27.09) i Tijine medicinske obaveze preklapaju sa tim periodom."
     }
   ],
   "zatvorene_stavke": [
