@@ -1,33 +1,15 @@
 {
-  "poslednji_obradjen_ts": "1789661056.548549",
-  "poslednji_run": "2026-09-18T07:07:54Z",
+  "poslednji_obradjen_ts": "1789973946.142349",
+  "poslednji_run": "2026-09-21T07:06:12Z",
   "otvorene_stavke": [
     {
-      "ts": "1789137965.007879",
-      "pitao": "U1T2LF7GD",
-      "ceka_odgovor_od": ["U899GA893"],
+      "ts": "1789727423.759589",
+      "pitao": "U1T2FE5CY",
+      "ceka_odgovor_od": [],
       "tip": "zadatak",
-      "sazetak": "Sonja (preuzela od janqla) da javi koliko VIP pozivnica imamo za WOW da se podele klijentima (A1 tim).",
-      "broj_prijava": 4,
-      "napomena": "Danas (17.09, 09:14) je janql napisao u kanalu 'Sonja je preuzela sve za WOW' (ts 1789629288.554709), samostalna poruka bez threada i bez eksplicitnog pojasnjenja da li to ukljucuje i konkretno VIP pozivnice ili samo operativne 'WOW karte' pomenute ranije (16.09, ts 1789550686.386039 - 'Sonja je sada vlasnik taska za WOW karte'). Kako WOW event dolazi 27.09, a pitanje broja VIP pozivnica JOS NIJE odgovoreno (thread na originalnoj poruci ts 1789137965.007879 i dalje ima samo Gruovu staru reakciju 'strava ideja' od 11.09, nema novog sadrzaja), preneo sam ceka_odgovor_od sa janqla (U1T2FE5CY) na Sonju (U899GA893). Zadrzao sam originalni ts kao anchor za brojanje dana jer se sustinski upit (broj pozivnica) jos NIJE resio - promenjen je samo vlasnik, ne i sadrzaj pitanja, pa ovo NIJE tretirano kao zatvoreno. Ovo je sad 5. uzastopni radni dan da visi, prvi put je presla :warning: prag (>=5 radnih dana). Plan za sledeci run: (1) proveriti da li je Sonja javila konkretan broj VIP pozivnica bilo u kanalu bilo u threadu originalne poruke; (2) ako ni posle promene vlasnika ne bude pomeranja do ~22.09 (nedelju dana pred event 27.09), eskalirati direktno Milosu jer rok WOW-a opasno blizi; (3) uzgred proveriti da li 'WOW karte' (16.09) i ova VIP pozivnica tema uopste jesu ista stvar - jos nije potvrdjeno eksplicitno."
-    },
-    {
-      "ts": "1789467808.171349",
-      "pitao": "U08NVRXT2BY",
-      "ceka_odgovor_od": ["U6USJ8LCD"],
-      "tip": "pitanje",
-      "sazetak": "Milja da odgovori Gru kako Rada da plati hotel za Žinića i kako da joj se vrate pare za avionsku kartu.",
-      "broj_prijava": 4,
-      "napomena": "Cetvrto uzastopno prijavljivanje bez ikakvog pomeranja. Thread (ts 1789467808.171349) je i dalje potpuno prazan (nema odgovora), a tema (Rada / Zinic / hotel / avionska karta) se nije pomenula NIGDE u kanalu tokom 16. i 17.09 - ni u glavnom kanalu ni u ijednom threadu koji sam procitao. Ovo je operativno hitno jer je Rada vec platila avionsku kartu iz svog dzepa i ceka 20+ dana na povracaj, a sad ne zeli da placa i hotel iz svog. Plan za sledeci run: ako Milja opet ne odgovori do sledeceg jutra, eskalirati direktno tako sto se u poruci tagne Milja ZAJEDNO sa Milosem (npr '<@Milja> + <@Milos> - Rada fizicki ceka, i dalje bez odgovora') umesto cistog cekanja treceg kruga; takodje razmotriti mogucnost da je Gru ovo u medjuvremenu resio telefonom/mimo kanala pa je tema zapravo mrtva, u kom slucaju bi trebalo direktno pitati Gru da potvrdi status pre nego sto se dalje eskalira."
-    },
-    {
-      "ts": "1789550708.383549",
-      "pitao": "U899GA893",
-      "ceka_odgovor_od": ["US38XUCMV"],
-      "tip": "zadatak",
-      "sazetak": "Tija da javi novi datum i lokaciju za teambuilding; rok bio 16.09, jos nema potvrde svima.",
-      "broj_prijava": 2,
-      "napomena": "Tija je 17.09 pisala opsirno o povratku iz Novog Sada, folikulima i planovima za narednu nedelju (rekruting/timbilling sastanak sa Gru i Aleksandrom), ali NIJE ni pomenula datum ili lokaciju teambuildinga - ni u glavnom kanalu ni u threadu njene ranije poruke o trazenju prostora (ts 1789559204.343149, i dalje bez odgovora). Rok je bio 16.09 ('trebalo bi danas to sve finalizovati u svakom slucaju'), sad visi 2 radna dana. S obzirom da Tija ima medicinsku intervenciju petak/vikend i gust raspored sledece nedelje (NS put ponedeljak, mozda), realno je da ovo padne niz njene prioritete. Podsetnik: Sonjina originalna poruka je nudila alternativu ('meni je skroz ok da ja hendlam wow i ne dodjem') ako se datum ne resi. Plan za sledeci run: proveriti da li se datum/lokacija pojavila bilo gde u kanalu ili u threadu ts 1789559204.343149; ako opet nema pomaka do srede 23.09, otvoreno pitati da li treba jednostavno otkazati/odloziti teambuilding umesto dalje cekati konkretan datum, s obzirom da se i WOW (27.09) i Tijine medicinske obaveze preklapaju sa tim periodom."
+      "sazetak": "Janql da zavrsi predlog New Biz BP, obecao da ce se posvetiti tome u ponedeljak (21.09).",
+      "broj_prijava": 1,
+      "napomena": "Poruka od 18.09 (petak, ts 1789727423.759589): janql je najavio 'Ja cu se onda posvetiti u ponedeljak da imamo New Biz BP', <@Tija> je tagovana samo da joj kaze da ne mora biti prisutna za sastanak istog dana u 15h - to tagovanje NIJE vezano za BP rok. Ponedeljak (21.09) je danas, i do trenutka ovog runa (jutro 21.09) nema nikakve potvrde u kanalu da je New Biz BP zavrsen ili podeljen - poslednje poruke jutros (Sonja 'saga privesci gotova', Milja 'yoo im backo') ne pominju BP uopste. Nema eksplicitno navedenog ceka_odgovor_od jer je ovo samodeklarisani zadatak bez konkretnog trazioca odgovora u tekstu poruke. Moguca veza (NEPOTVRDJENA): Milosева poruka od 20.09 (ts 1789901536.250479) opisuje novu poslovnu priliku Mafin Store (dizajn, logo, pakovanje, guidelines za prostor, skroman budzet ali 'jako inspirativno', 3x fire reakcija) - moguce je da je New Biz BP bas za tog klijenta, ali to nigde nije eksplicitno receno, pa se ne tretira kao ista stavka. Odmah posle (ts 1789901565.484259) Milos je napisao samostalnu poruku 'Nije rok zategnut' bez vidljivog pitanja na koje odgovara - verovatno nastavak razgovora van kanala, ne otvara novu stavku. Plan za sledeci run: (1) proveriti da li je janql tokom dana 21.09 podelio BP u kanalu ili threadu; (2) ako do sledeceg jutra i dalje nema pomeranja, pitati direktno da li je BP gotov; (3) ako se ikad eksplicitno potvrdi da je BP vezan za Mafin Store i da neko trazi da/ne za preuzimanje tog klijenta, otvoriti posebnu stavku tipa 'odluka' za to - za sada Milosova poruka o Mafin Store NIJE otvorena stavka jer ne sadrzi eksplicitno pitanje, samo deljenje prilike uz pozitivne reakcije."
     }
   ],
   "zatvorene_stavke": [
@@ -58,6 +40,27 @@
       "vlasnici": ["U1T2LF7GD", "US38XUCMV"],
       "datum_zatvaranja": "2026-09-16",
       "kako": "Milos je 16.09. u 10:11 napisao: 'Milosev i Tijanin task vezan za team building - done. Tija organizuje dalje. Nije vise otvoren task ovde.' Zatvoreno izjavom jednog od dvoje zaduzenih da je stvar zavrsena; Tija dalje samostalno organizuje logistiku."
+    },
+    {
+      "ts": "1789137965.007879",
+      "sazetak": "Sonja (preuzela od janqla) da javi koliko VIP pozivnica imamo za WOW da se podele klijentima (A1 tim).",
+      "vlasnici": ["U899GA893"],
+      "datum_zatvaranja": "2026-09-18",
+      "kako": "Milos je 18.09. u 09:39 napisao u kanalu: 'Sonja ce javiti za VIP pozivnice, to smo resili i vise nije task za ovaj forum, mozemo ga ukloniti sa liste.' (ts 1789717180.276539). Eksplicitna odluka vlasnika teme da se stavka uklanja sa liste - resenje dogovoreno van kanala (verovatno usmeno/telefonom), a Milos je potvrdio zatvaranje. Stavka je visila ukupno 5 radnih dana pre eksplicitnog zatvaranja (prvi put presla warning prag pre zatvaranja)."
+    },
+    {
+      "ts": "1789467808.171349",
+      "sazetak": "Milja da odgovori Gru kako Rada da plati hotel za Zinica i kako da joj se vrate pare za avionsku kartu.",
+      "vlasnici": ["U6USJ8LCD", "U08NVRXT2BY"],
+      "datum_zatvaranja": "2026-09-18",
+      "kako": "Gru je 18.09. u 09:29 napisao: 'Milja i Gru zavrsen dogovor kako platiti hotel Zinicu. reseno.' (ts 1789716598.479409). Eksplicitna potvrda da je dogovor postignut direktno izmedju Milje i Grua - i pitanje o hotelu i pitanje o povracaju avionske karte za Radu tretirano je kao reseno istom porukom, iako avionska karta nije pojedinacno pomenuta u potvrdi. Stavka je visila 4 uzastopna prijavljivanja pre zatvaranja, resenje je doslo dogovorom van kanala."
+    },
+    {
+      "ts": "1789550708.383549",
+      "sazetak": "Tija da javi novi datum i lokaciju za teambuilding; rok bio 16.09, jos nema potvrde svima.",
+      "vlasnici": ["US38XUCMV"],
+      "datum_zatvaranja": "2026-09-18",
+      "kako": "Tija je 18.09. u 16:11 objavila u kanalu: 'DRAGI KLODE (a ok i vi ostali), timbilding je u petak 2. oktobra od 15h na Avali!!!!!' (ts 1789740706.382889), uz link na Instagram lokaciju. Direktan i konkretan odgovor na trazeni datum i lokaciju - naknadna diskusija istog dana (hrana i pice ukljuceni u cenu, oduseljenje tima) potvrdjuje da je predlog prihvacen bez prigovora."
     }
   ]
 }
