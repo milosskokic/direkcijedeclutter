@@ -1,6 +1,6 @@
 {
-  "poslednji_obradjen_ts": "1789973946.142349",
-  "poslednji_run": "2026-09-21T07:06:12Z",
+  "poslednji_obradjen_ts": "1790018260.540729",
+  "poslednji_run": "2026-09-22T07:06:32Z",
   "otvorene_stavke": [
     {
       "ts": "1789727423.759589",
@@ -8,8 +8,26 @@
       "ceka_odgovor_od": [],
       "tip": "zadatak",
       "sazetak": "Janql da zavrsi predlog New Biz BP, obecao da ce se posvetiti tome u ponedeljak (21.09).",
+      "broj_prijava": 2,
+      "napomena": "Poruka od 18.09 (petak): janql najavio 'Ja cu se onda posvetiti u ponedeljak da imamo New Biz BP'. Ponedeljak (21.09) je prosao bez ikakve pomene BP-a u kanalu - ceo dan 21.09 protekao je u pricama o x10 poklonima, Belom dvoru, Mihailo evalu i Nedinom odmoru, ali BP se ne pominje nigde. Original poruka ima reakciju double-check, ALI je ta reakcija od Tije i vezana je za drugi deo iste poruke ('Tija neces biti tu, ali to ti je najmanje bitno') - NIJE potvrda da je BP zavrsen, pa se ne tretira kao zatvaranje po pravilu o reakcijama. Nema threada na originalnoj poruci. Plan za sledeci run: (1) proveriti da li je janql konacno podelio BP tokom 22.09 ili narednih dana; (2) ako do sledeceg jutra i dalje nema pomeranja, direktno ga pitati u poruci sta je sa BP-om jer rok vec kasni; (3) ako visi 5+ radnih dana, staviti :warning:. Napomena o Mafin Store iz proslog runa i dalje NEPOTVRDJENA veza sa BP - nema novih informacija, ne otvara se kao posebna stavka dok se eksplicitno ne potvrdi."
+    },
+    {
+      "ts": "1789978901.257169",
+      "pitao": "U6USJ8LCD",
+      "ceka_odgovor_od": [],
+      "tip": "odluka",
+      "sazetak": "Milja pita da li ima klijenata koji ne mogu da izdrze dan bez service-a, pre nego sto posalje poruku ljudima.",
       "broj_prijava": 1,
-      "napomena": "Poruka od 18.09 (petak, ts 1789727423.759589): janql je najavio 'Ja cu se onda posvetiti u ponedeljak da imamo New Biz BP', <@Tija> je tagovana samo da joj kaze da ne mora biti prisutna za sastanak istog dana u 15h - to tagovanje NIJE vezano za BP rok. Ponedeljak (21.09) je danas, i do trenutka ovog runa (jutro 21.09) nema nikakve potvrde u kanalu da je New Biz BP zavrsen ili podeljen - poslednje poruke jutros (Sonja 'saga privesci gotova', Milja 'yoo im backo') ne pominju BP uopste. Nema eksplicitno navedenog ceka_odgovor_od jer je ovo samodeklarisani zadatak bez konkretnog trazioca odgovora u tekstu poruke. Moguca veza (NEPOTVRDJENA): Milosева poruka od 20.09 (ts 1789901536.250479) opisuje novu poslovnu priliku Mafin Store (dizajn, logo, pakovanje, guidelines za prostor, skroman budzet ali 'jako inspirativno', 3x fire reakcija) - moguce je da je New Biz BP bas za tog klijenta, ali to nigde nije eksplicitno receno, pa se ne tretira kao ista stavka. Odmah posle (ts 1789901565.484259) Milos je napisao samostalnu poruku 'Nije rok zategnut' bez vidljivog pitanja na koje odgovara - verovatno nastavak razgovora van kanala, ne otvara novu stavku. Plan za sledeci run: (1) proveriti da li je janql tokom dana 21.09 podelio BP u kanalu ili threadu; (2) ako do sledeceg jutra i dalje nema pomeranja, pitati direktno da li je BP gotov; (3) ako se ikad eksplicitno potvrdi da je BP vezan za Mafin Store i da neko trazi da/ne za preuzimanje tog klijenta, otvoriti posebnu stavku tipa 'odluka' za to - za sada Milosova poruka o Mafin Store NIJE otvorena stavka jer ne sadrzi eksplicitno pitanje, samo deljenje prilike uz pozitivne reakcije."
+      "napomena": "Prvi put prijavljeno 22.09. Milja je 21.09 u 10:21 najavila 'planiram da ovo posaljem ljudima', podelila screenshot (image.png F0C39FG8Y5Q), pa pitala 'da li imamo neki problem u smislu znamo da neki klijenti ne mogu da izdrze dan bez service-a?'. Niko nije odgovorio na ovo pitanje u ostatku dana 21.09 - razgovor je odmah skrenuo na extracurriculars (Beli dvor, AI panel). Nejasno ko treba da odgovori jer pitanje nije upuceno konkretnoj osobi niti se pominje ime - zato ceka_odgovor_od prazno i u poruci pise 'Nema vlasnika'. Plan za sledeci run: (1) proveriti da li je neko odgovorio Milji u kanalu ili threadu na njenu originalnu poruku; (2) ako Milja u medjuvremenu posalje poruku klijentima bez odgovora, tretirati kao reseno-cutanjem uz napomenu da je poslato bez formalne potvrde; (3) ako niko ne odgovori do petka, razmisliti da li konkretno vezati pitanje za Grua ili Milosa jer oni obicno odlucuju o ovakvim stvarima - za sada nema dovoljno osnova da se neko konkretno imenuje."
+    },
+    {
+      "ts": "1789995217.153149",
+      "pitao": "U08NVRXT2BY",
+      "ceka_odgovor_od": ["U1T2LF7GD"],
+      "tip": "odluka",
+      "sazetak": "Gru pita da li neko zeli da se 12 pari rukavica (u ramovima) poklone nekome; Milos jos nije odlucio.",
+      "broj_prijava": 1,
+      "napomena": "Prvi put prijavljeno 22.09. Gru je 21.09 u 14:53 pitao 'imamo jos 12 pari rukavica koje mogu da se spakuju u ramove. Da li zelite da posaljete nekome?'. Milos je odgovorio 'hmmm moram da razmislim malo' u 14:55 - to NIJE da ni ne, pitanje ostaje otvoreno. Nema daljeg pomena rukavica u ostatku dana 21.09 (poznata prica se nastavila na temu x10 poklona uopste, ali ne konkretno na ovih 12 pari). Plan za sledeci run: (1) proveriti da li je Milos doneo odluku (kome se salju rukavice ili se ne salju); (2) ako i dalje nema odgovora do petka (5 radnih dana), oznaciti sa :warning:; (3) ako se odluka donese van kanala pa neko to potvrdi u kanalu (npr 'poslate rukavice X'), zatvoriti sa citatom potvrde."
     }
   ],
   "zatvorene_stavke": [
