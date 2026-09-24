@@ -1,24 +1,15 @@
 {
-  "poslednji_obradjen_ts": "1790101615.035499",
-  "poslednji_run": "2026-09-23T07:02:57Z",
+  "poslednji_obradjen_ts": "1790233288.621359",
+  "poslednji_run": "2026-09-24T07:05:57Z",
   "otvorene_stavke": [
-    {
-      "ts": "1789727423.759589",
-      "pitao": "U1T2FE5CY",
-      "ceka_odgovor_od": [],
-      "tip": "zadatak",
-      "sazetak": "Janql da zavrsi predlog New Biz BP, obecao da ce se posvetiti tome u ponedeljak (21.09).",
-      "broj_prijava": 3,
-      "napomena": "Prijavljeno trece jutro zaredom (22.09 pa 23.09). Ceo dan 22.09 protekao je u pricama o Pojacalo podcastu, Sanji iz Mola, McCann/Acc Exec preporukama - BP se nigde ne pominje tekstualno. Postoji jedna sumnjiva stavka: janql je 22.09 u 11:31 okacio image.png (F0C3P4SNQGL) bez ikakvog teksta, sa joy reakcijom, ali je uklopljena u niz poruka o Pojacalo podcast epizodi (Gru/Milja/Milos/Tija razgovaraju o podcastu neposredno pre i posle) - kontekst upucuje da je slika vezana za podcast/smeh, ne za BP, pa NIJE tretirana kao dokaz zavrsetka BP-a. Nema threada na originalnoj poruci, nema reakcije osim postojeceg double-check koji je vezan za drugi deo poruke (Tijino odsustvo), ne za BP. Plan za sledeci run: (1) ako do sutra i dalje nema eksplicitnog pomena BP-a, direktno pitati janqla u novoj bot-poruci ili preporuciti nekom da ga direktno tagne jer rok kasni vec 3 radna dana; (2) ako sledeci put visi 5+ radnih dana staviti :warning: umesto :large_yellow_circle:; (3) i dalje proveravati da li slika F0C3P4SNQGL ima vezu sa BP - ako neko eksplicitno referencira tu sliku kao BP predlog, to bi bio dokaz zavrsetka."
-    },
     {
       "ts": "1789978901.257169",
       "pitao": "U6USJ8LCD",
       "ceka_odgovor_od": [],
       "tip": "odluka",
       "sazetak": "Milja pita da li ima klijenata koji ne mogu da izdrze dan bez service-a, pre nego sto posalje poruku ljudima.",
-      "broj_prijava": 2,
-      "napomena": "Drugi put prijavljeno (22.09 pa 23.09). Nema threada na originalnoj poruci (samo slika, bez teksta u threadu). U novim porukama 22.09 nema nikakvog pomena service-a niti klijenata koji ne mogu bez njega - razgovor je isao u pravcu Acc Exec i McCann preporuka, pa Pojacalo podcasta. Milja takodje nije najavila da je poruku poslala klijentima. Ovo je 'odluka' tip po strozem pravilu - cak i da je bilo diskusije, samo eksplicitno da/ne od nekog nadleznog bi zatvorilo stavku, a toga nema. Plan za sledeci run: (1) proveriti da li je Milja u medjuvremenu poslala poruku klijentima bez formalnog odgovora - ako da, zatvoriti kao 'reseno-cutanjem' uz napomenu; (2) i dalje nema jasnog vlasnika koji treba da odgovori (nije tagovan niko konkretno) - ako ni sutra niko ne preuzme, razmisliti o eksplicitnom predlogu da Gru ili Milos odgovore, s obzirom da oni obicno odlucuju ovakve operativne stvari; (3) ako dostigne 5 radnih dana, staviti :warning:."
+      "broj_prijava": 3,
+      "napomena": "Treci put prijavljeno (22.09, 23.09, pa danas 24.09). I dalje nema threada na originalnoj poruci (samo slika, bez teksta). U porukama procitanim danas (od 23.09 09:04 kad je bot poslednji put pisao, do 24.09 ujutru) nema nijednog pomena service-a, klijenata niti da je Milja poslala poruku - razgovor je otisao u pravcu praktikanata (jesu li oke - Tija odgovorila da jeste), budzeta za edukaciju sa Zinicem (sala, joy reakcije), AI PPT-ova i opsteg cavrljanja pre sastanka u 15h. Milja je bila aktivna u kanalu i 23.09 i 24.09 (pisala o praktikantima, budzetu, sastanku) - dakle sigurno je videla bot-ovu poruku od 23.09 09:04 gde je direktno tagovana, ali nije odgovorila na pitanje o service-u niti reagovala checkmarkom na originalnu poruku. To NIJE isto sto i 'reseno cutanjem' za odluka-tip stavku - i dalje nema eksplicitnog da/ne. Vlasnik i dalje nije poznat (niko konkretno receno ko treba da odgovori Milji, nije tagovan niko u originalnoj poruci). Plan za sledeci run: (1) ako ni sutra (25.09, petak) niko ne odgovori, razmisliti da se u samoj bot-poruci eksplicitno predlozi da Gru ili Milos preuzmu odluku, s obzirom da oni obicno resavaju ovakva operativna pitanja (presedan: LSR raspodela, rukavice); (2) ako Milja sama najavi da je poslala poruku klijentima bez formalnog da/ne od nadleznog, to NE zatvara odluka-tip stavku po strozem pravilu - samo zabeleziti kao dodatni kontekst, ne zatvarati; (3) u ponedeljak 28.09 stavka dostize 5 radnih dana (22,23,24,25,28) - tog dana staviti :warning: umesto :grey_question: ako jos visi."
     },
     {
       "ts": "1789995217.153149",
@@ -26,8 +17,8 @@
       "ceka_odgovor_od": ["U1T2LF7GD"],
       "tip": "odluka",
       "sazetak": "Gru pita da li neko zeli da se 12 pari rukavica (u ramovima) poklone nekome; Milos jos nije odlucio.",
-      "broj_prijava": 2,
-      "napomena": "Drugi put prijavljeno (22.09 pa 23.09). Nema threada na originalnoj poruci, nema novih reakcija. Milos nije dao konacan odgovor (poslednje sto je rekao, 21.09, bilo je 'hmmm moram da razmislim malo', sto ostaje otvoreno). U porukama 22.09-23.09 nema nikakvog pomena rukavica. Plan za sledeci run: (1) proveriti da li je Milos dao odgovor (kome se salju ili se ne salju rukavice); (2) ako do petka (kad stavka dostize 5 radnih dana) i dalje nema odgovora, staviti :warning: umesto :grey_question:; (3) ako se odluka donese van kanala pa neko to potvrdi porukom, zatvoriti uz citat potvrde."
+      "broj_prijava": 3,
+      "napomena": "Treci put prijavljeno (22.09, 23.09, pa danas 24.09). Nema threada na originalnoj poruci Grua, nema novih reakcija na nju. U porukama procitanim danas nema nijednog pomena rukavica ili ramova - Milos je pricao o AI PPT-ovima koje neko donosi, delio Instagram reel, i najavio da ce kasniti 10ak minuta na sastanak (poruke od 24.09 08:50-09:01), sto znaci da je aktivan u kanalu ali prosto ne odgovara na ovo konkretno pitanje. Ovo je odluka-tip, pa opsta aktivnost u kanalu ne zatvara stavku bez eksplicitnog da/ne od Milosa. Plan za sledeci run: (1) Milos je vec direktno tagovan u bot-poruci dva puta zaredom bez reakcije - ako ni sutra ne odgovori, razmisliti o kracem dodatnom kontekstu u samoj liniji (npr. napomenuti da rok/odluka kasni) umesto ponovnog cistog tagovanja; (2) u ponedeljak 28.09 stavka dostize 5 radnih dana - staviti :warning: ako jos visi; (3) ako Milos odgovori usmeno/van kanala pa neko to potvrdi porukom u kanalu, zatvoriti uz citat te potvrde."
     }
   ],
   "zatvorene_stavke": [
@@ -93,6 +84,13 @@
       "vlasnici": [],
       "datum_zatvaranja": "2026-09-23",
       "kako": "Tija je odgovorila u threadu 22.09. u 20:24: 'Zaposlio Mccan Davida...' - odgovor da je pozicija vec popunjena, pitanje resila istog dana kad je postavljeno, nije ni uslo u otvorene stavke."
+    },
+    {
+      "ts": "1789727423.759589",
+      "sazetak": "Janql da zavrsi predlog New Biz BP, obecao da ce se posvetiti tome u ponedeljak (21.09).",
+      "vlasnici": ["U1T2FE5CY"],
+      "datum_zatvaranja": "2026-09-24",
+      "kako": "Janql je 23.09. u 09:23:58, direktno ispod bot-ove jutarnje poruke (objavljene 09:04:32 istog dana koja ga je tagovala), napisao u kanalu: 'imali smo BP u petak, gotov je task.' Eksplicitna potvrda vlasnika da je zadatak zavrsen, stigla svega 19 minuta posle bot-ove poruke. Ovo je 'zadatak' tip (ne 'odluka'), pa je eksplicitna potvrda vlasnika dovoljna za zatvaranje bez potrebe za dodatnim da/ne od drugih. Stavka je visila 3 uzastopna prijavljivanja (22.09, 23.09, a danas 24.09 vise ne bi bila prijavljena) pre zatvaranja."
     }
   ]
 }
