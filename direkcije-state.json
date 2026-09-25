@@ -1,6 +1,6 @@
 {
-  "poslednji_obradjen_ts": "1790233288.621359",
-  "poslednji_run": "2026-09-24T07:05:57Z",
+  "poslednji_obradjen_ts": "1790254054.023299",
+  "poslednji_run": "2026-09-25T07:06:15Z",
   "otvorene_stavke": [
     {
       "ts": "1789978901.257169",
@@ -8,8 +8,8 @@
       "ceka_odgovor_od": [],
       "tip": "odluka",
       "sazetak": "Milja pita da li ima klijenata koji ne mogu da izdrze dan bez service-a, pre nego sto posalje poruku ljudima.",
-      "broj_prijava": 3,
-      "napomena": "Treci put prijavljeno (22.09, 23.09, pa danas 24.09). I dalje nema threada na originalnoj poruci (samo slika, bez teksta). U porukama procitanim danas (od 23.09 09:04 kad je bot poslednji put pisao, do 24.09 ujutru) nema nijednog pomena service-a, klijenata niti da je Milja poslala poruku - razgovor je otisao u pravcu praktikanata (jesu li oke - Tija odgovorila da jeste), budzeta za edukaciju sa Zinicem (sala, joy reakcije), AI PPT-ova i opsteg cavrljanja pre sastanka u 15h. Milja je bila aktivna u kanalu i 23.09 i 24.09 (pisala o praktikantima, budzetu, sastanku) - dakle sigurno je videla bot-ovu poruku od 23.09 09:04 gde je direktno tagovana, ali nije odgovorila na pitanje o service-u niti reagovala checkmarkom na originalnu poruku. To NIJE isto sto i 'reseno cutanjem' za odluka-tip stavku - i dalje nema eksplicitnog da/ne. Vlasnik i dalje nije poznat (niko konkretno receno ko treba da odgovori Milji, nije tagovan niko u originalnoj poruci). Plan za sledeci run: (1) ako ni sutra (25.09, petak) niko ne odgovori, razmisliti da se u samoj bot-poruci eksplicitno predlozi da Gru ili Milos preuzmu odluku, s obzirom da oni obicno resavaju ovakva operativna pitanja (presedan: LSR raspodela, rukavice); (2) ako Milja sama najavi da je poslala poruku klijentima bez formalnog da/ne od nadleznog, to NE zatvara odluka-tip stavku po strozem pravilu - samo zabeleziti kao dodatni kontekst, ne zatvarati; (3) u ponedeljak 28.09 stavka dostize 5 radnih dana (22,23,24,25,28) - tog dana staviti :warning: umesto :grey_question: ako jos visi."
+      "broj_prijava": 4,
+      "napomena": "Cetvrti put prijavljeno (22.09, 23.09, 24.09, pa danas 25.09). Original poruka je i dalje bez threada (samo slika, bez teksta), nema reakcija (provereno slack_get_reactions - prazno). U porukama procitanim danas (24.09 10:56 - 14:47, znaci ceo ostatak 24.09) nema NIJEDNOG pomena service-a ili klijenata - razgovor je isao oko toga da li treba slez 'Direkcija Finansija' na janqlovim porukama (resheno, glasanje da), rasporeda za vikend/ponedeljak zbog IAA dogadjaja, i Milosevog izvestaja o razgovoru sa Misom. Niko iz kanala nije ni pomenuo ovu temu, iako su i Gru i Milos i Sonja bili aktivni u kanalu tog dana. Vlasnik i dalje nepoznat. Danas (25.09, petak) sam u samu poruku prvi put dodao predlog da Gru ili Milos preuzmu odluku - videcemo da li to pokrene reakciju. Plan za sledeci run (ponedeljak 28.09): (1) stavka tada dostize 5 radnih dana (22,23,24,25,28) - staviti :warning: umesto :grey_question: ako jos visi, i navesti je u 'Najduze visi' redu; (2) ako i dalje niko ne preuzme, razmisliti da se eksplicitno pita Gru direktno (kao za rukavice) umesto opsteg 'ko preuzima?', jer opsti poziv ocigledno ne funkcionise vec 4 dana; (3) i dalje vazi - opsta aktivnost u kanalu NIJE dovoljna za 'odluka' tip, treba eksplicitno da/ne."
     },
     {
       "ts": "1789995217.153149",
@@ -17,8 +17,17 @@
       "ceka_odgovor_od": ["U1T2LF7GD"],
       "tip": "odluka",
       "sazetak": "Gru pita da li neko zeli da se 12 pari rukavica (u ramovima) poklone nekome; Milos jos nije odlucio.",
-      "broj_prijava": 3,
-      "napomena": "Treci put prijavljeno (22.09, 23.09, pa danas 24.09). Nema threada na originalnoj poruci Grua, nema novih reakcija na nju. U porukama procitanim danas nema nijednog pomena rukavica ili ramova - Milos je pricao o AI PPT-ovima koje neko donosi, delio Instagram reel, i najavio da ce kasniti 10ak minuta na sastanak (poruke od 24.09 08:50-09:01), sto znaci da je aktivan u kanalu ali prosto ne odgovara na ovo konkretno pitanje. Ovo je odluka-tip, pa opsta aktivnost u kanalu ne zatvara stavku bez eksplicitnog da/ne od Milosa. Plan za sledeci run: (1) Milos je vec direktno tagovan u bot-poruci dva puta zaredom bez reakcije - ako ni sutra ne odgovori, razmisliti o kracem dodatnom kontekstu u samoj liniji (npr. napomenuti da rok/odluka kasni) umesto ponovnog cistog tagovanja; (2) u ponedeljak 28.09 stavka dostize 5 radnih dana - staviti :warning: ako jos visi; (3) ako Milos odgovori usmeno/van kanala pa neko to potvrdi porukom u kanalu, zatvoriti uz citat te potvrde."
+      "broj_prijava": 4,
+      "napomena": "Cetvrti put prijavljeno (22.09, 23.09, 24.09, pa danas 25.09). I dalje nema threada ni reakcija na originalnu Gruovu poruku (provereno danas - prazno). U porukama procitanim danas (24.09 10:56-14:47) nema nijednog pomena rukavica/ramova - Milos je bio aktivan (izvestaj o razgovoru sa Misom, ucestvovao u glasanju za slez Direkcija Finansija: 'Hahahahaha jasno je naravno'), sto pokazuje da redovno cita kanal ali svesno ili nesvesno preskace ovo pitanje. Milos je vec dva puta direktno tagovan bez reakcije. Plan za sledeci run (ponedeljak 28.09): (1) stavka tada dostize 5 radnih dana - staviti :warning: i navesti u 'Najduze visi' ako jos visi (bice najstarija zajedno sa service stavkom, ali service stavka je ranija istog dana pa ide prva); (2) ako Milos ni tada ne odgovori, razmisliti da se linija preformulise da eksplicitnije trazi kratak odgovor (npr. 'samo da/ne') umesto standardnog teksta; (3) ako Milos odgovori usmeno/van kanala pa neko potvrdi porukom u kanalu, zatvoriti uz citat te potvrde."
+    },
+    {
+      "ts": "1790243860.785139",
+      "pitao": "U6USJ8LCD",
+      "ceka_odgovor_od": ["U1T2FE5CY"],
+      "tip": "zadatak",
+      "sazetak": "Janql da nadje alternativni termin za BP jer Goxi, Skoki i Milja ne mogu u ponedeljak zbog IAA dogadjaja.",
+      "broj_prijava": 1,
+      "napomena": "Prvi put prijavljeno danas (25.09). Kontekst: Milja je 24.09 u 11:21 primetila da ona, Goxi i Skoki nisu tu za BP u ponedeljak (IAA dogadjaj), Tija je dodala da ni ona sutra (25.09) moze puno jer je u kancu ali ponedeljak vec ima aspiraciju, pa je Janql u 11:57 rekao 'Pronaci cu sutra alternativni termin koji nam odgovara' - obecani rok 'sutra' je 25.09, sto je danasnji dan, zato ulazi u izvestaj kao :large_yellow_circle: (rok je danas) umesto :fast_forward:. U porukama procitanim danas nema jos odgovora od Janqla (poslednja procitana poruka je bila njegovo obecanje od 24.09 11:57 - jos nije ni bio 'sutra' kad su poruke citane). Ovo je 'zadatak' tip, ne 'odluka' - dovoljna ce biti eksplicitna potvrda od Janqla da je nasao/dogovorio novi termin, ili konkretan predlog datuma koji ne dobije prigovor. Plan za sledeci run: (1) proveriti da li je Janql tokom 25.09 predlozio novi termin u kanalu; (2) ako jeste i nema prigovora - zatvoriti; (3) ako jos nije, ostaje :large_yellow_circle: dalje (rok je vec prosao 'sutra' referentnu tacku, obecanje je sad zakasnjeno svakim danom)."
     }
   ],
   "zatvorene_stavke": [
@@ -91,6 +100,13 @@
       "vlasnici": ["U1T2FE5CY"],
       "datum_zatvaranja": "2026-09-24",
       "kako": "Janql je 23.09. u 09:23:58, direktno ispod bot-ove jutarnje poruke (objavljene 09:04:32 istog dana koja ga je tagovala), napisao u kanalu: 'imali smo BP u petak, gotov je task.' Eksplicitna potvrda vlasnika da je zadatak zavrsen, stigla svega 19 minuta posle bot-ove poruke. Ovo je 'zadatak' tip (ne 'odluka'), pa je eksplicitna potvrda vlasnika dovoljna za zatvaranje bez potrebe za dodatnim da/ne od drugih. Stavka je visila 3 uzastopna prijavljivanja (22.09, 23.09, a danas 24.09 vise ne bi bila prijavljena) pre zatvaranja."
+    },
+    {
+      "ts": "1790240163.633599",
+      "sazetak": "Janql pita da li treba da stavi slez 'Direkcija Finansija' na svoje poruke, da bude jasnije zasto pita za sve umesto Daxa.",
+      "vlasnici": ["U1T2FE5CY"],
+      "datum_zatvaranja": "2026-09-25",
+      "kako": "Pitanje postavljeno 24.09. u 10:56, resheno istog dana u threadu: Sonja 11:15 'Glasam za!', Gru 11:27 'ne vidim problem da dodas', Milos 11:30 'Hahahahaha jasno je naravno', Tija 11:34 'Ja sam za' - visestruko eksplicitno da unutar par sati, nije ni uslo u otvorene stavke."
     }
   ]
 }
