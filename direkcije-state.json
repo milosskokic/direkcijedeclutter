@@ -1,33 +1,24 @@
 {
-  "poslednji_obradjen_ts": "1790664052.218909",
-  "poslednji_run": "2026-09-29T07:04:00Z",
+  "poslednji_obradjen_ts": "1790715597.997819",
+  "poslednji_run": "2026-09-30T07:08:29Z",
   "otvorene_stavke": [
     {
-      "ts": "1789978901.257169",
-      "pitao": "U6USJ8LCD",
-      "ceka_odgovor_od": ["U08NVRXT2BY", "U1T2LF7GD"],
-      "tip": "odluka",
-      "sazetak": "Milja pita da li ima klijenata koji ne mogu da izdrze dan bez service-a, pre nego sto posalje poruku ljudima.",
-      "broj_prijava": 6,
-      "napomena": "Sesti put prijavljeno (22.09, 23.09, 24.09, 25.09, 28.09, danas 29.09). Original poruka (21.09, samo slika bez teksta) i dalje bez threada i bez reakcija (slack_get_reactions - prazno, provereno ponovo danas). Procitao sam sve nove poruke od 28.09 09:06 (posle proslog bota) do danas 29.09 08:40 - kanal je bio pun drugih tema (janqlov heads-up o veceri sa predavacem IAA-a, diskusija o filmu/festivalu RE:MARK, Gruova povreda - diskus hernija, Miljino pitanje o Misi, Milosev komentar o jucerasnjem IAA dogadjaju) i NIJEDNOM se nije pomenuo service ili klijenti. Prvi put danas sam pored Grua dodao i Milosa u ceka_odgovor_od i u sam tekst poruke (spojeno sa '+'), tacno po planu iz prethodnog runa - test da li dvostruko tagovanje pokrene odgovor. Oba - i Gru i Milos - su bili aktivni u kanalu u ovom periodu (Gru je pricao o svojoj povredi, Milos je komentarisao IAA dogadjaj) pa se ne moze reci da ne vide kanal. Stavka je sada na 6 radnih dana, i dalje najduza otvorena stavka pa je opet u 'Najduze visi'. Plan za sledeci run (sreda 30.09 ili sledeci radni dan): (1) ako ni dvostruko tagovanje ne upali, sledeci korak je da se pitanje preformulise eksplicitno kao 'samo da ili ne' u samom tekstu, kao sto radimo za rukavice; (2) i dalje vazi - opsta aktivnost u kanalu NIJE dovoljna za zatvaranje, treba eksplicitno da/ne od Grua ili Milosa, ili potvrda da je Milja vec poslala poruku; (3) na sedmom ili osmom prijavljivanju razmisliti o eskalaciji formulacije jos vise, na desetom o 'napusteno' statusu ako i dalje nema reakcije."
-    },
-    {
-      "ts": "1789995217.153149",
-      "pitao": "U08NVRXT2BY",
-      "ceka_odgovor_od": ["U1T2LF7GD"],
-      "tip": "odluka",
-      "sazetak": "Gru pita da li neko zeli da se 12 pari rukavica (u ramovima) poklone nekome; Milos jos nije odlucio.",
-      "broj_prijava": 6,
-      "napomena": "Sesti put prijavljeno (22.09, 23.09, 24.09, 25.09, 28.09, danas 29.09). I dalje nema threada ni reakcija na originalnu Gruovu poruku (provereno danas - prazno). Danas sam prvi put promenio formulaciju u samoj poruci na eksplicitno 'samo da ili ne', tacno po planu iz prethodnog runa, umesto standardne recenice - test da li direktnija formulacija upali tamo gde standardna nije uspela tri puta zaredom. Milos je bio aktivan u kanalu i danas (dve poruke ujutru o IAA dogadjaju) pa redovno cita kanal, ali opet nije reagovao na rukavice iako je sad direktno tagovan cetvrti put. Stavka je na 6 radnih dana, u warningu, ali NIJE 'najduze visi' jer je service-stavka (ts 1789978901) starija za nekoliko sati istog dana. Plan za sledeci run: (1) ako 'samo da ili ne' formulacija ne upali ni sad, razmisliti da se Miloseva odgovornost eksplicitno objasni (npr. 'ako ne odgovoris do petka, rukavice ostaju u magacinu') - blaga eskalacija tona bez preterivanja; (2) i dalje ako Milos odgovori usmeno/van kanala pa neko potvrdi porukom u kanalu, zatvoriti uz citat te potvrde; (3) ako ovo i service-stavka nastave paralelno da vise bez pomaka, razmotriti da li Milos i Gru sistematski preskacu :grey_question: pitanja u ovom kanalu uopste - moglo bi znaciti da kanal nije mesto gde oni ocekuju da im se postavljaju pitanja, vredi to proveriti direktno sa njima van automatizacije."
-    },
-    {
-      "ts": "1790584651.046699",
-      "pitao": "U6USJ8LCD",
-      "ceka_odgovor_od": [],
+      "ts": "1790677761.373539",
+      "pitao": "U1T2LF7GD",
+      "ceka_odgovor_od": ["U1T2FE5CY"],
       "tip": "pitanje",
-      "sazetak": "Milja pita da li Misa radi danas, nije na prozivci ni na Sleku; primetila je i da joj ne odgovara na tagovanje u Maybelline sleku.",
+      "sazetak": "Milos pita Goksija da li je sredio spisak primalaca za poklon rukavice ili je spisak ostao u drugom chatu.",
       "broj_prijava": 1,
-      "napomena": "Prvi put prijavljeno danas (29.09). Poruka poslata 28.09 u 10:37, dobila jednu question reakciju ali nijedan tekstualni odgovor ni u kanalu ni u threadu (thread je prazan). 'Misa' nije clan roster-a za ovaj kanal (nije medju osam poznatih imena), pa nisam mogao da odredim ko treba da odgovori - moguce je da je u pitanju neko van direkcije tima ciji je meridzer neko od poznatih clanova, ali to se ne vidi iz konteksta. Zato je oznaceno 'Nema vlasnika' sa 'ko preuzima?' na kraju. Plan za sledeci run: (1) ako neko u kanalu pomene Misu ili odgovori na pitanje (bilo direktno bilo posredno, npr. 'Misa je bolestan' ili slicno), zatvoriti; (2) ako niko ne reaguje ni sutra, razmisliti da li ovo uopste spada u delokrug ovog kanala (moguce da je pitanje vise za neki drugi kanal/HR, ne za direkciju) - ako se cini da nije relevantno za direkcije, razmotriti da se ne prijavljuje vise puta bez jasnog vlasnika; (3) ne izmisljati vlasnika, cekati da neko iz konteksta postane ocigledan kandidat."
+      "napomena": "Prvi put prijavljeno danas (30.09). Poruka poslata 29.09. u 12:29:21, direktno posle zatvaranja stare rukavice-odluke stavke istim tokom poruka (Milos je u istom nizu poruka prvo zatvorio service stavku, pa se okrenuo rukavicama, pa Misi). Goksi (janql) nije odgovorio nigde u kanalu niti u threadu (nema thread-a na ovoj poruci, nema reakcija). Ovo je operativni nastavak stare 'odluka' stavke o poklanjanju rukavica (ts 1789995217.153149) - ta stavka je danas zatvorena na osnovu implicitne potvrde da je odluka pala (poklanjamo ih), a ovo je sledece, uze pitanje u nizu (kome konkretno, i da li je spisak vec sredjen ili je zaglavljen u drugom chatu 'gde smo nabacali'). Plan za sledeci run: (1) ako Goksi odgovori bilo gde u kanalu (spisak je gotov / spisak je u drugom chatu i salje ga ovde) - zatvoriti uz citat te potvrde; (2) ako se ne javi 5+ radnih dana, razmotriti direktno tagovanje sa 'samo da ili ne' formulacijom, isto kao sto je uradjeno za prethodnu (sad zatvorenu) rukavice stavku kad standardna formulacija nije upalila; (3) paziti da se ne pomesa sa starom zatvorenom stavkom o samoj odluci poklanjanja - ovo je novo, uze operativno pitanje o logistici, ne o tome da li se poklanja."
+    },
+    {
+      "ts": "1790680131.390389",
+      "pitao": "U08NVRXT2BY",
+      "ceka_odgovor_od": [],
+      "tip": "odluka",
+      "sazetak": "Gru pita da li agencija ove godine ide na SoMo festival (postoji 10% popust na karte); niko nije dao tim-odluku da ili ne.",
+      "broj_prijava": 1,
+      "napomena": "Prvi put prijavljeno danas (30.09). Gru je pitanje postavio 29.09. u 13:08:51 ('da li idemo ove godine tamo? Bila je prica oko minglovanja na CRO trzistu... imamo 10% popusta na kupovinu karata'). Thread ima 4 replike: Sonja (29.09 13:10) kaze da ona mora da ide jer je u ziriju i trazi jos nekog da ide sa njom; Gru (29.09 13:33) kaze da bi isao ako ima mogucnosti; Sonja je danas (30.09 05:30) pitala Grua da li je ponuda povoljnija od one koju je on video, Gru je odgovorio (30.09 07:38) sa detaljima o akciji 3+2 koju on vidi na linku. Diskusija je aktivna i u toku (nastavlja se i danas ujutru), ali NIKO nije dao eksplicitnu tim-odluku da li se ide na SoMo festival niti ko sve ide - Sonja ide licno zbog zirija, to nije potvrda timske/budzetske odluke. Nisam mogao da odredim jasnog vlasnika/donosioca odluke (niko nije tagovan u originalnoj poruci, nije jasno da li je ovo budzetska odluka za Milosa ili operativna stvar za Grua kao organizatora/predlagaca), zato 'Nema vlasnika'. Plan za sledeci run: (1) ako Milos ili neko sa budzetskim autoritetom kaze da/ne za tim odlazak, zatvoriti; (2) ako se diskusija Sonja/Gru oko cene nastavi ali i dalje bez formalne tim-odluke, pratiti dalje, a posle par dana razmisliti da li Gru kao pokretac teme postaje podrazumevani vlasnik pitanja umesto 'nema vlasnika'; (3) ovo je fresh stavka (dan 1), ne zuriti sa eskalacijom formulacije."
     }
   ],
   "zatvorene_stavke": [
@@ -86,6 +77,27 @@
       "vlasnici": ["U1T2FE5CY"],
       "datum_zatvaranja": "2026-09-28",
       "kako": "Janql je obecao 24.09. u 11:57 'Pronaci cu sutra alternativni termin koji nam odgovara', sto je prijavljeno 25.09. kao :large_yellow_circle: (rok danas). Istog jutra, 25.09. u 09:14:54 - svega 8 minuta posle bot-ove poruke od 09:06:15 - janql je napisao u kanalu: 'Svi mozete u sredu u 1330h. Sonja i Milja imaju nesto od 15h, ali ovo bi trebalo da bude light sastanak, tako da cu prebaciti MR.' (ts 1790320494.414949), sa 4 reakcije white_check_mark od kolega. Eksplicitan konkretan predlog termina (sreda 13:30) plus potvrda reakcijama da je prihvacen - 'zadatak' tip zatvoren istog dana kad je dobio :large_yellow_circle: oznaku. Stavka je bila prijavljena samo jednom (25.09) pre zatvaranja."
+    },
+    {
+      "ts": "1789978901.257169",
+      "sazetak": "Milja pita da li ima klijenata koji ne mogu da izdrze dan bez service-a, pre nego sto posalje poruku ljudima.",
+      "vlasnici": ["U08NVRXT2BY", "U1T2LF7GD"],
+      "datum_zatvaranja": "2026-09-29",
+      "kako": "Milos je 29.09. u 12:29:07 napisao u kanalu, direktno ispod bot-ove jutarnje poruke (objavljene 09:05:16 istog dana): 'Gru i milos -odlucili smo, ovaj task mozes da skloni.' (ts 1790677747.541069). Milos je jedan od dvoje ljudi iz ceka_odgovor_od (Gru i Milos), i njegova poruka je eksplicitna potvrda da je odluka doneta i da stavku treba ukloniti sa liste. Stigla je za manje od 3.5 sata posle bot-ove poruke - najbrze zatvaranje ove stavke posle sest uzastopnih prijavljivanja (22.09-29.09)."
+    },
+    {
+      "ts": "1789995217.153149",
+      "sazetak": "Gru pita da li neko zeli da se 12 pari rukavica (u ramovima) poklone nekome; Milos jos nije odlucio.",
+      "vlasnici": ["U1T2LF7GD"],
+      "datum_zatvaranja": "2026-09-29",
+      "kako": "Milos je 29.09. u 12:29:21, odmah posle poruke o service-u i pre poruke o Misi (u istom nizu poruka direktno ispod bot-ove objave), napisao: 'Rukavice, Goksi jesi ti sredio spisak ili je ostalo na onom chatu gde smo nabacali' (ts 1790677761.373539). Ovo NIJE eksplicitno 'da' ili 'ne' na pitanje da li rukavice poklanjamo, ali Milos (jedini iz ceka_odgovor_od) time tretira odluku kao vec donetu (da, poklanjamo) i prelazi na logistiku - trazenje spiska primalaca. Zatvoreno na osnovu ove implicitne potvrde, posle sest uzastopnih prijavljivanja standardne pa 'samo da ili ne' formulacije. OPREZ za sledeci run: ovo je inferencija, ne eksplicitna potvrda - ako se ispostavi da je pogresno protumaceno (npr. neko kasnije kaze da odluka jos nije pala), treba vratiti u otvorene_stavke. Iz ove iste poruke odmah je otvoreno novo operativno pitanje (da li je Goksi sredio spisak primalaca) koje je upisano kao nova otvorena stavka."
+    },
+    {
+      "ts": "1790584651.046699",
+      "sazetak": "Milja pita da li Misa radi danas, nije na prozivci ni na Sleku; primetila je i da joj ne odgovara na tagovanje u Maybelline sleku.",
+      "vlasnici": [],
+      "datum_zatvaranja": "2026-09-29",
+      "kako": "Milos je 29.09. u 12:29:31 napisao, direktno posle poruke o rukavicama: 'Misa radi uredno, skloni to sa liste, resili smo.' (ts 1790677771.261929). Potpuno eksplicitna potvrda - Misa redovno radi, pitanje resheno. Postavljeno 28.09, prijavljeno prvi put 29.09 ujutru, zatvoreno istog popodneva - samo jedno prijavljivanje pre zatvaranja."
     }
   ]
 }
