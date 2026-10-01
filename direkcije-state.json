@@ -1,6 +1,6 @@
 {
-  "poslednji_obradjen_ts": "1790715597.997819",
-  "poslednji_run": "2026-09-30T07:08:29Z",
+  "poslednji_obradjen_ts": "1790838183.894469",
+  "poslednji_run": "2026-10-01T07:15:00Z",
   "otvorene_stavke": [
     {
       "ts": "1790677761.373539",
@@ -8,17 +8,36 @@
       "ceka_odgovor_od": ["U1T2FE5CY"],
       "tip": "pitanje",
       "sazetak": "Milos pita Goksija da li je sredio spisak primalaca za poklon rukavice ili je spisak ostao u drugom chatu.",
-      "broj_prijava": 1,
-      "napomena": "Prvi put prijavljeno danas (30.09). Poruka poslata 29.09. u 12:29:21, direktno posle zatvaranja stare rukavice-odluke stavke istim tokom poruka (Milos je u istom nizu poruka prvo zatvorio service stavku, pa se okrenuo rukavicama, pa Misi). Goksi (janql) nije odgovorio nigde u kanalu niti u threadu (nema thread-a na ovoj poruci, nema reakcija). Ovo je operativni nastavak stare 'odluka' stavke o poklanjanju rukavica (ts 1789995217.153149) - ta stavka je danas zatvorena na osnovu implicitne potvrde da je odluka pala (poklanjamo ih), a ovo je sledece, uze pitanje u nizu (kome konkretno, i da li je spisak vec sredjen ili je zaglavljen u drugom chatu 'gde smo nabacali'). Plan za sledeci run: (1) ako Goksi odgovori bilo gde u kanalu (spisak je gotov / spisak je u drugom chatu i salje ga ovde) - zatvoriti uz citat te potvrde; (2) ako se ne javi 5+ radnih dana, razmotriti direktno tagovanje sa 'samo da ili ne' formulacijom, isto kao sto je uradjeno za prethodnu (sad zatvorenu) rukavice stavku kad standardna formulacija nije upalila; (3) paziti da se ne pomesa sa starom zatvorenom stavkom o samoj odluci poklanjanja - ovo je novo, uze operativno pitanje o logistici, ne o tome da li se poklanja."
+      "broj_prijava": 2,
+      "napomena": "Drugi uzastopni run bez odgovora (29.09 -> 30.09 -> danas 01.10). Thread na originalnoj poruci je i dalje prazan (No thread messages), nema reakcija, i u svim novim porukama od 30.09 09:13 do 01.10 09:03 Goksi (janql) se javljao samo o drugim temama (letnja skola reklame, BP, direkcije ponedeljak/cetvrtak) - ni rec o rukavicama ili spisku. Visi sada 2 radna dana (30.09 i 01.10). Plan za sledeci run: (1) ako Goksi odgovori bilo gde - zatvoriti uz citat; (2) ako i sutra (petak, 02.10) prodje bez odgovora, stavka ulazi u 3. uzastopni dan prijave - razmotriti direktno tagovanje sa prostom 'samo da ili ne' formulacijom u samoj poruci (kao sto je ranije uradjeno za slicnu stavku o samoj odluci poklanjanja rukavica); (3) i dalje paziti da se ne pomesa sa vec zatvorenom 'odluka' stavkom o tome da li se rukavice uopste poklanjaju - ovo je uze, operativno pitanje o samom spisku."
     },
     {
-      "ts": "1790680131.390389",
-      "pitao": "U08NVRXT2BY",
+      "ts": "1790757820.423029",
+      "pitao": "U6USJ8LCD",
+      "ceka_odgovor_od": ["U899GA893"],
+      "tip": "pitanje",
+      "sazetak": "Milja pita Sonju koliki je ukupan trosak za SoMo festival, da bi mogla da posalje finalnu potvrdu odlaska.",
+      "broj_prijava": 1,
+      "napomena": "Prvi put prijavljeno danas (01.10). Kontekst: u threadu na staroj 'odluka' stavki (ts 1790680131, Gru pita da li idemo na SoMo) Sonja je 29.09 rekla da ce ici zbog zirija i trazila jos nekog da ide s njom, Gru je rekao da bi isao 'ako imamo mogucnost'. Milja je 30.09 ujutru (09:08:54) eksplicitno presekla: 'e za Somo, ja sam za to da idu Sonja i Gru' - ovim je originalno pitanje da li se uopste ide RESENO (zatvoreno u ovom runu, vidi zatvorene_stavke). Odmah posle toga Milja je napisala da ceka budzet od Daxa i da joj otezava sto 'vise nemamo onu tabelicu', pa je u 10:43:40 direktno tagovala Sonju: 'javnite mi koliko je trosak za somo ukupno, msm da cemo biti fine!!!' (ts 1790757820). Sonja je PRE ovog tagovanja (09:09:29) vec dala delimican broj - 'Ja imam ulaznicu, Gruu mogu da uzmem za 139evra + put&smestaj' - ali to je bilo pre Miljinog eksplicitnog pitanja za UKUPAN trosak u 10:43, i posle toga Sonja nije odgovorila niti u ostatku dana 30.09 niti danas 01.10. Milja je takodje rekla 'do kraja dana saljem finalnu potvrdu' (11:11:50, 30.09) - taj rok je protekao bez vidljive finalne potvrde u kanalu. Plan za sledeci run: (1) ako Sonja javi ukupan broj (verovatno oko 139e + put/smestaj + njena karta) - zatvoriti; (2) ako Milja posalje 'finalnu potvrdu' bez da Sonja prethodno eksplicitno odgovori ovde, to racunati kao implicitno zatvaranje (Milja je vlasnik odluke o budzetu); (3) ne mesati sa vec zatvorenom stavkom o samoj odluci da li se ide."
+    },
+    {
+      "ts": "1790783839.249299",
+      "pitao": "U1T2LF7GD",
+      "ceka_odgovor_od": ["U08NVRXT2BY"],
+      "tip": "zadatak",
+      "sazetak": "Gru treba da prenese kako je izgledao njegov 1:1 razgovor sa Nikolom, pre zajednickog statusnog sastanka; obecao da pise posle ili sutra.",
+      "broj_prijava": 1,
+      "napomena": "Prvi put prijavljeno danas (01.10). Kontekst 30.09 17:45-17:57: Tija je pitala 'Kako ke bilo na sastanku sa nutrinom sad?', Milos je odgovorio opisujuci ton sastanka ('pristojno, konstruktivno, kao neki status meet... Nikola pokusava da se vrati u procese, da uhvati konce') - TO pitanje je time odgovoreno i ne prijavljuje se. Ali Milos je odmah dodao da 'Gru treba da prenese kako je njihov razgovor izgleda, prvo je imao 1:1 sa njim' (ts 1790783386) - misleci na Gruov poseban 1:1 razgovor sa Nikolom PRE grupnog sastanka, koji jos nije ispricao timu. Gru je na to odgovorio (17:57:19, ts 1790783839): 'na snimanju sam sad, pa pisem posle ili sutra' (reakcija double-check od nekoga ko je verovatno samo potvrdio da je video poruku, ne sustinski odgovor). 'Sutra' u odnosu na 30.09 je danas (01.10), rok je dakle stigao, a od tada do sada (01.10 09:03) Gru nije pisao nista o ovom razgovoru - javljao se samo o rasporedu direkcija. Plan za sledeci run: (1) ako Gru ispise recap 1:1 razgovora - zatvoriti uz citat; (2) ako prodje i petak (02.10) bez odgovora, razmotriti da se Gru direktno tagne sa podsetnikom; (3) paziti da se ne pomesa sa vec odgovorenim pitanjem o samom Nutrino/status sastanku."
+    },
+    {
+      "ts": "1790836965.963099",
+      "pitao": "U6USJ8LCD",
       "ceka_odgovor_od": [],
       "tip": "odluka",
-      "sazetak": "Gru pita da li agencija ove godine ide na SoMo festival (postoji 10% popust na karte); niko nije dao tim-odluku da ili ne.",
-      "broj_prijava": 1,
-      "napomena": "Prvi put prijavljeno danas (30.09). Gru je pitanje postavio 29.09. u 13:08:51 ('da li idemo ove godine tamo? Bila je prica oko minglovanja na CRO trzistu... imamo 10% popusta na kupovinu karata'). Thread ima 4 replike: Sonja (29.09 13:10) kaze da ona mora da ide jer je u ziriju i trazi jos nekog da ide sa njom; Gru (29.09 13:33) kaze da bi isao ako ima mogucnosti; Sonja je danas (30.09 05:30) pitala Grua da li je ponuda povoljnija od one koju je on video, Gru je odgovorio (30.09 07:38) sa detaljima o akciji 3+2 koju on vidi na linku. Diskusija je aktivna i u toku (nastavlja se i danas ujutru), ali NIKO nije dao eksplicitnu tim-odluku da li se ide na SoMo festival niti ko sve ide - Sonja ide licno zbog zirija, to nije potvrda timske/budzetske odluke. Nisam mogao da odredim jasnog vlasnika/donosioca odluke (niko nije tagovan u originalnoj poruci, nije jasno da li je ovo budzetska odluka za Milosa ili operativna stvar za Grua kao organizatora/predlagaca), zato 'Nema vlasnika'. Plan za sledeci run: (1) ako Milos ili neko sa budzetskim autoritetom kaze da/ne za tim odlazak, zatvoriti; (2) ako se diskusija Sonja/Gru oko cene nastavi ali i dalje bez formalne tim-odluke, pratiti dalje, a posle par dana razmisliti da li Gru kao pokretac teme postaje podrazumevani vlasnik pitanja umesto 'nema vlasnika'; (3) ovo je fresh stavka (dan 1), ne zuriti sa eskalacijom formulacije."
+      "sazetak": "Tim treba da odluci koga saljemo na Kaktus Talents (Mica Stefanovic, Marko ili Mihajlo) pre nego sto se prijave zatvore.",
+      "broj_prijava": 0,
+      "prijavi_od": "2026-10-02",
+      "napomena": "NIJE prijavljeno danas - rok je eksplicitno 'do sutra' (02.10, petak), sto je tek u buducnosti u odnosu na danasnji run (01.10), pa po pravilu stavku treba cuvati u state-u ali NE prijavljivati dok rok ne prodje. Kontekst celog niza (01.10 08:41-09:03): Milja je pokrenula temu 'kaktus talents', rekla da su prijave otvorene i da pita Micu Stefanovica i Marka da rade na tome; Aleksandar je u threadu rekao da je Marko tu jos sledece nedelje pa 'ako se uklapa tajming, sto da ne'; Milja je pojasnila da se radi online (ne zahteva uzivo prisustvo) i da bi raditi od ponedeljka do srede; Milja je takodje pomenula alternativu Mihajla ('malo je cray cray ali vidim da mogu da se dobro snadju Mica i on'); Milos je rekao da mu je super da bude Mihajlo i da je Marko isto super ako moze; Milja je zatim eksplicitno upozorila da prijave 'uskoro i zatvaraju, tako da moramo da se dogovorimo do sutra'. Poslednja poruka u threadu (09:02:53) je Miljino OTVORENO pitanje 'da li to moze u kontekstu dizajn zadataka?' - jos bez odgovora. Nema jasnog pojedinacnog vlasnika kome ceka_odgovor_od pripada - ovo je kolektivna odluka tima (pominju se Milos, Aleksandar, Milja kao ucesnici), zato je ceka_odgovor_od prazna lista za sada. Plan za sledeci run (02.10, petak): (1) ako do tada stigne jasna odluka (ko konkretno ide - Marko/Mica i/ili Mihajlo) - zatvoriti kao reseno bez ikad prijavljivanja; (2) ako rok prodje (02.10) bez odluke - PRIJAVITI prvi put tog dana kao :large_yellow_circle: (rok je danas/prosao), sa 'visi 0 dana' ili preracunato od ts originalne poruke (01.10); (3) ako se dogovor nastavi i u ponedeljak, paziti da se vlasnik razjasni (verovatno Milja kao pokretac + Aleksandar/Milos kao ucesnici) umesto da ostane 'Nema vlasnika' predugo."
     }
   ],
   "zatvorene_stavke": [
@@ -98,6 +117,13 @@
       "vlasnici": [],
       "datum_zatvaranja": "2026-09-29",
       "kako": "Milos je 29.09. u 12:29:31 napisao, direktno posle poruke o rukavicama: 'Misa radi uredno, skloni to sa liste, resili smo.' (ts 1790677771.261929). Potpuno eksplicitna potvrda - Misa redovno radi, pitanje resheno. Postavljeno 28.09, prijavljeno prvi put 29.09 ujutru, zatvoreno istog popodneva - samo jedno prijavljivanje pre zatvaranja."
+    },
+    {
+      "ts": "1790680131.390389",
+      "sazetak": "Gru pita da li agencija ove godine ide na SoMo festival (postoji 10% popust na karte); niko nije dao tim-odluku da ili ne.",
+      "vlasnici": [],
+      "datum_zatvaranja": "2026-10-01",
+      "kako": "Milja je 30.09. u 09:08:54 napisala u kanalu (ts 1790752134.318099): 'e za Somo, ja sam za to da idu Sonja i Gru' - eksplicitna odluka od Milje (koja je u istoj niti poruka pokazala budzetski autoritet - 'samo cekam od Daxa da vidim gde smo sa budzetom'). Ovo je prva eksplicitna da/ne na originalno pitanje 'da li idemo ove godine na SoMo' - odgovor je DA, idu Sonja (zbog zirija) i Gru. Napomena: originalni ceka_odgovor_od je bio prazan ('Nema vlasnika'), pa iako Milja nije bila formalno u toj listi, njena izjava funkcionise kao tim-odluka jer ona ocigledno drzi budzetsku stranu ove odluke. Iz iste niti poruka odmah se otvorilo uze, operativno pitanje (koliko tacno kosta/ukupan trosak) koje je upisano kao nova otvorena stavka - decision (da li ici) i execution detail (koliko kosta) su razdvojeni po istom principu kao ranija rukavice stavka."
     }
   ]
 }
