@@ -1,15 +1,15 @@
 {
-  "poslednji_obradjen_ts": "1791318503.919219",
-  "poslednji_run": "2026-10-07T07:06:04Z",
+  "poslednji_obradjen_ts": "1791391521.717689",
+  "poslednji_run": "2026-10-08T07:05:49Z",
   "otvorene_stavke": [
     {
-      "ts": "1791205041.591179",
-      "pitao": "U08NVRXT2BY",
-      "ceka_odgovor_od": ["U08NVRXT2BY", "U6USJ8LCD", "US38XUCMV", "U1T2FE5CY"],
+      "ts": "1791385243.846799",
+      "pitao": "US38XUCMV",
+      "ceka_odgovor_od": [],
       "tip": "zadatak",
-      "sazetak": "Gru pita da li tim zeli 'direkcije pre direkcija' i kada ima vremena; pokusaj dogovora termina za 05.10 propao.",
-      "broj_prijava": 2,
-      "napomena": "Drugi uzastopni run bez pomaka (06.10 -> 07.10). U periodu 06.10 08:59 - 06.10 22:28 (sve novo procitane poruke danasnjeg runa) NIJE se pojavila nijedna poruka koja pominje 'direkcije pre direkcija', novi termin, ili bilo koju od cetiri imenovane osobe (Gru, Milja, Tija, janql) u ovom kontekstu - cak ni u duzoj diskusiji o finansijama/profitabilnosti ili Gruovom UniCredit recapu tema nije dodirnuta. Thread na originalnoj poruci (ts 1791205041.591179) i dalje prazan, nema reakcija. Plan za sledeci run: (1) ako se pojavi nov konkretan termin ili makar nagovestaj da je tema jos ziva - pratiti i zatvoriti cim neko od cetvoro potvrdi; (2) ako run 08.10 ili 09.10 opet prodje bez ikakvog pomaka, razmotriti da li je tema prirodno zamrla (mozda je 'obicna' direkcija vec pokrila isto, ili je prioritet pao zbog losije finansijske situacije pomenute 06.10) - u tom slucaju pri sledecem prijavljivanju eksplicitnije pitati 'da li je ovo jos aktuelno?'; (3) broj_prijava je sad 2, jos nije blizu praga za 'napusteno' (10 prijava), nastaviti standardno pracenje bez dodatne eskalacije."
+      "sazetak": "Tija trazi da se na direkcijama popricha o parkingu kod zmije - po njenom istrazivanju to sto radimo je ilegalno (rizik kazni za firmu i za svakog ko tu stane). Sama nece biti prisutna.",
+      "broj_prijava": 1,
+      "napomena": "Prvi put prijavljeno 08.10. Poruka je poslata 07.10. u 17:00:43, upucena celom timu ('pliz porazgovarajte') bez konkretnog tagovanog vlasnika - Tija sama kaze da nece biti prisutna sutra (tj. na direkcijama 08.10.), pa ne moze da bude vlasnik izvrsenja. Nema indikacije u procitanim porukama (do 07.10. 18:45) da je tema diskutovana na sastanku - sastanak se verovatno odrzava tokom dana 08.10, posle trenutka citanja. Oznaceno kao 'Nema vlasnika' jer se ne moze pouzdano odrediti ko konkretno treba da pokrene/zakljuci temu na sastanku; rok (direkcije 08.10.) je danas, zato large_yellow_circle a ne buducnost. Plan za sledeci run: proveriti da li je neko u kanalu posle sastanka 08.10. preneo zakljucak (npr. 'resili smo parking' ili slicno) - ako da, zatvoriti uz citat. Ako run 09.10. ili kasnije opet prodje bez pomaka, razmotriti da se eksplicitno pita ko preuzima temu (npr. tagovati Gru kao organizatora sastanka) umesto generickog 'Nema vlasnika'. Posto je ovo prvi put da je 'Nema vlasnika' upotrebljeno za ovu stavku, nije jos relevantno pravilo o 'Svi' dva puta zaredom, ali ako ostane bez imenovanog vlasnika dva runa, razbiti na konkretna imena ako se do tad pojave u diskusiji."
     }
   ],
   "zatvorene_stavke": [
@@ -131,6 +131,13 @@
       "vlasnici": [],
       "datum_zatvaranja": "2026-10-07",
       "kako": "Pitanje je viselo 4 uzastopna prijavljivanja (01.10-06.10) bez ijednog da/ne od sest imenovanih (Milos, Sonja, Milja, janql, Gru, Tija). Zatvoreno kao bespredmetno: Aleksandar je sam 06.10. u 22:05:57 napisao u kanalu (povodom bolesti supruge Sanje): 'ja cu ove sedmice malo vise raditi od kuce... Naravno, dolazim u kanc za bilo koji sastanak, direkcije, sve regularne.' Time je sam pitalac eksplicitno izjavio da NE preskace sastanke/direkcije, cime originalno pitanje (da li sme da preskoci) postaje bespredmetno nezavisno od formalnog odgovora tima. Napomena za buducnost: ako se slican zahtev za preskakanje ponedeljaka zbog Holcima ponovo pojavi, otvoriti kao novu stavku - ovo zatvaranje se odnosi samo na ovu konkretnu, vec nadmasenu situaciju."
+    },
+    {
+      "ts": "1791205041.591179",
+      "sazetak": "Gru pita da li tim zeli 'direkcije pre direkcija' i kada ima vremena; pokusaj dogovora termina za 05.10 propao.",
+      "vlasnici": ["U08NVRXT2BY", "U6USJ8LCD", "US38XUCMV", "U1T2FE5CY"],
+      "datum_zatvaranja": "2026-10-08",
+      "kako": "Gru je 07.10. u 09:12:38 napisao u kanalu, direktno ispod bot-ove jutarnje poruke koja je ovu stavku prijavila: 'dogovor oko termina za direkcije nije vise otvorena stavka'. Eksplicitna izjava vlasnika (jednog od cetvoro iz ceka_odgovor_od) da je tema zatvorena - bez obzira da li je dogovoren konkretan termin ili je tema odustala, formalno vise ne ceka odgovor. Visilo ukupno 3 uzastopna prijavljivanja (05.10 kad je postavljeno pa indirektno, 06.10, 07.10) pre nego sto je zatvoreno dan posle poslednjeg prijavljivanja."
     }
   ]
 }
