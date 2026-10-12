@@ -1,7 +1,17 @@
 {
-  "poslednji_obradjen_ts": "1791491615.506549",
-  "poslednji_run": "2026-10-09T07:05:06Z",
-  "otvorene_stavke": [],
+  "poslednji_obradjen_ts": "1791788584.131099",
+  "poslednji_run": "2026-10-12T07:05:49Z",
+  "otvorene_stavke": [
+    {
+      "ts": "1791782966.480239",
+      "pitao": "U899GA893",
+      "ceka_odgovor_od": ["U6USJ8LCD"],
+      "tip": "zadatak",
+      "sazetak": "Otici i javiti se Ani i Ivoni (Lorealke iznajmljuju nasu zmiju danas i sutra od 9h).",
+      "broj_prijava": 0,
+      "napomena": "Sonja je 12.10. u 07:29 pitala da li moze da zamoli janql-a ili Milju da odu da se jave Ani i Ivoni povodom iznajmljivanja zmije od strane Lorealke (danas i sutra). janql je odgovorio istog jutra u 09:03: 'Ja ni ne znam ko su Ana i Ivona, pa ako Milja ide I hope we good' - ovo NIJE potvrda da je neko otisao, samo deflekcija ka Milji bez njene potvrde. Mihailo je vec na licu mesta i docekuje ih za sve sto im zatreba, pa je rizik nizak, ali pitanje Sonje ('da li mogu da zamolim nekog da ode') formalno nije dobilo da/ne. Ovo je otkriveno istog jutra kad je bot run izvrsen (razgovor se odvijao 07:29-09:03, run u 09:03) pa stavka jos 'ne visi' nijedan radni dan - zato NIJE prijavljena u danasnjoj poruci (broj_prijava=0). Plan za sledeci run: proveriti da li je Milja (ili neko drugi) u medjuvremenu potvrdila da je otisla/da je obavljeno (direktno u kanalu ili reakcijom). Ako da - zatvoriti. Ako ne - ovo postaje prva prijava (large_yellow_circle jer je rok 'danas/sutra' vec u toku), racunati 'visi 1 dan' od sutra (13.10.) naovamo."
+    }
+  ],
   "zatvorene_stavke": [
     {
       "ts": "1790082647.663559",
@@ -128,6 +138,13 @@
       "vlasnici": [],
       "datum_zatvaranja": "2026-10-09",
       "kako": "janql je 08.10. u 14:17:04 napisao u kanalu (tagovao Tiju): 'Pricali smo o parkiranju ispred Zmije. Ukratko: Ok nam je da rizikujemo kaznu. Individualno cemo platiti kaznu ako neko dobije. Nasiroko mozemo uzivo, da ne kucam sad sve detalje.' Ovo je bio 'zadatak' tip (diskutovati na sastanku i preneti zakljucak), ne formalna 'odluka' koja bi trazila eksplicitno da/ne od konkretnog vlasnika - sam zadatak (odrzati diskusiju i javiti ishod) je time izvrsen i ishod saopsten. Prijavljeno samo jednom (08.10.) pre zatvaranja 09.10. Napomena: ako neko kasnije ospori ovaj dogovor ili zatrazi formalnu odluku o parkingu, otvoriti kao novu, zasebnu stavku tipa 'odluka'."
+    },
+    {
+      "ts": "1791565757.537959",
+      "sazetak": "Milja pita Sonju ('socko') da li moze da bude njen glasnogovornik na sastanku koji se poklapa (da se syncuju pre i posle, i Sonja doda misljenje naknadno).",
+      "vlasnici": ["U899GA893"],
+      "datum_zatvaranja": "2026-10-12",
+      "kako": "Sonja je odgovorila u threadu 09.10. u 19:14:37, svega 5 minuta kasnije, jednom recju: 'moze'. Eksplicitno da, pitanje resheno istog dana kad je postavljeno, nije ni uslo u otvorene stavke."
     }
   ]
 }
