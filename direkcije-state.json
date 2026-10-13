@@ -1,25 +1,27 @@
 {
-  "poslednji_obradjen_ts": "1791788584.131099",
-  "poslednji_run": "2026-10-12T07:05:49Z",
+  "poslednji_obradjen_ts": "1791874922.616549",
+  "poslednji_run": "2026-10-13T07:05:48Z",
   "otvorene_stavke": [
     {
-      "ts": "1791782966.480239",
+      "ts": "1791809934.087719",
+      "pitao": "U6USJ8LCD",
+      "ceka_odgovor_od": [],
+      "tip": "pitanje",
+      "sazetak": "Da li prijavljujemo X10 na UEPS (korporativni i interni PR)?",
+      "broj_prijava": 1,
+      "napomena": "Milja je 12.10. u 14:58:54 postavila pitanje u kanalu bez ikakvog taga: 'Da prijavimo X10 na UEPS? Korporativni i interni PR?'. Nema thread-a, nema reakcija, niko nije odgovorio ni da ni ne do kraja dana niti jutros (13.10.) pre runa. Proveren ceo ostatak dana 12.10. (transkripti, KreDe najava, Zmija saga, putovanje Tije) - nijedna poruka se ne vraca na ovu temu. Prijavljeno danas prvi put kao 'Nema vlasnika' jer se iz konteksta ne moze zakljuciti ko bi trebalo da odlucuje o prijavi na UEPS (nije jasno da li je to Sonja/marketing, Milja sama, ili ceo tim) - zato je u poruci tagovana samo Milja (pitao) uz 'ko preuzima?'. Plan za sledeci run: proveriti da li je neko odgovorio direktno u kanalu ili reakcijom na ovu poruku ili na danasnju bot-objavu. Ako se tokom dana pojavi ime konkretne osobe koja treba da odgovori (npr. neko ko se bavi PR/nagradama), pri sledecem prijavljivanju dodati je u ceka_odgovor_od umesto 'Nema vlasnika'."
+    },
+    {
+      "ts": "1791874910.312949",
       "pitao": "U899GA893",
-      "ceka_odgovor_od": ["U6USJ8LCD"],
+      "ceka_odgovor_od": ["U1T2FE5CY"],
       "tip": "zadatak",
-      "sazetak": "Otici i javiti se Ani i Ivoni (Lorealke iznajmljuju nasu zmiju danas i sutra od 9h).",
+      "sazetak": "janql (i Sonja) treba da odu i jave se Zorani Antic i Ani Smileskoj u Zmiji, kad Mihailo javi da su stigle.",
       "broj_prijava": 0,
-      "napomena": "Sonja je 12.10. u 07:29 pitala da li moze da zamoli janql-a ili Milju da odu da se jave Ani i Ivoni povodom iznajmljivanja zmije od strane Lorealke (danas i sutra). janql je odgovorio istog jutra u 09:03: 'Ja ni ne znam ko su Ana i Ivona, pa ako Milja ide I hope we good' - ovo NIJE potvrda da je neko otisao, samo deflekcija ka Milji bez njene potvrde. Mihailo je vec na licu mesta i docekuje ih za sve sto im zatreba, pa je rizik nizak, ali pitanje Sonje ('da li mogu da zamolim nekog da ode') formalno nije dobilo da/ne. Ovo je otkriveno istog jutra kad je bot run izvrsen (razgovor se odvijao 07:29-09:03, run u 09:03) pa stavka jos 'ne visi' nijedan radni dan - zato NIJE prijavljena u danasnjoj poruci (broj_prijava=0). Plan za sledeci run: proveriti da li je Milja (ili neko drugi) u medjuvremenu potvrdila da je otisla/da je obavljeno (direktno u kanalu ili reakcijom). Ako da - zatvoriti. Ako ne - ovo postaje prva prijava (large_yellow_circle jer je rok 'danas/sutra' vec u toku), racunati 'visi 1 dan' od sutra (13.10.) naovamo."
+      "napomena": "Nastavak price o LOreal gostima u Zmiji (prethodna stavka od 12.10. zatvorena danasnjim run-om jer je janql substantivno odgovorio 12.10. u 14:39 objasnjavajuci da su on i Milja bili tamo ali nisu upali na predavanje, i planirali rucak za 'sutra'). Jutros (13.10.) u 09:01:50 Sonja je otvorila novi krug: tagovala je janql-a i rekla da su JUCE u Zmiji bile josh dve osobe - Zorana Antic i Ana Smileska - i da treba da im se jave, a Mihailo ce je obavestiti kad stignu (sledeci put). U 09:02:02 je dodala da gosti imaju ketering narucen pa ne mogu na rucak napolju - cime je stari plan 'pozovimo ih na rucak' postao bespredmetan, zamenjen jednostavnim 'javicemo se kad stignu'. Stavka je otkrivena istog jutra kad je run izvrsen (09:01-09:02, run u 07:05 UTC = 09:05 CEST) pa jos ne visi nijedan radni dan - zato NIJE prijavljena danas (broj_prijava=0), isto kao i prethodni slican slucaj. Plan za sledeci run: proveriti da li je Mihailo javio da su gosti stigli i da li su se janql/Sonja javili - ako da, substantivan odgovor (npr. 'javili smo se') zatvara stavku. Ako ne, ovo postaje prva prijava tipa zadatak, verovatno large_yellow_circle jer je 'rok' zapravo neodredjen/uslovljen dogadjajem a ne konkretnim danom - razmotriti grey_question umesto toga ako do sledeceg runa ne bude jasnog roka."
     }
   ],
   "zatvorene_stavke": [
-    {
-      "ts": "1790082647.663559",
-      "sazetak": "Milja pita da li imamo medior/senior kopirajtera za McCann da preporucimo.",
-      "vlasnici": [],
-      "datum_zatvaranja": "2026-09-23",
-      "kako": "Tija je odgovorila u threadu 22.09. u 20:24: 'Zaposlio Mccan Davida...' - odgovor da je pozicija vec popunjena, pitanje resila istog dana kad je postavljeno, nije ni uslo u otvorene stavke."
-    },
     {
       "ts": "1789727423.759589",
       "sazetak": "Janql da zavrsi predlog New Biz BP, obecao da ce se posvetiti tome u ponedeljak (21.09).",
@@ -145,6 +147,13 @@
       "vlasnici": ["U899GA893"],
       "datum_zatvaranja": "2026-10-12",
       "kako": "Sonja je odgovorila u threadu 09.10. u 19:14:37, svega 5 minuta kasnije, jednom recju: 'moze'. Eksplicitno da, pitanje resheno istog dana kad je postavljeno, nije ni uslo u otvorene stavke."
+    },
+    {
+      "ts": "1791782966.480239",
+      "sazetak": "Sonja pita da li janql ili Milja mogu da odu i jave se Ani i Ivoni (Lorealke iznajmljuju Zmiju 12-13.10.).",
+      "vlasnici": ["U1T2FE5CY"],
+      "datum_zatvaranja": "2026-10-13",
+      "kako": "janql je 12.10. u 14:39:42 napisao u kanalu (tagovao Sonju, 're: LOreal'): 'Bili smo Milja i ja do zmije ali smo shvatili da je bash glupo da sad upadnemo jer ljudi verovatno imaju neko predavanje. U isto vreme shvatili smo da je najbolje verovatno da ih pozovemo na rucak da pitamo da li su organizovali rucak pa da li zele sa nama sutra.' Substantivan odgovor - objasnjava sta su uradili i sledeci korak - dovoljan je za 'zadatak' tip stavke (nije 'odluka' koja bi trazila strogo da/ne). Napomena: tema se 13.10. nastavila novim krugom (Sonja trazi da se jave jos dvema osobama, Zorani i Ani Smileskoj) - to je upisano kao potpuno nova stavka jer je originalni, konkretan zahtev (javiti se Ani i Ivoni) ispunjen onoliko koliko je moglo, a novi zahtev ima nove ljude i nov okidac (Mihailova najava)."
     }
   ]
 }
