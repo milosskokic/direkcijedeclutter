@@ -1,6 +1,6 @@
 {
-  "poslednji_obradjen_ts": "1791874922.616549",
-  "poslednji_run": "2026-10-13T07:05:48Z",
+  "poslednji_obradjen_ts": "1791961439.797689",
+  "poslednji_run": "2026-10-14T07:08:06Z",
   "otvorene_stavke": [
     {
       "ts": "1791809934.087719",
@@ -8,17 +8,35 @@
       "ceka_odgovor_od": [],
       "tip": "pitanje",
       "sazetak": "Da li prijavljujemo X10 na UEPS (korporativni i interni PR)?",
-      "broj_prijava": 1,
-      "napomena": "Milja je 12.10. u 14:58:54 postavila pitanje u kanalu bez ikakvog taga: 'Da prijavimo X10 na UEPS? Korporativni i interni PR?'. Nema thread-a, nema reakcija, niko nije odgovorio ni da ni ne do kraja dana niti jutros (13.10.) pre runa. Proveren ceo ostatak dana 12.10. (transkripti, KreDe najava, Zmija saga, putovanje Tije) - nijedna poruka se ne vraca na ovu temu. Prijavljeno danas prvi put kao 'Nema vlasnika' jer se iz konteksta ne moze zakljuciti ko bi trebalo da odlucuje o prijavi na UEPS (nije jasno da li je to Sonja/marketing, Milja sama, ili ceo tim) - zato je u poruci tagovana samo Milja (pitao) uz 'ko preuzima?'. Plan za sledeci run: proveriti da li je neko odgovorio direktno u kanalu ili reakcijom na ovu poruku ili na danasnju bot-objavu. Ako se tokom dana pojavi ime konkretne osobe koja treba da odgovori (npr. neko ko se bavi PR/nagradama), pri sledecem prijavljivanju dodati je u ceka_odgovor_od umesto 'Nema vlasnika'."
+      "broj_prijava": 2,
+      "napomena": "Drugi uzastopni run bez odgovora (12.10. postavljeno, 13.10. i 14.10. prijavljivano). Thread na originalnoj poruci je prazan (0 replies), nema reakcija. Pregledane sve nove poruke 13.10-14.10 (izvestaj Milje o UEPS/Kaktus, Isidora tema, A1 feedback, Nutrino update, kreativni tim recap, Empple/Kaktus event najave, novi budzetski problem) - nijedna ne pominje X10 ni UEPS PR prijavu. I dalje nejasno ko bi trebalo da odlucuje (Milja koja je pitala, Sonja kao marketing, ili ceo tim) pa ostaje 'Nema vlasnika'. Plan za sledeci run: ako do petka (16.10.) niko ne odgovori, razmotriti direktno tagovanje Sonje (marketing/PR fokus) umesto 'Nema vlasnika', i pomenuti da pitanje visi vec nedelju dana."
     },
     {
-      "ts": "1791874910.312949",
-      "pitao": "U899GA893",
-      "ceka_odgovor_od": ["U1T2FE5CY"],
-      "tip": "zadatak",
-      "sazetak": "janql (i Sonja) treba da odu i jave se Zorani Antic i Ani Smileskoj u Zmiji, kad Mihailo javi da su stigle.",
+      "ts": "1791890253.299519",
+      "pitao": "US38XUCMV",
+      "ceka_odgovor_od": ["U1T2LF7GD"],
+      "tip": "pitanje",
+      "sazetak": "Da li je bilo nesto neocekivano na feedback sesiji sa Majom iz A1?",
+      "broj_prijava": 1,
+      "napomena": "Nova stavka. Milos je 13.10. u 13:17:00 najavio 'Imao sam feedback sesiju sa Majom iz A1, prenesem vam sve na narednim direkcijama.' Tija ga je odmah (13:17:33) pitala 'nesto neocekivano?' i Milos nije odgovorio - razgovor je skrenuo na Gruovu Nutrino poruku istog minuta. Nema reakcija na Tijinu poruku, nema naknadnog odgovora u ostatku 13.10. ni jutros 14.10. Plan za sledeci run: proveriti da li je Milos odgovorio direktno Tiji u kanalu ili threadu; ako je odgovoreno uzivo na direkcijama (van Slacka) to se nece videti ovde, pa ako stavka visi 3+ dana razmotriti napomenu da je moguce da je odgovoreno uzivo na sastanku pre nego sto se eskalira."
+    },
+    {
+      "ts": "1791961439.797689",
+      "pitao": "U6USJ8LCD",
+      "ceka_odgovor_od": [],
+      "tip": "odluka",
+      "sazetak": "Budzet za festivale u H2 manji nego najavljeno - sta raditi sa Zutim pantalonama, UEPS i Balcannes kartama?",
       "broj_prijava": 0,
-      "napomena": "Nastavak price o LOreal gostima u Zmiji (prethodna stavka od 12.10. zatvorena danasnjim run-om jer je janql substantivno odgovorio 12.10. u 14:39 objasnjavajuci da su on i Milja bili tamo ali nisu upali na predavanje, i planirali rucak za 'sutra'). Jutros (13.10.) u 09:01:50 Sonja je otvorila novi krug: tagovala je janql-a i rekla da su JUCE u Zmiji bile josh dve osobe - Zorana Antic i Ana Smileska - i da treba da im se jave, a Mihailo ce je obavestiti kad stignu (sledeci put). U 09:02:02 je dodala da gosti imaju ketering narucen pa ne mogu na rucak napolju - cime je stari plan 'pozovimo ih na rucak' postao bespredmetan, zamenjen jednostavnim 'javicemo se kad stignu'. Stavka je otkrivena istog jutra kad je run izvrsen (09:01-09:02, run u 07:05 UTC = 09:05 CEST) pa jos ne visi nijedan radni dan - zato NIJE prijavljena danas (broj_prijava=0), isto kao i prethodni slican slucaj. Plan za sledeci run: proveriti da li je Mihailo javio da su gosti stigli i da li su se janql/Sonja javili - ako da, substantivan odgovor (npr. 'javili smo se') zatvara stavku. Ako ne, ovo postaje prva prijava tipa zadatak, verovatno large_yellow_circle jer je 'rok' zapravo neodredjen/uslovljen dogadjajem a ne konkretnim danom - razmotriti grey_question umesto toga ako do sledeceg runa ne bude jasnog roka."
+      "napomena": "Nova stavka, otkrivena istog jutra (14.10. u 09:03:59 CEST) kad je run izvrsen - zato NIJE prijavljena danas (broj_prijava=0), isti presedan kao sa Zmija stavkom 13.10. Milja javlja da joj je Dax rekao da je budzet za festivale u H2 manji nego najavljeno (ostalo 1130e do kraja halfa umesto ocekivanih ~4130e, razlika oko 3000e) i da do kraja halfa ima tri obaveze: Zute pantalone, UEPS i jeftinije karte za Balcannes. Prilozen je i screenshot (image.png). Pitanje 'sta je predlog da radimo' upuceno timu uopsteno, niko eksplicitno tagovan, nije jasno da li finalnu odluku donosi Milja sama, Sonja (budzet/finansije - ona je ranije odgovarala na slicna budzetska pitanja, npr. SoMo trosak) ili Milos. Plan za sledeci run: proveriti da li je neko odgovorio (najverovatnije Sonja ili Milos); ako do sledeceg runa niko ne odgovori, prijaviti kao 'odluka' sa grey_question i 'Nema vlasnika - ko preuzima?', ili direktno tagovati Sonju ako se njeno ime pojavi u daljem kontekstu finansija."
+    },
+    {
+      "ts": "1791891035.893259",
+      "pitao": "U08NVRXT2BY",
+      "ceka_odgovor_od": [],
+      "tip": "zadatak",
+      "sazetak": "Gru da do kraja nedelje (16.10.) prodje Nutrino taskove sa Milicom i Milosem i definise svaki task.",
+      "broj_prijava": 0,
+      "napomena": "Nova stavka, nije prijavljena danas jer rok ('do kraja nedelje') jos nije prosao (danas je sreda 14.10., rok najkasnije petak 16.10.). Gru je 13.10. u 13:30:35 detaljno izvestio o predaji Nutrino projekta (Milica, Milos i Rada preuzimaju kao jedan scope bez podele na digital/kreativu; obavestio Misu, Skrbu, Sanju treba jos da sazna preko MM agende, Rada jos nije obavestena licno) i naveo plan: 'plan je da do kraja nedelje prodjem sve sa Milicom i Milosem, da definisemo svaki task'. Samoinicijativni rok bez eksplicitnog pitaoca - pracen kao zadatak sa vlasnikom Gru. Plan za sledeci run: ako prodje petak 16.10. bez potvrde da je 'prolazak kroz taskove' zavrsen, prijaviti kao large_yellow_circle sa <@U08NVRXT2BY> kao vlasnikom; ako se pre toga pojavi potvrda u kanalu, zatvoriti."
     }
   ],
   "zatvorene_stavke": [
@@ -154,6 +172,13 @@
       "vlasnici": ["U1T2FE5CY"],
       "datum_zatvaranja": "2026-10-13",
       "kako": "janql je 12.10. u 14:39:42 napisao u kanalu (tagovao Sonju, 're: LOreal'): 'Bili smo Milja i ja do zmije ali smo shvatili da je bash glupo da sad upadnemo jer ljudi verovatno imaju neko predavanje. U isto vreme shvatili smo da je najbolje verovatno da ih pozovemo na rucak da pitamo da li su organizovali rucak pa da li zele sa nama sutra.' Substantivan odgovor - objasnjava sta su uradili i sledeci korak - dovoljan je za 'zadatak' tip stavke (nije 'odluka' koja bi trazila strogo da/ne). Napomena: tema se 13.10. nastavila novim krugom (Sonja trazi da se jave jos dvema osobama, Zorani i Ani Smileskoj) - to je upisano kao potpuno nova stavka jer je originalni, konkretan zahtev (javiti se Ani i Ivoni) ispunjen onoliko koliko je moglo, a novi zahtev ima nove ljude i nov okidac (Mihailova najava)."
+    },
+    {
+      "ts": "1791874910.312949",
+      "sazetak": "janql (i Sonja) treba da odu i jave se Zorani Antic i Ani Smileskoj u Zmiji, kad Mihailo javi da su stigle.",
+      "vlasnici": ["U1T2FE5CY"],
+      "datum_zatvaranja": "2026-10-14",
+      "kako": "Sonja je 13.10. u 09:42:09 javila u threadu: 'Ja sam bila, pozdravila se sa njima, ali deluje mi kao da su bas fokusirane i da im se ne druzi, nego zure sa edukacijom', a u 09:42:59 dodala da je Ana rekla 'sve super i da nista ne fali, odlicno im je kod nas'. janql je u 09:46:26 zakljucio 'Pa OK da ne cackamo mecku. Odnosno dve mecke direktorke hehe' - eksplicitna odluka da se dalje ne insistira na kontaktu jer su gosti fokusirane na svoju agendu (reorganizacija timova) i sve je vec pozitivno receno."
     }
   ]
 }
