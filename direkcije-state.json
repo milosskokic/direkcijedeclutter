@@ -1,6 +1,6 @@
 {
-  "poslednji_obradjen_ts": "1791961439.797689",
-  "poslednji_run": "2026-10-14T07:08:06Z",
+  "poslednji_obradjen_ts": "1792044759.985359",
+  "poslednji_run": "2026-10-15T07:07:25Z",
   "otvorene_stavke": [
     {
       "ts": "1791809934.087719",
@@ -8,8 +8,8 @@
       "ceka_odgovor_od": [],
       "tip": "pitanje",
       "sazetak": "Da li prijavljujemo X10 na UEPS (korporativni i interni PR)?",
-      "broj_prijava": 2,
-      "napomena": "Drugi uzastopni run bez odgovora (12.10. postavljeno, 13.10. i 14.10. prijavljivano). Thread na originalnoj poruci je prazan (0 replies), nema reakcija. Pregledane sve nove poruke 13.10-14.10 (izvestaj Milje o UEPS/Kaktus, Isidora tema, A1 feedback, Nutrino update, kreativni tim recap, Empple/Kaktus event najave, novi budzetski problem) - nijedna ne pominje X10 ni UEPS PR prijavu. I dalje nejasno ko bi trebalo da odlucuje (Milja koja je pitala, Sonja kao marketing, ili ceo tim) pa ostaje 'Nema vlasnika'. Plan za sledeci run: ako do petka (16.10.) niko ne odgovori, razmotriti direktno tagovanje Sonje (marketing/PR fokus) umesto 'Nema vlasnika', i pomenuti da pitanje visi vec nedelju dana."
+      "broj_prijava": 3,
+      "napomena": "Treci uzastopni run bez odgovora (12.10. postavljeno, prijavljivano 13.10, 14.10, 15.10). Thread na originalnoj poruci i dalje prazan (0 replies), nema reakcija. Pregledane sve nove poruke 14.10-15.10 (budzet za festivale/greska u tablici, diskusija o Somoborac ziriranju, komutiranje/NS saobracaj, najava Milosevog odsustva) - nijedna ne pominje X10 ni UEPS PR prijavu. I dalje nejasno ko odlucuje pa ostaje 'Nema vlasnika'. Plan za sledeci run: sutra (16.10, petak) je rok koji je sam bot sebi postavio u prethodnoj napomeni - ako do tada niko ne odgovori, direktno tagovati Sonju (marketing/PR fokus, ona je i inace odgovarala na slicna pitanja) umesto 'Nema vlasnika', i naglasiti da pitanje visi vec nedelju dana (ako produzi)."
     },
     {
       "ts": "1791890253.299519",
@@ -17,8 +17,8 @@
       "ceka_odgovor_od": ["U1T2LF7GD"],
       "tip": "pitanje",
       "sazetak": "Da li je bilo nesto neocekivano na feedback sesiji sa Majom iz A1?",
-      "broj_prijava": 1,
-      "napomena": "Nova stavka. Milos je 13.10. u 13:17:00 najavio 'Imao sam feedback sesiju sa Majom iz A1, prenesem vam sve na narednim direkcijama.' Tija ga je odmah (13:17:33) pitala 'nesto neocekivano?' i Milos nije odgovorio - razgovor je skrenuo na Gruovu Nutrino poruku istog minuta. Nema reakcija na Tijinu poruku, nema naknadnog odgovora u ostatku 13.10. ni jutros 14.10. Plan za sledeci run: proveriti da li je Milos odgovorio direktno Tiji u kanalu ili threadu; ako je odgovoreno uzivo na direkcijama (van Slacka) to se nece videti ovde, pa ako stavka visi 3+ dana razmotriti napomenu da je moguce da je odgovoreno uzivo na sastanku pre nego sto se eskalira."
+      "broj_prijava": 2,
+      "napomena": "Drugi uzastopni run bez odgovora. Milos je 14.10-15.10 pisao u kanalu nekoliko puta (o Somoborac/effie diskusiji, i 15.10 ujutru o tome da sutra moze da bude samo na pocetku direkcija zbog A1 sastanka u Publicisu) ali nijednom nije pomenuo da li je odgovorio Tiji na pitanje o neocekivanim stvarima sa feedback sesije. Nema reakcija na Tijinu poruku. Plan za sledeci run: stavka sada visi 2 radna dana; ako produzi na 3+, dodati napomenu u poruci da je moguce da je odgovoreno uzivo na sastanku (Milos je najavio da ce biti na direkcijama bar na pocetku 16.10, pa je prilika da usmeno odgovori Tiji tamo) pre nego sto se dalje eskalira na Slacku."
     },
     {
       "ts": "1791961439.797689",
@@ -26,8 +26,26 @@
       "ceka_odgovor_od": [],
       "tip": "odluka",
       "sazetak": "Budzet za festivale u H2 manji nego najavljeno - sta raditi sa Zutim pantalonama, UEPS i Balcannes kartama?",
-      "broj_prijava": 0,
-      "napomena": "Nova stavka, otkrivena istog jutra (14.10. u 09:03:59 CEST) kad je run izvrsen - zato NIJE prijavljena danas (broj_prijava=0), isti presedan kao sa Zmija stavkom 13.10. Milja javlja da joj je Dax rekao da je budzet za festivale u H2 manji nego najavljeno (ostalo 1130e do kraja halfa umesto ocekivanih ~4130e, razlika oko 3000e) i da do kraja halfa ima tri obaveze: Zute pantalone, UEPS i jeftinije karte za Balcannes. Prilozen je i screenshot (image.png). Pitanje 'sta je predlog da radimo' upuceno timu uopsteno, niko eksplicitno tagovan, nije jasno da li finalnu odluku donosi Milja sama, Sonja (budzet/finansije - ona je ranije odgovarala na slicna budzetska pitanja, npr. SoMo trosak) ili Milos. Plan za sledeci run: proveriti da li je neko odgovorio (najverovatnije Sonja ili Milos); ako do sledeceg runa niko ne odgovori, prijaviti kao 'odluka' sa grey_question i 'Nema vlasnika - ko preuzima?', ili direktno tagovati Sonju ako se njeno ime pojavi u daljem kontekstu finansija."
+      "broj_prijava": 1,
+      "napomena": "Prvi put prijavljena danas (otkrivena 14.10, juce nije prijavljena jer je bila nova istog jutra). U nastavku istog threada/dana (14.10, 09:06-11:37) razvila se opsirna diskusija: Sonja je pitala Milju da li klijenti mogu da finansiraju prijave, Milja je razmatrala da li opteretiti profitabilnost klijenata, pa se razgovor skrenuo na gresku u budzet tablici (7500 vs 4500 - janql je objasnio da je to Daxova greska, ne AI/Klodova) i na janqlovo obecanje da pravi stalni budzet dashboard. NIJEDNA od ovih poruka ne daje konkretan odgovor na originalno pitanje 'sta je predlog da radimo' sa ta tri konkretna troska (Zute pantalone/UEPS/Balcannes) - stroga pravila za 'odluka' tip zahtevaju eksplicitno da/ne ili potvrdu izvrsenja, a ovde ima samo diskusija. Nema vlasnika eksplicitno tagovan; istorijski Sonja odgovara na budzetska pitanja (SoMo trosak presedan) pa je ona kandidat ako niko drugi ne odgovori. Plan za sledeci run: proveriti da li je neko (najverovatnije Sonja ili janql) dao konkretan predlog; ako ne, razmotriti direktno tagovanje Sonje umesto 'Nema vlasnika'."
+    },
+    {
+      "ts": "1791970629.603719",
+      "pitao": "U6USJ8LCD",
+      "ceka_odgovor_od": ["U1T2FE5CY"],
+      "tip": "zadatak",
+      "sazetak": "Milja trazi stalan/direktan pristup radnoj budzet tablici za pracenje svog budzeta (ranije imala, sad nema).",
+      "broj_prijava": 1,
+      "napomena": "Nova stavka, prvi put prijavljena danas. Kontekst: 14.10. je otkrivena greska u budzet tablici (Milja je videla 7500 umesto 4500, janql je objasnio da je to Daxova greska pri rucnom azuriranju, ne AI). Milja je nakon toga (11:37:09) pitala 'mogu li ja da dobijem direktan pristup budzet tablici koja radi? kako bih pratila svoj budzet? ubuduce. imali smo to pre, vise nemamo'. janql je odgovorio (11:38:37) 'Dobicete pristup tabeli sa budzetima' i ranije pomenuo da pravi dashboard 'samo cekam casper da mi nesto odobri' - obecanje postoji ali BEZ konkretnog datuma i BEZ potvrde da je pristup stvarno dat. Zato se ne tretira kao 'obecano za konkretan dan' (fast_forward) nego kao otvoren zadatak koji ceka izvrsenje/potvrdu. Plan za sledeci run: proveriti da li je janql potvrdio da je pristup dat ili dashboard napravljen; ako prodje vise dana bez pomaka, eskalirati emoji na large_yellow_circle."
+    },
+    {
+      "ts": "1791977513.473999",
+      "pitao": "U1T2FE5CY",
+      "ceka_odgovor_od": [],
+      "tip": "pitanje",
+      "sazetak": "Koji je konkretan predlog za resavanje problema sa dolaskom na posao (poremecaj NS/BG saobracaja)?",
+      "broj_prijava": 1,
+      "napomena": "Nova stavka, prvi put prijavljena danas. Kontekst: duga diskusija 14.10 (12:05-13:31) izmedju Tije, Milje, Grua i Aleksandra o tome da zaposleni iz Novog Sada imaju ozbiljne probleme sa dolaskom (ukinute/promenjene zeleznicke stanice, 1.5-3h putovanja, predlog kombija odbacen jer 'nista ne resava'). janql je eksplicitno zakljucio (13:31:53) 'opet smo se zavozali, a nije jasno: Sta je konkretan predlog?' i trazio da se to stavi na direkcije. Posle toga Tija je (14:27:09) napisala da licno ne vidi potrebu da bude na agendi i predlozila da direkcije/mentori prica direktno sa svojim mentijima o problemu, ali to NIJE direktan odgovor na janqlovo pitanje 'koji je konkretan predlog' - vise izbegava formalni predlog u korist individualnih razgovora. Nema explicitno tagovanog vlasnika za sam odgovor na pitanje (iako su Tija, Milja, Gru i Aleksandar svi ucestvovali) pa je 'Nema vlasnika'. NAPOMENA: tema je verovatno planirana za usmenu diskusiju na danasnjim (15.10) direkcijama uzivo - ako se to desi, sledeci run nece imati trag na Slacku osim ako neko napise rekap u kanalu. Plan za sledeci run: proveriti da li je neko (narocito janql ili Tija) napisao rekap zakljucka sa uzivo sastanka; ako ne i ako stavka jos visi, razmotriti imenovanje konkretnih vlasnika (Tija, Gru, Aleksandar) umesto 'Nema vlasnika', po pravilu da se kolektivne stavke posle 2 runa razbijaju na imena."
     },
     {
       "ts": "1791891035.893259",
@@ -36,17 +54,10 @@
       "tip": "zadatak",
       "sazetak": "Gru da do kraja nedelje (16.10.) prodje Nutrino taskove sa Milicom i Milosem i definise svaki task.",
       "broj_prijava": 0,
-      "napomena": "Nova stavka, nije prijavljena danas jer rok ('do kraja nedelje') jos nije prosao (danas je sreda 14.10., rok najkasnije petak 16.10.). Gru je 13.10. u 13:30:35 detaljno izvestio o predaji Nutrino projekta (Milica, Milos i Rada preuzimaju kao jedan scope bez podele na digital/kreativu; obavestio Misu, Skrbu, Sanju treba jos da sazna preko MM agende, Rada jos nije obavestena licno) i naveo plan: 'plan je da do kraja nedelje prodjem sve sa Milicom i Milosem, da definisemo svaki task'. Samoinicijativni rok bez eksplicitnog pitaoca - pracen kao zadatak sa vlasnikom Gru. Plan za sledeci run: ako prodje petak 16.10. bez potvrde da je 'prolazak kroz taskove' zavrsen, prijaviti kao large_yellow_circle sa <@U08NVRXT2BY> kao vlasnikom; ako se pre toga pojavi potvrda u kanalu, zatvoriti."
+      "napomena": "Rok ('do kraja nedelje') jos nije prosao (danas je cetvrtak 15.10., rok je petak 16.10.) - zato i dalje NIJE prijavljena (broj_prijava=0). Thread na originalnoj poruci je i dalje prazan, nema potvrde da je 'prolazak kroz taskove' zavrsen. Pregledane sve nove poruke 14.10-15.10 - nijedna ne pominje Nutrino task review sa Milicom/Milosem. Plan za sledeci run (16.10, petak): ako do kraja dana petka nema potvrde da je zavrseno, prijaviti prvi put kao large_yellow_circle (rok je danas/prosao) sa <@U08NVRXT2BY> kao vlasnikom; ako se pre toga pojavi potvrda u kanalu, zatvoriti bez prijavljivanja."
     }
   ],
   "zatvorene_stavke": [
-    {
-      "ts": "1789727423.759589",
-      "sazetak": "Janql da zavrsi predlog New Biz BP, obecao da ce se posvetiti tome u ponedeljak (21.09).",
-      "vlasnici": ["U1T2FE5CY"],
-      "datum_zatvaranja": "2026-09-24",
-      "kako": "Janql je 23.09. u 09:23:58, direktno ispod bot-ove jutarnje poruke, napisao u kanalu: 'imali smo BP u petak, gotov je task.' Eksplicitna potvrda vlasnika da je zadatak zavrsen."
-    },
     {
       "ts": "1790240163.633599",
       "sazetak": "Janql pita da li treba da stavi slez 'Direkcija Finansija' na svoje poruke, da bude jasnije zasto pita za sve umesto Daxa.",
