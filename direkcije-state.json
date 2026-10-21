@@ -1,6 +1,6 @@
 {
-  "poslednji_obradjen_ts": "1792479468.153529",
-  "poslednji_run": "2026-10-20T07:10:00Z",
+  "poslednji_obradjen_ts": "1792511315.337339",
+  "poslednji_run": "2026-10-21T07:08:00Z",
   "opste_napomene": [
     {
       "datum": "2026-10-19",
@@ -9,44 +9,21 @@
     {
       "datum": "2026-10-20",
       "napomena": "19.10. je, direktno ispod bot-ove jutarnje poruke, Tija (09:32:44) napisala 'Zatvori temu Novog Sada, zavrsili' - tacno onakav slucaj kakav opisuje Korak 3 tacka 4 instrukcija (odgovor ispod bot-ove objave, u ovom slucaju ~22 min kasnije). Ovo je zatvorilo NS saobracaj stavku. Takodje je istog jutra (19.10, 09:12-09:14) janql odgovorio Milji na pitanje o Cockti/konfliktu interesa direktno u kanalu (ne u threadu originalne poruke) - 'potvrdila je Marijana da je OK' + 'go for it'. Pouka za sledece runove: odgovor na staru stavku cesto stize kao NOVA poruka u kanalu istog ili sledeceg jutra, a ne kao thread reply na originalnu poruku - zato Korak 2/3 kombinacija (nove poruke + threadovi) oba moraju da se gledaju pazljivo, ne samo threadovi."
+    },
+    {
+      "datum": "2026-10-21",
+      "napomena": "20.10. popodne (13:36-15:07) je u kanalu izbila ozbiljna, visedelna diskusija o internom konfliktu u Nutrino timu (Gru vs. menadzer po imenu Misa - odbijanje odgovornosti, 'okrenuo mi je ocima', itd.), koju je Tija eksplicitno okarakterisala kao 'bas problematicno' i rekla Gruu 'ovo moras da adresujes' (14:22:38, sa thread replyem od Grua 'snimim ti vojs malo kasnije' u 14:39:19). Cela stvar se zatvorila UNUTAR ISTOG PROZORA, pre nego sto je ikad formalno prijavljena: janql je u 15:07:14 postavio audio poruku ('Vojs o Misi, sta smo pricali Gru i ja...') i i Gru i Tija su na tu poruku stavili white_check_mark reakcije. Zato ova tema NIJE upisana kao otvorena stavka - bila bi lazno pozitivna da je prijavljena kao 'otvorena' dan posle kad je vec bila zatvorena istog popodneva. Pouka za sledece runove: kad se neka tema otvori i zatvori u istom citanom periodu (iste sesije citanja), ne treba je upisivati u otvorene_stavke uopste - samo proveriti da li ima eksplicitnu rezoluciju pre kraja prozora. Takodje: ovo je drugi put da 'checkmark reakcija na poruku' sluzi kao pouzdan signal zatvaranja (prvi put: Gru+Tija dole), vredi uvek proveriti reakcije na finalnu poruku niza kad je diskusija dugacka. Dodatno: 21.10. su PRVI PUT dve stavke odjednom presle prag od 5 radnih dana (budzet festivali - Sonja, i pristup budzet tablici - janql), obe nastale istog dana 14.10. - vredi pratiti da li ce se obe pomeriti zajedno ili ce i dalje stajati odvojeno."
     }
   ],
   "otvorene_stavke": [
-    {
-      "ts": "1791809934.087719",
-      "pitao": "U6USJ8LCD",
-      "ceka_odgovor_od": [],
-      "tip": "pitanje",
-      "sazetak": "Da li prijavljujemo X10 na UEPS (korporativni i interni PR)?",
-      "broj_prijava": 6,
-      "napomena": "Sesti uzastopni run bez sustinskog odgovora na originalno pitanje (postavljeno 12.10, prijavljivano 13.-19.10 pa sad 20.10, vikendi se ne racunaju). Thread i dalje potpuno prazan (0 replies), nema reakcija na originalnu poruku, i niko u novim porukama od 19. i 20.10 (koje su bile prilicno aktivne - Cocktu/HBC diskusija, kvalitet kreativnog rada, slobodni dani) nije ni jednom pomenuo X10 ili UEPS prijavu. Najduze visi od svih stavki (6 radnih dana), ostaje :warning: i 'Najduze visi' red. Plan za sledeci run: ovo je sad vrlo blizu da postane 'stavka koja visi a nikad se ne pomera' - razmotriti da li da se sledeci put direktno i eksplicitno postavi kao novo pitanje timu (umesto samo linkovanja stare poruke) tipa 'X10/UEPS prijava i dalje nema vlasnika, rok joj mozda uskoro istice spolja - da li neko moze da preuzme ili da je formalno otkazemo?' Ako ni to ne pokrene reakciju jos 2-3 runa, razmotriti zatvaranje kao 'napusteno' cak i pre 10. prijave jer deluje da je rok za samu UEPS prijavu (spoljni, van Sleka) mozda vec davno prosao, cime bi pitanje postalo bespredmetno."
-    },
-    {
-      "ts": "1791890253.299519",
-      "pitao": "US38XUCMV",
-      "ceka_odgovor_od": ["U1T2LF7GD"],
-      "tip": "pitanje",
-      "sazetak": "Da li je bilo nesto neocekivano na feedback sesiji sa Majom iz A1?",
-      "broj_prijava": 5,
-      "napomena": "Peti uzastopni run bez odgovora, sad prvi put prelazi prag od 5 radnih dana pa dobija :warning: umesto :grey_question:. U novim porukama 19. i 20.10 Milos je bio vrlo aktivan (razgovor o odlasku kuci zbog bolesti, trazio da ga Milja ukljuci na 'Slanoj' danas, reagovao 'Strava!' na Tijin apdejt) ali ni jednom nije pomenuo A1 ili Majin feedback, iako je i sam bio bolestan/odsutan sto moze biti deo razloga kasnjenja. Tija (pitalac) je takodje bila aktivna (bolovanje, najava da radi sutra od kuce) ali nije ponovo gurala pitanje. Plan za sledeci run: s obzirom da je Milos danas (20.10) ostao kuci bolestan, dati mu jos ovaj run blagonaklonost, ali ako ni sutra ne odgovori (6. uzastopni put, i vec :warning:), razmotriti direktno pitanje da li je info mozda vec prenesena usmeno na direkcijama pa samo nije zapisana u kanalu, umesto cekanja unedogled."
-    },
-    {
-      "ts": "1791891035.893259",
-      "pitao": "U08NVRXT2BY",
-      "ceka_odgovor_od": ["U08NVRXT2BY"],
-      "tip": "zadatak",
-      "sazetak": "Gru da zavrsi prolazak kroz Nutrino taskove sa Milicom i Milosem i definise svaki task (rok bio 16.10.).",
-      "broj_prijava": 3,
-      "napomena": "Rok (16.10.) je sad vec 5 radnih dana u proslosti, stavka prvi put prelazi prag za :warning: (zadrzano kao large_yellow_circle logicki - rok je prosao - ali po pravilu formata prikazano kao :warning: zbog broja dana). Gru je u novim porukama 19.-20.10 bio dosta aktivan (Cocktu/HBC diskusija 19.10 09:22, kreativni kvalitet diskusija 20.10 08:43 gde pominje da je 'preneo Milji da smo imali na agendi MM') ali ni jednom nije pomenuo Nutrino taskove ili Milicu/Milosa konkretno. Plan za sledeci run: 'MM' agenda koju Gru pominje (08:43:42, 20.10) moguce je da je ista stvar kao Nutrino prosirenje scope-a o kom je pricao u originalnoj poruci (pominjao je 'stavicu na MM agendu da ih sve upoznam') - vredi u sledecem citanju threadova proveriti da li se MM agenda odnosi bas na Nutrino, jer bi to moglo biti znak da je proces u toku samo jos nije eksplicitno potvrdjen kao zavrsen u kanalu."
-    },
     {
       "ts": "1791961439.797689",
       "pitao": "U6USJ8LCD",
       "ceka_odgovor_od": ["U899GA893"],
       "tip": "odluka",
       "sazetak": "Budzet za festivale u H2 manji nego najavljeno - sta raditi sa Zutim pantalonama, UEPS i Balcannes kartama?",
-      "broj_prijava": 4,
-      "napomena": "Cetvrti uzastopni run bez konkretnog predloga/odluke. Sonja se uopste nije pojavila u novim porukama 19. ni 20.10 (nema nijedne njene poruke u celom posmatranom periodu) - moguce je odsutna/van kancelarije, ne samo da izbegava temu. Stroga pravila za 'odluka' i dalje vaze. Plan za sledeci run: ako Sonja ostane odsutna i sledeci run, ozbiljno razmotriti privremeno vracanje vlasnistva na janqla (pravi budzet dashboard) ili direktno pitanje da li je Sonja trenutno na odmoru/bolovanju, pre nego sto se dalje insistira na njoj kao jedinom vlasniku - 4 uzastopna runa bez ijedne njene poruke u kanalu je neobicno i vredi proveriti da nije tehnicki odsutna."
+      "broj_prijava": 5,
+      "napomena": "Peti uzastopni run bez konkretnog predloga/odluke, i PRVI PUT prelazi prag od 5 radnih dana (postavljeno 14.10. sreda, danas 21.10. sreda = tacno 5 radnih dana), pa dobija :warning: umesto :grey_question:. Sonja se i dalje NIJE pojavila u novim porukama 20.10. sa sadrzajem o ovoj temi - jedina njena poruka u celom periodu je kratak odgovor u TUDJEM threadu (Tijino 'kako je bilo na statusu', 12:24:37: 'Bilo je dobro, super su primeri...'), sto znaci da NIJE potpuno odsutna iz kanala, samo ignorise ovu konkretnu temu ili je zaboravila. Nema thread odgovora, nema reakcija na originalnu poruku (provereno eksplicitno). Plan za sledeci run: s obzirom da je sad :warning: i da je dokazano da Sonja cita/pise u kanalu, vredi u sledecoj objavi direktno i eksplicitno postaviti pitanje umesto samo linkovanja stare poruke - npr. 'Sonja, i dalje nema predloga za budzet festivala - mozes li danas makar privremeni predlog?' Ako ni to ne pomogne za 2 runa, razmotriti eskalaciju na janqla (pravi budzet dashboard) kao alternativnog vlasnika."
     },
     {
       "ts": "1791970629.603719",
@@ -54,17 +31,35 @@
       "ceka_odgovor_od": ["U1T2FE5CY"],
       "tip": "zadatak",
       "sazetak": "Milja trazi stalan/direktan pristup radnoj budzet tablici za pracenje svog budzeta (ranije imala, sad nema).",
-      "broj_prijava": 4,
-      "napomena": "Cetvrti uzastopni run bez potvrde. janql je bio vrlo aktivan u novim porukama 19.-20.10 (Cocktu/HBC odluka, kreativni kvalitet diskusija gde kaze Milji 'Yes yes, we all agreed') ali ni jednom nije pomenuo da li je dao pristup budzet tablici. Obecanje postoji jos od 14.10, sad vec 4 radna dana bez pomaka, blizu :warning: praga (jos jedan run do 5 dana). Plan za sledeci run: ako ni sledeci put nema pomaka, eskalirati i razmotriti direktno pitanje Milji da potvrdi da li je mozda pristup vec dobila van kanala (direktno u tabeli, bez najave u Sleku) - cesto se ispostavi da je stvar resena off-channel pa samo ne stoji potvrda ovde."
+      "broj_prijava": 5,
+      "napomena": "Peti uzastopni run bez potvrde, PRVI PUT prelazi prag od 5 radnih dana (obecano 14.10., danas 21.10. = 5 radnih dana), dobija :warning:. janql je bio EKSTREMNO aktivan u novim porukama 20.10. (ceo dan - Misa/Gru konflikt diskusija, savet Gruu licno, snimio vojs poruku sa Gruom o Misi, ukupno ~6 poruka tog dana) ali ni jednom nije pomenuo Miljin pristup budzet tablici. Ovo sad lici vise na zaborav usled drugog prioriteta (Nutrino kriza je ocigledno pojela svu paznju 20.10.) nego na odbijanje. Plan za sledeci run: u sledecoj objavi direktno pitati janqla da li je pristup mozda vec dat van kanala (cesto se tako resi) - ako ni sledeci put nema pomaka, razmotriti da se Milja direktno pita da li joj je i dalje potrebno, jer stavka visi predugo i mozda je nasla zaobilazno resenje."
     },
     {
       "ts": "1792477686.102329",
       "pitao": "U1T2LF7GD",
       "ceka_odgovor_od": ["U6USJ8LCD"],
       "tip": "pitanje",
-      "sazetak": "Milos pita Milju da ga ukljuci danas na dogadjaju/promociji 'Slana' (Slana Plazma).",
+      "sazetak": "Milos pita Milju da ga ukljuci na dogadjaju/promociji 'Slana' (Slana Plazma).",
+      "broj_prijava": 1,
+      "napomena": "Nastala 20.10. (utorak) u 08:28:06, prvi put prijavljena danas (21.10.) jer je protekao 1 radni dan. Milja nije odgovorila nigde u kanalu tokom celog 20.10. (bila je aktivna - mentorski sastanak sa Mimi, poruka o kreativnom timu - ali bez pomena 'Slane' ili ukljucivanja Milosa). Nema reakcija na originalnu poruku, nema thread odgovora (provereno). Napomena: ovo je bio vremenski osetljiv, jednodnevni zahtev (dogadjaj je bio 'danas' = 20.10.), pa je sad vec kasno da Milja bukvalno 'ukljuci' Milosa na dogadjaju od juce. Plan za sledeci run: ako ni sutra (22.10.) nema odgovora ili pomena da je stvar bespredmetna, razmotriti zatvaranje kao napusteno/bespredmetno (dogadjaj je prosao) umesto daljeg prijavljivanja kao da je jos aktuelno - ali dati bar jos jedan run blagonaklonosti pre toga."
+    },
+    {
+      "ts": "1792493306.001479",
+      "pitao": "US38XUCMV",
+      "ceka_odgovor_od": [],
+      "tip": "pitanje",
+      "sazetak": "Tija pita da li moze neko da je zameni za 'BP HR' jer je na bolovanju.",
+      "broj_prijava": 1,
+      "napomena": "Nova stavka, nastala 20.10. (utorak) u 12:48:26. Niko nije odgovorio tokom celog 20.10. - nema reakcija, nema thread odgovora (provereno eksplicitno preko slack_get_reactions). Vlasnik (ko bi trebalo da preuzme zamenu) nije poznat iz istorije kanala, otuda 'Nema vlasnika' u objavi. Prvi put prijavljena danas (21.10., 1 radni dan). Plan za sledeci run: BP HR sastanak je verovatno vec zakazan/odrzan brzo posle ovog pitanja (bolovanje je obicno kratkorocno pitanje) - u novim porukama 21.10. pazljivo proveriti da li neko pominje da je BP HR vec odrzan ili zamenjen pre nego sto se stavka ponovo prijavi kao da je i dalje aktuelna; ako prosle vise od 2-3 radna dana bez ikakvog pomena, razmotriti da je tema vec prirodno resena (sastanak je prosao) i zatvoriti kao bespredmetnu."
+    },
+    {
+      "ts": "1792492082.766899",
+      "pitao": "U6USJ8LCD",
+      "ceka_odgovor_od": [],
+      "tip": "zadatak",
+      "sazetak": "Milja ce podeliti zakljucke mentorskih sastanaka sa kreativnim timom, obecano 'ove nedelje' (do petka 23.10.).",
       "broj_prijava": 0,
-      "napomena": "Nova stavka, nastala danas (20.10, utorak) u 08:28:06 - Milos (koji je u istoj poruci napisao da ostaje kuci bolestan) pita 'Miljons, nije idealno, ali ukljucite me danas na Slanoj?', verovatno misleci na promociju/dogadjaj 'Slana Plazma' koji je Milja pominjala dan ranije (19.10, oko 116 ljudi se javilo u inbox). Nema odgovora do kraja posmatranog perioda (08:57:48). NAMERNO NIJE prijavljena u danasnjoj poruci jer je nastala istog jutra kad i ovaj run (0 radnih dana je proteklo po pravilu racunanja - dan posle originalne poruke jos nije ni poceo). Plan za sledeci run: ako do sutra ujutru Milja ne odgovori u kanalu, prijaviti kao :grey_question: sa 'visi 1 dan'; ako odgovori (bilo gde u kanalu, i van threada), zatvoriti kao resenu."
+      "napomena": "NE PRIJAVLJIVATI JOS - obecani rok (ove nedelje, tj. do petka 23.10.) jos nije prosao. Nastala 20.10. u 12:28:02: 'ja sam imala intenzivan ali bitan sastanak s Mimi. i na kraju pozitivan. kad uradim mentorske s kreativnim timom ove nedelje delim vam zakljucke.' Napomena: rok je vagav ('ove nedelje'), tumacimo ga kao do kraja radne nedelje, petak 23.10. Plan za sledeci run: ako do ponedeljka 26.10. (ukljucujuci) niko (ukljucujuci Milju) ne potvrdi da su zakljucci podeljeni, tek tada prvi put prijaviti kao :large_yellow_circle: (rok prosao) sa 'visi N dana' racunatim od ponedeljka 26.10. Do tada ostaje u state-u ali van objave, u skladu sa pravilom za obecanja sa rokom u buducnosti."
     }
   ],
   "zatvorene_stavke": [
@@ -221,6 +216,27 @@
       "vlasnici": ["U1T2FE5CY"],
       "datum_zatvaranja": "2026-10-20",
       "kako": "janql je 19.10. u 09:12:15 napisao u kanalu: 'Milja, potvrdila je Marijana da je OK, ne zna da je konkretno u pitanju kokta' - direktan odgovor na Miljino cekanje. Zatim je, kad je Milja pitala (09:12:51) 'da li da sacekam Grua pre javljanja Andreji?', janql u 09:14:01 odgovorio 'Moje isto, to je prio, go for it', a u 09:14:20 dodao 'A pogotovu ne cekamo da se svi izjasne dok nismo ni na cijem ritejneru'. Potpuno eksplicitno - konflikt interesa raspetljan, Milja dobila zeleno svetlo da javi Andreji bez cekanja na Grua. Prijavljeno samo jednom (19.10.) pre zatvaranja istog dana."
+    },
+    {
+      "ts": "1791809934.087719",
+      "sazetak": "Da li prijavljujemo X10 na UEPS (korporativni i interni PR)?",
+      "vlasnici": [],
+      "datum_zatvaranja": "2026-10-21",
+      "kako": "Milos je 20.10. u 09:18:10, direktno ispod bot-ove jutarnje objave od istog jutra (11 minuta kasnije), napisao u kanalu: 'X10 prijava na UEPS nije vise tema, svi smo se sync i znamo sta mislimo.' Eksplicitna izjava da je tema zatvorena/bespredmetna - cela ekipa se uskladila van formalnog da/ne niza, pa iako je ceka_odgovor_od bio prazan (nepoznat vlasnik), Milosova opsta izjava u ime tima je dovoljna za 'pitanje' tip. Visilo ukupno 6 uzastopnih prijavljivanja (12.10.-20.10., vikendi ne racunati) - najduze od svih stavki pre zatvaranja. Poruka je procitana tek na ovom (21.10.) runu jer je nastala posle prethodnog citanja prozora."
+    },
+    {
+      "ts": "1791890253.299519",
+      "sazetak": "Da li je bilo nesto neocekivano na feedback sesiji sa Majom iz A1?",
+      "vlasnici": ["U1T2LF7GD"],
+      "datum_zatvaranja": "2026-10-21",
+      "kako": "Istom porukom (20.10. 09:18:10, odmah ispod bot-ove jutarnje objave) Milos je napisao: 'Milos je odgovorio Tiji da nije bilo nista neocekivano na feedback sesiji sa Majom, izuzev da su okej primili promenu Isidore i da deluje da se uklapa Milica u novi plan.' Eksplicitna potvrda vlasnika (Milos, jedini iz ceka_odgovor_od) da je substantivno odgovorio Tiji. Visilo 5 uzastopnih prijavljivanja, zatvoreno dan nakon sto je prvi put preslo :warning: prag. Poruka procitana tek na ovom (21.10.) runu."
+    },
+    {
+      "ts": "1791891035.893259",
+      "sazetak": "Gru da zavrsi prolazak kroz Nutrino taskove sa Milicom i Milosem i definise svaki task (rok bio 16.10.).",
+      "vlasnici": ["U08NVRXT2BY"],
+      "datum_zatvaranja": "2026-10-21",
+      "kako": "Gru je 20.10. u 09:20:57 napisao u kanalu: 'Nutrino taskovi sa Milicom i Milosem nisu vise tema.' Eksplicitna potvrda vlasnika da je zadatak zavrsen/bespredmetan. Zanimljivo: isti dan popodne (13:36-15:07) izbila je opsirna diskusija o drugacijem problemu u Nutrino timu (interpersonalni konflikt Gru vs. menadzer Misa), ali to je NOVA, odvojena tema koja se zatvorila u istom prozoru citanja (janql+Gru vojs poruka 15:07:14, Gru i Tija stavili white_check_mark reakcije) - NIJE upisana kao posebna otvorena stavka jer nikad nije formalno prijavljena pre nego sto se zatvorila. Vredi znati za kontekst: odnos Gru/Misa u Nutrino timu je osetljiva tema, moguce da se vrati u nekom obliku."
     }
   ]
 }
