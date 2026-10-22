@@ -1,6 +1,6 @@
 {
-  "poslednji_obradjen_ts": "1792511315.337339",
-  "poslednji_run": "2026-10-21T07:08:00Z",
+  "poslednji_obradjen_ts": "1792597110.736909",
+  "poslednji_run": "2026-10-22T07:07:14Z",
   "opste_napomene": [
     {
       "datum": "2026-10-19",
@@ -13,44 +13,21 @@
     {
       "datum": "2026-10-21",
       "napomena": "20.10. popodne (13:36-15:07) je u kanalu izbila ozbiljna, visedelna diskusija o internom konfliktu u Nutrino timu (Gru vs. menadzer po imenu Misa - odbijanje odgovornosti, 'okrenuo mi je ocima', itd.), koju je Tija eksplicitno okarakterisala kao 'bas problematicno' i rekla Gruu 'ovo moras da adresujes' (14:22:38, sa thread replyem od Grua 'snimim ti vojs malo kasnije' u 14:39:19). Cela stvar se zatvorila UNUTAR ISTOG PROZORA, pre nego sto je ikad formalno prijavljena: janql je u 15:07:14 postavio audio poruku ('Vojs o Misi, sta smo pricali Gru i ja...') i i Gru i Tija su na tu poruku stavili white_check_mark reakcije. Zato ova tema NIJE upisana kao otvorena stavka - bila bi lazno pozitivna da je prijavljena kao 'otvorena' dan posle kad je vec bila zatvorena istog popodneva. Pouka za sledece runove: kad se neka tema otvori i zatvori u istom citanom periodu (iste sesije citanja), ne treba je upisivati u otvorene_stavke uopste - samo proveriti da li ima eksplicitnu rezoluciju pre kraja prozora. Takodje: ovo je drugi put da 'checkmark reakcija na poruku' sluzi kao pouzdan signal zatvaranja (prvi put: Gru+Tija dole), vredi uvek proveriti reakcije na finalnu poruku niza kad je diskusija dugacka. Dodatno: 21.10. su PRVI PUT dve stavke odjednom presle prag od 5 radnih dana (budzet festivali - Sonja, i pristup budzet tablici - janql), obe nastale istog dana 14.10. - vredi pratiti da li ce se obe pomeriti zajedno ili ce i dalje stajati odvojeno."
+    },
+    {
+      "datum": "2026-10-22",
+      "napomena": "Vazan slucaj za buduce runove: Milja (sama pitalac za OBA budzetska pitanja - i festivali/Sonja i pristup tablici/janql) je 21.10. u 09:19:04, tacno 11 minuta nakon bot-ove jutarnje objave koja je oba ta pitanja prvi put oznacila sa :warning: (5+ radnih dana), napisala u kanalu samo dve reci: 'resheni budzeti'. Nije bilo nikakve thread aktivnosti niti reakcija na originalne poruke (provereno eksplicitno za oba - slack_get_reactions prazno, threadovi prazni). Odlucio sam da zatvorim OBE stavke na osnovu ove poruke: (a) za zadatak-tip (pristup tablici) dovoljna je potvrda izvrsenja; (b) za odluka-tip (festival budzet) strogo pravilo trazi 'eksplicitno da/ne od ceka_odgovor_od ILI poruku koja potvrdjuje da je stvar izvrsena' - 'resheni budzeti' sam po sebi JESTE takva potvrda izvrsenja (doslovno kaze da je resheno), iako ne dolazi od Sonje (ceka_odgovor_od) nego od same Milje (pitaoca), i iako ne precizira TACNU odluku (sta tacno biva sa Zutim pantalonama/UEPS/Balcannes pojedinacno). Ovo je rizicna odluka - ako se ispostavi pogresno, SLEDECI RUN treba da pazljivo prati da li se bilo koja od ove dve teme (festival budzet ili pristup tablici) ponovo pojavi kao nerazjasnjena, i ako da, odmah je vratiti u otvorene_stavke kao novu stavku (ne kao 'ponovo otvorenu' staru, jer je formalno zatvorena). Takodje zatvorena ovog runa: Milosev zahtev da ga Milja ukljuci na promociji 'Slana' - dogadjaj je bio 20.10., nikad nije dobio odgovor (ni thread ni reakcija ni pomen u novim porukama), a plan iz prethodnog runa je eksplicitno predvideo da se danas (22.10., tacno 'sutra' iz plana) zatvori kao napusteno/bespredmetno jer je dogadjaj vec prosao. Ostatak novih poruka 21.10. popodne/vece (13:28-17:38, ukupno ~18 poruka) bio je iskljucivo operativni sitnez (agenda za sastanak sutra - resheno od strane Grua istog trenutka 'upisem te u agendu'), interni dogovor oko gotovinske isplate Zinicevog honorara (otvoren i zatvoren u ISTOM prozoru citanja - Gru odgovorio Milji za 1 minut), i niz FYI/venting poruka bez konkretnog pitanja ka nekome (Rauch/Primer situacija sa 5 angry reakcija, nejasnoca oko ko je radio AVS kalendar fotke, rasprava o CZ fudbalerskom snimanju, Gruov recap razgovora sa Radom sa 3 double-check reakcije) - nijedna od njih ne sadrzi eksplicitno pitanje bez odgovora, trazenje saglasnosti ili obecan rok, pa nijedna nije upisana kao nova otvorena stavka. Rezultat: posle zatvaranja tri stare stavke, ostala je SAMO JEDNA otvorena stavka za prijavu danas (BP HR zamena, Tija, i dalje bez vlasnika, sad visi 2 dana)."
     }
   ],
   "otvorene_stavke": [
-    {
-      "ts": "1791961439.797689",
-      "pitao": "U6USJ8LCD",
-      "ceka_odgovor_od": ["U899GA893"],
-      "tip": "odluka",
-      "sazetak": "Budzet za festivale u H2 manji nego najavljeno - sta raditi sa Zutim pantalonama, UEPS i Balcannes kartama?",
-      "broj_prijava": 5,
-      "napomena": "Peti uzastopni run bez konkretnog predloga/odluke, i PRVI PUT prelazi prag od 5 radnih dana (postavljeno 14.10. sreda, danas 21.10. sreda = tacno 5 radnih dana), pa dobija :warning: umesto :grey_question:. Sonja se i dalje NIJE pojavila u novim porukama 20.10. sa sadrzajem o ovoj temi - jedina njena poruka u celom periodu je kratak odgovor u TUDJEM threadu (Tijino 'kako je bilo na statusu', 12:24:37: 'Bilo je dobro, super su primeri...'), sto znaci da NIJE potpuno odsutna iz kanala, samo ignorise ovu konkretnu temu ili je zaboravila. Nema thread odgovora, nema reakcija na originalnu poruku (provereno eksplicitno). Plan za sledeci run: s obzirom da je sad :warning: i da je dokazano da Sonja cita/pise u kanalu, vredi u sledecoj objavi direktno i eksplicitno postaviti pitanje umesto samo linkovanja stare poruke - npr. 'Sonja, i dalje nema predloga za budzet festivala - mozes li danas makar privremeni predlog?' Ako ni to ne pomogne za 2 runa, razmotriti eskalaciju na janqla (pravi budzet dashboard) kao alternativnog vlasnika."
-    },
-    {
-      "ts": "1791970629.603719",
-      "pitao": "U6USJ8LCD",
-      "ceka_odgovor_od": ["U1T2FE5CY"],
-      "tip": "zadatak",
-      "sazetak": "Milja trazi stalan/direktan pristup radnoj budzet tablici za pracenje svog budzeta (ranije imala, sad nema).",
-      "broj_prijava": 5,
-      "napomena": "Peti uzastopni run bez potvrde, PRVI PUT prelazi prag od 5 radnih dana (obecano 14.10., danas 21.10. = 5 radnih dana), dobija :warning:. janql je bio EKSTREMNO aktivan u novim porukama 20.10. (ceo dan - Misa/Gru konflikt diskusija, savet Gruu licno, snimio vojs poruku sa Gruom o Misi, ukupno ~6 poruka tog dana) ali ni jednom nije pomenuo Miljin pristup budzet tablici. Ovo sad lici vise na zaborav usled drugog prioriteta (Nutrino kriza je ocigledno pojela svu paznju 20.10.) nego na odbijanje. Plan za sledeci run: u sledecoj objavi direktno pitati janqla da li je pristup mozda vec dat van kanala (cesto se tako resi) - ako ni sledeci put nema pomaka, razmotriti da se Milja direktno pita da li joj je i dalje potrebno, jer stavka visi predugo i mozda je nasla zaobilazno resenje."
-    },
-    {
-      "ts": "1792477686.102329",
-      "pitao": "U1T2LF7GD",
-      "ceka_odgovor_od": ["U6USJ8LCD"],
-      "tip": "pitanje",
-      "sazetak": "Milos pita Milju da ga ukljuci na dogadjaju/promociji 'Slana' (Slana Plazma).",
-      "broj_prijava": 1,
-      "napomena": "Nastala 20.10. (utorak) u 08:28:06, prvi put prijavljena danas (21.10.) jer je protekao 1 radni dan. Milja nije odgovorila nigde u kanalu tokom celog 20.10. (bila je aktivna - mentorski sastanak sa Mimi, poruka o kreativnom timu - ali bez pomena 'Slane' ili ukljucivanja Milosa). Nema reakcija na originalnu poruku, nema thread odgovora (provereno). Napomena: ovo je bio vremenski osetljiv, jednodnevni zahtev (dogadjaj je bio 'danas' = 20.10.), pa je sad vec kasno da Milja bukvalno 'ukljuci' Milosa na dogadjaju od juce. Plan za sledeci run: ako ni sutra (22.10.) nema odgovora ili pomena da je stvar bespredmetna, razmotriti zatvaranje kao napusteno/bespredmetno (dogadjaj je prosao) umesto daljeg prijavljivanja kao da je jos aktuelno - ali dati bar jos jedan run blagonaklonosti pre toga."
-    },
     {
       "ts": "1792493306.001479",
       "pitao": "US38XUCMV",
       "ceka_odgovor_od": [],
       "tip": "pitanje",
       "sazetak": "Tija pita da li moze neko da je zameni za 'BP HR' jer je na bolovanju.",
-      "broj_prijava": 1,
-      "napomena": "Nova stavka, nastala 20.10. (utorak) u 12:48:26. Niko nije odgovorio tokom celog 20.10. - nema reakcija, nema thread odgovora (provereno eksplicitno preko slack_get_reactions). Vlasnik (ko bi trebalo da preuzme zamenu) nije poznat iz istorije kanala, otuda 'Nema vlasnika' u objavi. Prvi put prijavljena danas (21.10., 1 radni dan). Plan za sledeci run: BP HR sastanak je verovatno vec zakazan/odrzan brzo posle ovog pitanja (bolovanje je obicno kratkorocno pitanje) - u novim porukama 21.10. pazljivo proveriti da li neko pominje da je BP HR vec odrzan ili zamenjen pre nego sto se stavka ponovo prijavi kao da je i dalje aktuelna; ako prosle vise od 2-3 radna dana bez ikakvog pomena, razmotriti da je tema vec prirodno resena (sastanak je prosao) i zatvoriti kao bespredmetnu."
+      "broj_prijava": 2,
+      "napomena": "Drugi uzastopni run bez odgovora (nastalo 20.10. utorak, prijavljeno 21.10. i 22.10.). I u novim porukama 21.10. (13:28-17:38, ~18 poruka pregledano) nema nijednog pomena BP HR, zamene, ni Tijinog bolovanja - tema je potpuno odsutna iz razgovora, sto moze znaciti da niko nije primetio zahtev ili da se resilo van kanala. Nema reakcija, nema thread odgovora (provereno). Visi 2 radna dana danas (21.10. i 22.10.), jos ispod :warning: praga od 5 dana. Plan za sledeci run: ako do sutra (23.10., petak) i dalje nema pomena, razmotriti da direktno u objavi imenujemo konkretnog kandidata za zamenu (npr. nekog ko je ranije radio HR teme) umesto da samo ponavljamo 'ko preuzima?' - generican poziv ocigledno ne radi vec 2 runa. Ako prodje jos 1-2 radna dana bez ikakvog pomena BP HR teme uopste (ni kao resheno ni kao jos aktuelno), razmotriti i mogucnost da je sastanak vec odrzan/preskocen i da je pitanje prirodno bespredmetno - proveriti kalendar/agendu pomene u buducim porukama."
     },
     {
       "ts": "1792492082.766899",
@@ -59,7 +36,7 @@
       "tip": "zadatak",
       "sazetak": "Milja ce podeliti zakljucke mentorskih sastanaka sa kreativnim timom, obecano 'ove nedelje' (do petka 23.10.).",
       "broj_prijava": 0,
-      "napomena": "NE PRIJAVLJIVATI JOS - obecani rok (ove nedelje, tj. do petka 23.10.) jos nije prosao. Nastala 20.10. u 12:28:02: 'ja sam imala intenzivan ali bitan sastanak s Mimi. i na kraju pozitivan. kad uradim mentorske s kreativnim timom ove nedelje delim vam zakljucke.' Napomena: rok je vagav ('ove nedelje'), tumacimo ga kao do kraja radne nedelje, petak 23.10. Plan za sledeci run: ako do ponedeljka 26.10. (ukljucujuci) niko (ukljucujuci Milju) ne potvrdi da su zakljucci podeljeni, tek tada prvi put prijaviti kao :large_yellow_circle: (rok prosao) sa 'visi N dana' racunatim od ponedeljka 26.10. Do tada ostaje u state-u ali van objave, u skladu sa pravilom za obecanja sa rokom u buducnosti."
+      "napomena": "NE PRIJAVLJIVATI JOS - rok (petak 23.10.) jos nije prosao (danas je 22.10., cetvrtak). Nastala 20.10. u 12:28:02: 'ja sam imala intenzivan ali bitan sastanak s Mimi. i na kraju pozitivan. kad uradim mentorske s kreativnim timom ove nedelje delim vam zakljucke.' U novim porukama 21.10. (13:28-17:38) nema nikakvog pomena mentorskih sastanaka ili zakljucaka - ocekivano, jer rok je tek petak. Plan za sledeci run (23.10., petak): proveriti da li je do tada vec podeljeno (moglo bi se desiti bas tog dana); ako ne, tek od ponedeljka 26.10. prvi put prijaviti kao :large_yellow_circle: (rok prosao) sa 'visi N dana' racunatim od ponedeljka 26.10., kako je i predvidjeno ranijim planom."
     }
   ],
   "zatvorene_stavke": [
@@ -237,6 +214,27 @@
       "vlasnici": ["U08NVRXT2BY"],
       "datum_zatvaranja": "2026-10-21",
       "kako": "Gru je 20.10. u 09:20:57 napisao u kanalu: 'Nutrino taskovi sa Milicom i Milosem nisu vise tema.' Eksplicitna potvrda vlasnika da je zadatak zavrsen/bespredmetan. Zanimljivo: isti dan popodne (13:36-15:07) izbila je opsirna diskusija o drugacijem problemu u Nutrino timu (interpersonalni konflikt Gru vs. menadzer Misa), ali to je NOVA, odvojena tema koja se zatvorila u istom prozoru citanja (janql+Gru vojs poruka 15:07:14, Gru i Tija stavili white_check_mark reakcije) - NIJE upisana kao posebna otvorena stavka jer nikad nije formalno prijavljena pre nego sto se zatvorila. Vredi znati za kontekst: odnos Gru/Misa u Nutrino timu je osetljiva tema, moguce da se vrati u nekom obliku."
+    },
+    {
+      "ts": "1791961439.797689",
+      "sazetak": "Budzet za festivale u H2 manji nego najavljeno - sta raditi sa Zutim pantalonama, UEPS i Balcannes kartama?",
+      "vlasnici": ["U899GA893"],
+      "datum_zatvaranja": "2026-10-21",
+      "kako": "Milja (pitalac) je 21.10. u 09:19:04, 11 minuta nakon bot-ove jutarnje objave koja je ovu stavku prvi put oznacila sa :warning: (5 radnih dana), napisala u kanalu samo: 'resheni budzeti'. Nema thread odgovora ni reakcija na originalnu poruku (provereno eksplicitno). RIZICNA odluka o zatvaranju - poruka je kratka i ne precizira tacnu odluku o pojedinacnim stavkama (Zute pantalone/UEPS/Balcannes), ali zadovoljava strogo pravilo za 'odluka' tip jer je to eksplicitna poruka koja potvrdjuje da je stvar izvrsena/resena. Ako se tema ponovo pojavi kao nerazjasnjena u buducim porukama, odmah je otvoriti kao NOVU stavku (ne kao ponovno otvaranje stare) i navesti ovo zatvaranje kao kontekst."
+    },
+    {
+      "ts": "1791970629.603719",
+      "sazetak": "Milja trazi stalan/direktan pristup radnoj budzet tablici za pracenje svog budzeta (ranije imala, sad nema).",
+      "vlasnici": ["U1T2FE5CY"],
+      "datum_zatvaranja": "2026-10-21",
+      "kako": "Istom porukom kao gornja stavka: Milja je 21.10. u 09:19:04, 11 minuta nakon bot-ove objave, napisala 'resheni budzeti'. Zadatak-tip stavka (pristup tablici), pa je potvrda izvrsenja dovoljna bez eksplicitnog da/ne od janqla. Nema thread odgovora ni reakcija (provereno). Ako se ispostavi da pristup ipak nije dat, otvoriti kao novu stavku."
+    },
+    {
+      "ts": "1792477686.102329",
+      "sazetak": "Milos pita Milju da ga ukljuci na dogadjaju/promociji 'Slana' (Slana Plazma).",
+      "vlasnici": [],
+      "datum_zatvaranja": "2026-10-22",
+      "kako": "Zatvoreno kao bespredmetno/napusteno, ne kao resheno. Dogadjaj je bio 20.10. (istog dana kad je pitanje postavljeno) i odavno je prosao. Milja nikad nije odgovorila - nema thread odgovora, nema reakcije na originalnu poruku, nema pomena 'Slane' u bilo kojoj poruci 20. ili 21.10. (provereno u oba citanja). Plan iz prethodnog runa je eksplicitno predvideo zatvaranje bas danas (22.10., 'sutra' iz tog plana) ako do tad ne stigne odgovor ili pomen bespredmetnosti - i tako je i uradjeno, posle ukupno 2 uzastopna prijavljivanja (21.10, 22.10 - ovo poslednje nije ni trebalo da bude prijavljeno jer je vec trebalo da se zatvori pre jutarnje objave, ali je zatvoreno u sklopu obrade istog dana)."
     }
   ]
 }
