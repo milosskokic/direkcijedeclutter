@@ -1,6 +1,6 @@
 {
-  "poslednji_obradjen_ts": "1792734736.328839",
-  "poslednji_run": "2026-10-23T07:06:41Z",
+  "poslednji_obradjen_ts": "1792964893.412979",
+  "poslednji_run": "2026-10-26T07:09:38Z",
   "opste_napomene": [
     {
       "datum": "2026-10-19",
@@ -21,6 +21,10 @@
     {
       "datum": "2026-10-23",
       "napomena": "Nove poruke 22.10-23.10 (7 komada, ts 1792652839 exkl. do 1792734736): sve su bile FYI/offtopic bez ikakvog pitanja ili trazenja saglasnosti - Sonja i Gru najavili pa potvrdili put ('krecemo sutra', 'stigli smo', sa reakcijama), janql podelio dobru vest (Jasmin odobrio sve KV, 4 og-checkmark reakcije), Gru ujutru 23.10. najavio tri kaktus finala za A1 (cisto FYI, 2 reakcije), i Milja+Sonja+Milja razmenile sale o rucku na pumpi (thread, 2 odgovora, cisto offtopic). Jedina poruka vezana za postojecu otvorenu stavku je janqlova FYI o pravilima bolovanja u Srbiji (22.10. 11:15) - ovo je OPSTA informacija (iz ChatGPT-a), NE imenuje konkretnu zamenu za Tiju niti direktno odgovara na njeno pitanje 'da li moze neko da se zameni sa mnom' - zato BP HR stavka OSTAJE otvorena, sad visi 3 radna dana (21,22,23.10). Nema reakcija ni thread odgovora na originalnu Tijinu poruku (provereno slack_get_reactions - prazno). Mentorski sastanci stavka (Milja, rok 'ove nedelje') - danas je petak 23.10, rok teoretski istice danas, ali po eksplicitnom planu iz prethodnog runa odluceno je da se NE prijavljuje kao 'rok prosao' pre ponedeljka 26.10 (da se ostavi prostor da se podeli bas danas popodne/uvece posle ovog jutarnjeg citanja) - u novim porukama (do 07:52 ujutru) nema pomena mentorskih sastanaka, sto je ocekivano jer je dan tek poceo. Plan za sledeci run (26.10, ponedeljak): PRVO proveriti da li je bilo kakva poruka o mentorskim zakljuccima stigla tokom petka popodne/uvece (22.10-23.10 posle 08h) pre sledeceg citanja - ako da, zatvoriti; ako ne, prvi put prijaviti kao :large_yellow_circle: sa 'visi 1 dan' racunato od ponedeljka. Za BP HR: ako do ponedeljka 26.10 i dalje nema imenovane zamene niti pomena da je pitanje bespredmetno, razmotriti direktno imenovanje konkretnog kandidata u objavi (npr. nekog ko je ranije radio HR teme) jer generican 'ko preuzima?' poziv ne radi vec 3 radna dana - mada bot nema dovoljno konteksta da sam predlozi ime, pa ako se ovo uradi, uraditi ga oprezno ili samo eskalirati tekst poruke (npr. dodati da pitanje visi vec nedelju dana) bez izmisljanja konkretnog imena."
+    },
+    {
+      "datum": "2026-10-26",
+      "napomena": "Pregledano 23.10 09:07 - 25.10 22:48 (ceo vikend bio tih, samo bump poruke/sale u noci 23/24.10 o novom kreativnom kandidatu sa zurke - Sonja+Gru preporucuju Milji covek iz Communisa, 1995. godiste, FYI bez akcije). Dve vazne nove teme identifikovane ali NAMERNO JOS NE PRIJAVLJENE: (1) Milos najavio da do utorka 27.10. salje tabelicu sa predlogom tima/procenata za A1 ugovor (posle razocaravajuceg razgovora sa Majom A1 o ritejneru) - buduci rok, cekamo da prodje; (2) Milja pokrenula pitanje da li je profitabilnost/MRR i dalje glavni cilj firme za 2027 ili se prioritizuje kreativna ambicija - janql dao dug substantivan odgovor ali eksplicitno prebacio finalnu odluku na uzivo Direkcije sastanak ('stavljamo na Direkcije'), bez konacne odluke na Slacku. Buduci da se Direkcije istorijski cesto drze ponedeljkom, moguce da se bas danas (26.10.) raspravi uzivo - sledeci run treba prvo proveriti da li je neko javio zakljucak u kanalu pre nego sto prijavi kao 'visi'. Takodje primeceno: istog jutra (23.10.) je Milja prihvatila janqlov predlog da ona i Tija urade 'Succession' plan za ceo tim pocev od ponedeljka 26.10. - ovo je ZATVORENO u istom prozoru citanja (resheno isti dan, 10:11, 'ajde onda Tija i ja da uradimo Succession... od ponedeljka'), nije upisano kao posebna stavka jer se nikad formalno nije ni 'otvorilo' kao cekajuce pre nego sto je resheno - konzistentno sa pravilom iz 21.10. Gruov upit 'je l moze neko da prevede Biljaninu poruku na srbija danas' (23.10. 11:32) NIJE tretiran kao otvoreno pitanje - Miljin odgovor odmah posle ('zajebava nas ali ja to ne shvatam ozbiljno', 'nego sala sega') jasno signalizira da je u pitanju bila sala/konfuzna izjava neke javne licnosti, ne stvaran zahtev za prevod. Vikendom (25.10. 16:55-22:48) je proslo nekoliko kratkih tim-odluka (day off za Sodu/Biksi, Yay/Nay za proslavni rucak) koje su se u potpunosti otvorile i zatvorile u istom prozoru citanja (visestruka eksplicitna 'da' + janqlova potvrda da je obavestio ljude) - nisu upisane kao stavke. BP HR stavka (Tija) sad visi 4 radna dana - blizu :warning: praga, sledeci put (ako ostane otvorena) bice 5+ i treba naglasiti u formulaciji da visi nedelju dana."
     }
   ],
   "otvorene_stavke": [
@@ -30,17 +34,35 @@
       "ceka_odgovor_od": [],
       "tip": "pitanje",
       "sazetak": "Tija pita da li moze neko da je zameni za 'BP HR' jer je na bolovanju.",
-      "broj_prijava": 3,
-      "napomena": "Treci uzastopni run bez odgovora (nastalo 20.10. utorak, prijavljeno 21.10, 22.10. i 23.10). janql je 22.10. u 11:15 podelio opstu FYI informaciju o pravilima bolovanja u Srbiji (iz ChatGPT-a) - ovo NIJE odgovor na pitanje ko preuzima BP HR, samo kontekst o tome koliko bolovanje moze da traje. I dalje nema imenovane zamene, nema thread odgovora, nema reakcija na originalnu poruku (provereno eksplicitno 23.10). Visi 3 radna dana (21, 22, 23.10). Plan za sledeci run (ponedeljak 26.10, ako jos prodje vikend bez pomena): pitanje ce visiti 4 radna dana (vikend se ne racuna) - jos uvek ispod :warning: praga od 5, ali blizu. Razmotriti eskalaciju formulacije (npr. napomenuti da pitanje visi vec nedelju dana) ili proveriti da li je sastanak/task vec prosao pa je pitanje bespredmetno - ali NE izmisljati ime konkretnog kandidata za zamenu jer bot nema tu informaciju iz poruka."
+      "broj_prijava": 4,
+      "napomena": "Cetvrti uzastopni run bez odgovora (nastalo 20.10, prijavljeno 21,22,23,26.10 - vikend ne racunat). Jedina nova informacija je iz janqlove poruke 23.10. u 09:28:06 ('Tija radi na BP, ali nije mogla da se komituje na rok zbog bolovanja svih. Takodje, mislim da je trazila negde ovde da se zameni sa nekim, ali da se niko nije javio') - ovo NIJE odgovor na pitanje, nego eksplicitna POTVRDA da pitanje i dalje visi bez volontera, sto samo ucvrscuje da stavka ostaje otvorena. Nema thread odgovora, nema reakcija na originalnu poruku (ponovo provereno). Visi 4 radna dana (21,22,23,26.10). Plan za sledeci run (27.10, utorak): ako jos uvek nema volontera, stavka ce preci prag :warning: (5+ radnih dana) - formulisati poruku sa naglaskom da visi nedelju dana. I dalje NE izmisljati konkretno ime kandidata za zamenu."
     },
     {
       "ts": "1792492082.766899",
       "pitao": "U6USJ8LCD",
       "ceka_odgovor_od": [],
       "tip": "zadatak",
-      "sazetak": "Milja ce podeliti zakljucke mentorskih sastanaka sa kreativnim timom, obecano 'ove nedelje' (do petka 23.10.).",
+      "sazetak": "Milja treba da podeli zakljucke mentorskih sastanaka sa kreativnim timom, obecano 'ove nedelje' (rok bio petak 23.10.).",
+      "broj_prijava": 1,
+      "napomena": "Rok (petak 23.10.) je prosao bez ikakvog pomena deljenja zakljucaka u citanim porukama (23.10. popodne/vece, 24.10, 25.10) - pregledano sve, nema spomena 'mentorske', 'kreativni tim' ili zakljucaka u tom kontekstu. NAPOMENA: 23.10. ujutru je Milja imala POTPUNO ODVOJENU temu 'Succession' sa Tijom (planiranje razvoja/naslednika u timu, pocinje 'od ponedeljka' 26.10.) - to NIJE isto sto i mentorski sastanci sa kreativnim timom, ne mesati ih (Succession je vec zatvoren u istom prozoru citanja 23.10, vidi opste_napomene). Prvi put prijavljeno danas (26.10.) kao :large_yellow_circle: (rok prosao) sa 'visi 1 dan', racunato od ponedeljka po planu iz prethodnog runa (ne po standardnoj formuli od dana posle originalne poruke, jer stavka nije bila aktivno 'otvorena/cekajuca' pre isteka roka). Plan za sledeci run (27.10.): proveriti da li je bilo kakav pomen deljenja zakljucaka tokom ponedeljka (26.10.) posle ovog jutarnjeg citanja - ako da, zatvoriti; ako ne, prijaviti drugi put sa 'visi 2 dana'."
+    },
+    {
+      "ts": "1792765976.232239",
+      "pitao": "U1T2LF7GD",
+      "ceka_odgovor_od": [],
+      "tip": "zadatak",
+      "sazetak": "Milos obecao da ce poslati tabelicu sa predlogom tima i procenata za A1 ugovor, najkasnije utorak 27.10.",
       "broj_prijava": 0,
-      "napomena": "NE PRIJAVLJIVATI JOS - danas je petak 23.10, rok teoretski istice danas, ali instrukcije kazu da se tek nakon sto rok PRODJE moze prijaviti; u jutarnjim porukama citanim danas (do 07:52) nema pomena, sto je ocekivano jer dan tek pocinje. Plan za sledeci run (ponedeljak 26.10.): PRVO proveriti da li je bilo kakva poruka o mentorskim zakljuccima stigla u petak popodne/uvece (22.10-23.10. posle jutarnjeg citanja) - ako da, zatvoriti direktno kao resheno (nece se ni prijaviti); ako ne, prvi put prijaviti kao :large_yellow_circle: (rok prosao) sa 'visi 1 dan' racunato od ponedeljka 26.10."
+      "napomena": "Nastalo 23.10. popodne (16:29-16:32), u kontekstu razocaravajuceg razgovora sa Majom iz A1 o ritejneru za 2027 (A1 ne zeli da se trazi povecanje, 'ne talasamo'). Milos je najavio plan: tokom vikenda razmislja i konsultuje se sa timom, a 'sledece nedelje' (odnosno ove nedelje posto je vikend prosao) salje tabelicu sa predlogom tima/procenata najkasnije utorkom (27.10.). Rok JOS NIJE prosao (danas je ponedeljak 26.10.) - po pravilu za zadatak sa buducim rokom, upisano ali NE prijavljeno. janql je u threadu (17:40:20) odgovorio samo licnom podrskom ('vidim da si zestoko razocaran, zao mi je... na poslovnom imam 100 ideja, ali o tom potom') - nije substantivan poslovni odgovor, poslovna diskusija eksplicitno odlozena za kasnije ('o tom potom'). Plan za sledeci run (27.10., utorak): proveriti da li je tabelica/predlog tima za A1 podeljen u kanalu tokom ponedeljka ili utorka ujutru - ako da, zatvoriti kao resheno uz citat; ako ne i utorak prodje bez nje, prijaviti prvi put kao :large_yellow_circle: sa 'visi 1 dan'."
+    },
+    {
+      "ts": "1792740794.745379",
+      "pitao": "U6USJ8LCD",
+      "ceka_odgovor_od": [],
+      "tip": "odluka",
+      "sazetak": "Da li je profitabilnost/MRR i dalje glavni cilj za 2027, ili se prioritizuje kreativna odlicnost/razvoj mediora - treba usaglasiti pre planiranja timova.",
+      "broj_prijava": 0,
+      "napomena": "Milja je 23.10. ujutru (09:11-09:33) otvorila pitanje da li treba da se usaglasi tim oko glavnog cilja za 'h127' (2027) pre planiranja timova - do sad je to bila profitabilnost/MRR, ali se pojavila ideja da se prioritizuje kreativna ambicija. janql je odgovorio OPSIRNO i substantivno (09:42:51, dug tekst 'Re: Profitabilnost i MRR') - objasnio istoriju i stav da 'nikad nismo doneli odluku da prioretizujemo MRR na ustrb kvaliteta' - ali NIJE dao konacnu odluku o prioritetima za 2027, nego je eksplicitno zavrsio porukom: 'Ovde prekidamo preko Sleka jer sad vec kucamo traktate... stavljamo na Direkcije da pretvorimo u korisniju diskusiju.' Dakle tema je SVESNO prebacena sa Slacka na uzivo sastanak (Direkcije), bez ikakve eksplicitne odluke do sad. Nisam prijavio danas (26.10.) jer se Direkcije sastanci u ovom kanalu istorijski cesto odrzavaju ponedeljkom, pa postoji realna sansa da se ova tacka raspravi BAS danas popodne - prerano bi bilo prijaviti kao 'visi' pre nego sto se zna da li je uzivo sastanak vec odrzan. Plan za sledeci run (27.10., utorak): PRVO proveriti da li je neko (najverovatnije janql ili Milja) posle Direkcija 26.10. javio zakljucak/odluku u kanalu - ako da, zatvoriti uz citat (stroze pravilo za 'odluka' tip vazi: treba eksplicitno da/ne ili potvrda izvrsenja, ne samo da je 'raspravljeno'); ako ne, prijaviti prvi put sa 'visi 1 dan' racunato od utorka (analogno mentorskim sastancima - rok/prilika je bila ponedeljak 26.10., clock pocinje sledeceg radnog dana ako ne stigne potvrda)."
     }
   ],
   "zatvorene_stavke": [
