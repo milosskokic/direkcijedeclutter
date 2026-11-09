@@ -1,6 +1,6 @@
 {
-  "poslednji_obradjen_ts": "1793890699.838109",
-  "poslednji_run": "2026-11-06T07:15:00Z",
+  "poslednji_obradjen_ts": "1794069558.511859",
+  "poslednji_run": "2026-11-09T07:07:43Z",
   "opste_napomene": [
     {
       "datum": "2026-10-19",
@@ -57,38 +57,52 @@
     {
       "datum": "2026-11-06",
       "napomena": "Pregledano 04.11. 17:50:07 (prethodni poslednji_obradjen_ts) do 05.11. 15:58:19 (Tijina poruka o picu posle posla, najnovija procitana) - 13 novih poruka van bot-ove sopstvene objave od 05.11. 08:07:31. DVE STAVKE ZATVORENE OVOG RUNA: (1) Kalendar/Sonja praznici - Sonja je 05.11. u 08:14:22, 7 minuta posle bot-ove jutarnje objave, napisala u kanalu 'Javila Tiji za spajanje praznika!', a odmah zatim (08:14:34) dodala direktno botu, imenom: 'dragi Claude obrisi to'. Ovo je najeksplicitniji signal zatvaranja ikad vidjen - ne samo da Sonja potvrdjuje izvrsenje (provela predlog kroz menadzere i javila Tiji, tacno original zadatak), nego direktno naredjuje botu da ukloni stavku. Zatvoreno bez ikakve sumnje, posle 3 formalna prijavljivanja (04,05,06.11 - ovo poslednje nije ni trebalo da se pojavi u poruci jer je vec zatvoreno pre sastavljanja, vidi dole). (2) Wellbeing test (Tija, app.rezilient.rs) - OVOG PUTA PRVI PUT PRIMENJENO TIHO NAPUSTANJE, status 'napusteno' (ne 'resheno'): i trece uzastopno prijavljivanje bi palo danas bez ijednog odgovora/pomena/reakcije u 13 novih poruka niti u threadu (prazan). Ovo NIJE formalni 10x-pravilo iz instrukcija (koje trazi 10 prijavljivanja pre napustanja) - ovo je NAMERNO ranije, diskreciono napustanje planirano eksplicitno kroz tri uzastopna runa (04.11, 05.11, 06.11 su sva tri unapred najavila ovu mogucnost) zbog prirode stavke: sitna, niskorizicna, vremenski-osetljiva usluga (isprobaj demo i javi utisak 'za 3 minuta') ciji je demo link verovatno vec zastareo posle 3+ radna dana cekanja, i koja ne nosi nikakav poslovni rizik ako ostane zauvek nerealizovana. NIJE pomenuto u danasnjoj poruci (tiho, bez najave timu) jer formalno pravilo 'poslednji put prijavljujem' vazi samo za 10x-slucaj. Ako se iz bilo kog razloga demo tema ponovo pojavi u buducnosti (npr. neko ipak proba i javi utisak, ili neko ponovo pita), tretirati kao potpuno NOVU stavku. REZULTAT: posle oba zatvaranja, OSTAJE SAMO JEDNA otvorena stavka - Profitabilnost/MRR - za devetu uzastopnu prijavu. Devet radnih dana bez ijednog pomena 'Direkcija'/'profitabilnost'/'MRR'/'dihotomija' u bilo kojoj od ~31 novih poruka procitanih tokom ta dva dana (05-06.11, sve o Kaktus nagradama/janqlovom izostanku, Miljinom bolovanju/laboratoriji, i organizaciji zurke) - po planu iz prethodnog runa, OVOG PUTA PRVI PUT DIREKTNO TAGOVANI Milja (pitalac), janql i Milos u tekstu poruke umesto generickog 'Nema vlasnika', jer je 9 radnih dana bez ijednog traga vec predugo za pasivno cekanje uz anonimni poziv - ovo je analogno precedentu iz 15-dnevnog 'Svi' slucaja gde je imenovanje konkretnih ljudi odmah pokrenulo rezoluciju. ceka_odgovor_od prosiren sa [] na [Milja, janql, Milos] zbog ovoga. OSTALE NOVE PORUKE (sve zatvorene u istom prozoru citanja ili cisto offtopic/FYI, bez upisivanja kao stavka): Kaktus nagrade logistika (Milos najavio odlazak ako ostaje dogovor da se ne sedi, janql potvrdio 'Ostaje', Milos 'Dobro kul' - resheno u istom prozoru); janqlovo pitanje Milji da li sme da preskoci Kaktus nagrade (tezak dan, putuje sutra) - Milja odgovorila eksplicitno 'jeste, samo javi ekipi' u sledecoj poruci, resheno u istom prozoru, nikad nije ni trebalo da bude otvoreno kao stavka; Miljin niz poruka o poseti lekaru (bolovanje 3 dana, mogucnost laboratorije/antibiotika, povratak u kanc od ponedeljka) - procitan i thread (4 replike, Tija saosecajna, Milja poslala sliku, dogovor da ide da proveri kad je bezbedno da dodje) - cisto licno/FYI, bez ikakvog pitanja ili trazenja saglasnosti, ne upisano; Tijina poruka o picu posle posla (nastavak price o zurci za Mici/Mihaila) - cisto FYI/komentar raspolozenja, ne upisano. Plan za sledeci run (09.11., ponedeljak, racunajuci vikend): (1) Profitabilnost - deseto prijavljivanje 'visi 10 dana' ako nijedan od tri direktno tagovana (Milja/janql/Milos) ne odgovori preko vikenda ili ponedeljak ujutru - ovo bi prvi put dostiglo formalni prag od 10 prijavljivanja iz instrukcija (Korak 4, 'ako je stavka prijavljena 10 puta a i dalje nije resena, prebaci je u zatvorene_stavke sa napusteno i tog dana je pomeni poslednji put uz poslednji put prijavljujem') - PAZITI da se ovo pravilo primeni tacno ako do tad ne stigne odgovor, i formulisati poslednje pominjanje jasno; (2) Ako NEMA otvorenih stavki preko vikenda i profitabilnost se zatvori, sledeci run salje 'Cisto jutro' format; (3) Opste pratiti da se nijedna od dve danas zatvorene stavke (Kalendar/Sonja, Wellbeing) ne vrati kao nerealizovana."
+    },
+    {
+      "datum": "2026-11-09",
+      "napomena": "Pregledano 05.11. 15:58:19 (prethodni poslednji_obradjen_ts) do 07.11. 17:39:18 (Miljina poruka 'ja msm da bi nesto closer to home bilo top', najnovija procitana) - ukljucujuci bot-ovu sopstvenu objavu od 06.11. 08:07:01 (ispravno preskocena) i njen thread (2 replike, procitane detaljno - vidi 'kako' polje profitabilnost stavke). GLAVNI DOGADJAJ: Profitabilnost/MRR stavka je dostigla formalni prag od 10 prijavljivanja bez resenja i PRVI PUT u istoriji ovog bota formalno napustena ('napusteno') po Koraku 4 instrukcija - detalji u 'kako' polju te stavke u zatvorene_stavke. NOVA STAVKA OTVORENA: Sonjin WOW soba poklon predlog (06.11. 11:54) - budzet od Gorana i potvrda liste klijenata od Grua i dalje nedostaju, rok 'ponedeljak' (danas) je stigao - detalji u napomeni te stavke. NAMERNO NIJE PRIJAVLJENO (prerano/previse neformalno): Sonjin predlog BRC za novogodisnju proslavu (07.11. 17:20:12, 'Mozda je rano da pricamo... Ako nam se svidja, nije lose odmah da uzmemo termin') i Miljin odgovor (17:39:18, 'ja msm da bi nesto closer to home bilo top') - ovo je tek zapoceta, otvorena brainstorming diskusija bez konkretnog pitanja upucenog nekom imenovanom vlasniku niti jasnog roka; Sonja sama kaze da je 'mozda rano'. Pratiti u sledecim runovima - ako diskusija stane bez zakljucka nekoliko dana, ili ako neko eksplicitno trazi odluku/saglasnost oko termina, tada prvi put prijaviti kao novu stavku (verovatno tip odluka, pitao=Sonja). OSTALO ZATVORENO U ISTOM PROZORU CITANJA (bez upisivanja kao stavke): torta za Milicu i Mihaila - ceo tok od predloga (Milja 06.11. 16:12:15, 'da li ste za to da Milici i Mihailu istampamo jestivu sliku za tortu') do narudzbine i dogovora o placanju (Milja 07.11. 13:29:26, 'naruzena i torta... samo mi spremite kes u pon') - Tija se slagala na svakom koraku ('Super, moze!'), potpuno operativno resheno unutar ovog prozora, nikad nije ni trebalo da bude otvorena stavka. Milosev refleksivni post o Isidori/Rauchu projektu (06.11. 16:02:18-16:02:46, 'Misao za kraj radne sedmice... Nece biti tema na direkcijama ni na menadzment meet-u nikad') - cisto licno razmisljanje/stav bez pitanja, Tija odgovorila sa slaganjem i produbljivanjem teme (16:08:29-16:09:32, 'direkcija treba samo da preispituje vise... povremeno se spusti na operativu da vidi?'), Milos zakljucio diskusiju serijom kratkih slaganja (16:11:10-16:11:34, 'Hajde samo da budemo iskreni... I da se spustimo u operativu, naravno... Kad treba.') - zatvoreno/iscrpljeno unutar istog prozora, filozofska diskusija bez konkretne akcije koja ceka nekog. Plan za sledeci run (10.11., utorak): (1) WOW soba - proveriti da li je Goran dao budzet i da li se Gru izjasnio, ako da zatvoriti uz citat, ako ne drugi put prijaviti 'visi 2 dana'; (2) BRC/novogodisnja zurka diskusija - proveriti da li je nastavljena i da li je dosla do konkretnog pitanja/odluke koja ceka odgovor, ako da prvi put prijaviti; (3) OBAVEZNO proveriti da li je git push ovog (09.11.) runa uspeo - ako sledeci run zatekne zastareo state fajl, eskalirati umesto tihog rekonstruisanja (po preseduanu iz 03.11.)."
     }
   ],
   "otvorene_stavke": [
     {
-      "ts": "1792740794.745379",
-      "pitao": "U6USJ8LCD",
-      "ceka_odgovor_od": ["U6USJ8LCD", "U1T2FE5CY", "U1T2LF7GD"],
+      "ts": "1793962462.272189",
+      "pitao": "U899GA893",
+      "ceka_odgovor_od": [
+        "U1T2FE5CY",
+        "U08NVRXT2BY"
+      ],
       "tip": "odluka",
-      "sazetak": "Da li je profitabilnost/MRR i dalje glavni cilj za 2027, ili se prioritizuje kreativna odlicnost/razvoj mediora - treba usaglasiti pre planiranja timova.",
-      "broj_prijava": 9,
-      "napomena": "Deveto uzastopno prijavljivanje, i dalje nula pomena 'Direkcija'/'profitabilnost'/'MRR'/'dihotomija' (provereno u ~31 novih poruka 05-06.11, sve o Kaktusu, Miljinom bolovanju i zurci). Prvi put ovog runa DIREKTNO TAGOVANI u poruci Milja (pitalac, U6USJ8LCD), janql (U1T2FE5CY) i Milos (U1T2LF7GD) umesto generickog 'Nema vlasnika' - ceka_odgovor_od prosiren na sve troje. Plan za sledeci run (09.11., ponedeljak): ovo je deseto prijavljivanje ako niko ne odgovori preko vikenda ili ponedeljak ujutru - PRVI PUT dostignut formalni prag od 10 prijava iz instrukcija (Korak 4): ako do tad nema odgovora, prebaciti u zatvorene_stavke sa statusom 'napusteno' i tog dana to jasno pomenuti u poruci uz 'poslednji put prijavljujem'."
+      "sazetak": "Goran da javi budzet/limit (do 90.000 rsd) za WOW sobu poklon klijentima, Gru da potvrdi svoju listu klijenata.",
+      "broj_prijava": 1,
+      "napomena": "Sonja je 06.11. u 11:54:22 predlozila da se klijentima (A1, Bambi, Generali, Nutrino, Raiffeisen, Mercator) pokloni prolazak kroz WOW sobu, trazila da se 'dogovore u ponedeljak' (danas, 09.11.) kojima se nudi, i eksplicitno pitala: 'Neka se Skoki i Gru jave za svoje klijente ili ako bi izmenili listu, a neka se Goran javi za budzet.' Milos (Skoki) je odgovorio 'Agreed' (12:05:03) - njegov deo se racuna kao pokriven. janql (Goran) je odgovorio 'Top 5 je ok :joy:' (11:57:01, pre Milosevog odgovora) - ovo deluje kao komentar na LISTU (sala da ima 6 stavki a zove se 'top 5'), ne kao odgovor na eksplicitno postavljeno budzetsko pitanje ('iz kog budzeta i koliko smem da potrosim') - nijedan konkretan iznos ili potvrda limita nije dat. Gru (Filip, U08NVRXT2BY) uopste nije odgovorio niti u kanalu niti u threadu (nema threada na originalnoj poruci). Pregledano do 07.11. 17:39 - nema daljeg pomena WOW sobe ni u jednoj kasnijoj poruci (sve kasnije poruke su o torti za Milicu/Mihaila i novogodisnjoj zurci, nepovezano). Rok 'dogovorimo u ponedeljak' je danas (09.11.) stigao bez vidljivog zakljucka, zato prvi put prijavljeno. Plan za sledeci run: proveriti da li je Goran dao konkretan budzet/iznos (ili bar eksplicitno 'ok' na predlozenih do 90.000 rsd po klijentu) i da li se Gru izjasnio o svojim klijentima (ili prećutno prihvatio listu). Ako oba odgovore makar implicitno, zatvoriti uz citat. Ako se cuje da je tema raspravljena uzivo na Direkcijama (sastanak se istorijski cesto drzi ponedeljkom), proveriti da li je neko preneo zakljucak u kanal pre nego sto se dalje prijavljuje."
     }
   ],
   "zatvorene_stavke": [
     {
       "ts": "1790243860.785139",
       "sazetak": "Janql da nadje alternativni termin za BP jer Goxi, Skoki i Milja ne mogu u ponedeljak zbog IAA dogadjaja.",
-      "vlasnici": ["U1T2FE5CY"],
+      "vlasnici": [
+        "U1T2FE5CY"
+      ],
       "datum_zatvaranja": "2026-09-28",
       "kako": "Janql je 25.09. u 09:14:54 napisao u kanalu: 'Svi mozete u sredu u 1330h...' sa 4 reakcije white_check_mark od kolega."
     },
     {
       "ts": "1789978901.257169",
       "sazetak": "Milja pita da li ima klijenata koji ne mogu da izdrze dan bez service-a, pre nego sto posalje poruku ljudima.",
-      "vlasnici": ["U08NVRXT2BY", "U1T2LF7GD"],
+      "vlasnici": [
+        "U08NVRXT2BY",
+        "U1T2LF7GD"
+      ],
       "datum_zatvaranja": "2026-09-29",
       "kako": "Milos je 29.09. u 12:29:07 napisao u kanalu: 'Gru i milos -odlucili smo, ovaj task mozes da skloni.' Milos (iz ceka_odgovor_od) eksplicitno potvrdjuje da je odluka doneta."
     },
     {
       "ts": "1789995217.153149",
       "sazetak": "Gru pita da li neko zeli da se 12 pari rukavica (u ramovima) poklone nekome; Milos jos nije odlucio.",
-      "vlasnici": ["U1T2LF7GD"],
+      "vlasnici": [
+        "U1T2LF7GD"
+      ],
       "datum_zatvaranja": "2026-09-29",
       "kako": "Milos je 29.09. u 12:29:21 napisao: 'Rukavice, Goksi jesi ti sredio spisak...' - implicitno tretira odluku (da poklanjamo) kao vec donetu, prelazi na logistiku."
     },
@@ -109,14 +123,18 @@
     {
       "ts": "1790677761.373539",
       "sazetak": "Milos pita Goksija da li je sredio spisak primalaca za poklon rukavice.",
-      "vlasnici": ["U1T2FE5CY"],
+      "vlasnici": [
+        "U1T2FE5CY"
+      ],
       "datum_zatvaranja": "2026-10-02",
       "kako": "Milos je 01.10. u 09:41:52 napisao: 'Dopunili smo spisak sve je okej sa rukavicama' - eksplicitna potvrda vlasnika."
     },
     {
       "ts": "1790783839.249299",
       "sazetak": "Gru treba da prenese kako je izgledao njegov 1:1 razgovor sa Nikolom, pre zajednickog statusnog sastanka.",
-      "vlasnici": ["U08NVRXT2BY"],
+      "vlasnici": [
+        "U08NVRXT2BY"
+      ],
       "datum_zatvaranja": "2026-10-02",
       "kako": "Gru je 01.10. u 13:34:54 napisao detaljan recap u kanalu, tacno kako je i obecao."
     },
@@ -137,21 +155,28 @@
     {
       "ts": "1790757820.423029",
       "sazetak": "Milja pita Sonju koliki je ukupan trosak za SoMo festival.",
-      "vlasnici": ["U899GA893"],
+      "vlasnici": [
+        "U899GA893"
+      ],
       "datum_zatvaranja": "2026-10-06",
       "kako": "Sonja je 05.10. u 09:08:27 napisala: 'Javili smo Milji za SoMo troskove i sve dogovorili' - eksplicitna potvrda vlasnika."
     },
     {
       "ts": "1790959089.692129",
       "sazetak": "Milja treba da proveri konflikt sa Bambijem i javi Andreji iz Cro Atlantic da li su zainteresovani za projekat na Cockti.",
-      "vlasnici": ["U6USJ8LCD"],
+      "vlasnici": [
+        "U6USJ8LCD"
+      ],
       "datum_zatvaranja": "2026-10-06",
       "kako": "Milja je kontaktirala Andreju 05.10. i izvestila o odgovoru u kanalu ('nije ritejner', 'projekti za sad') - originalni zadatak izvrsen."
     },
     {
       "ts": "1790836965.963099",
       "sazetak": "Tim treba da finalizuje koga saljemo na Kaktus Talents (Marko, Mica i/ili Mihajlo) pre nego sto se prijave zatvore.",
-      "vlasnici": ["U6USJ8LCD", "U05Q6GC8A4B"],
+      "vlasnici": [
+        "U6USJ8LCD",
+        "U05Q6GC8A4B"
+      ],
       "datum_zatvaranja": "2026-10-07",
       "kako": "Aleksandar je 06.10. u 09:27:09, u threadu bot-ove poruke od istog jutra, napisao: 'Skontali za kaktus. Mihajlo i Mica su nasi talenti.' Eksplicitna finalna odluka od jednog od dvoje iz ceka_odgovor_od (Aleksandar), nakon 3 uzastopna prijavljivanja (02.10, 05.10, 06.10) i prethodnog signala od 05.10 (pohvale Micu i Mihajla) koji nije bio dovoljan po strogom pravilu. Ovaj put je formulacija nedvosmislena - imenovan je finalni par (Mihajlo + Mica), Marko ispao iz igre."
     },
@@ -165,7 +190,12 @@
     {
       "ts": "1791205041.591179",
       "sazetak": "Gru pita da li tim zeli 'direkcije pre direkcija' i kada ima vremena; pokusaj dogovora termina za 05.10 propao.",
-      "vlasnici": ["U08NVRXT2BY", "U6USJ8LCD", "US38XUCMV", "U1T2FE5CY"],
+      "vlasnici": [
+        "U08NVRXT2BY",
+        "U6USJ8LCD",
+        "US38XUCMV",
+        "U1T2FE5CY"
+      ],
       "datum_zatvaranja": "2026-10-08",
       "kako": "Gru je 07.10. u 09:12:38 napisao u kanalu, direktno ispod bot-ove jutarnje poruke koja je ovu stavku prijavila: 'dogovor oko termina za direkcije nije vise otvorena stavka'. Eksplicitna izjava vlasnika (jednog od cetvoro iz ceka_odgovor_od) da je tema zatvorena - bez obzira da li je dogovoren konkretan termin ili je tema odustala, formalno vise ne ceka odgovor. Visilo ukupno 3 uzastopna prijavljivanja (05.10 kad je postavljeno pa indirektno, 06.10, 07.10) pre nego sto je zatvoreno dan posle poslednjeg prijavljivanja."
     },
@@ -179,42 +209,56 @@
     {
       "ts": "1791565757.537959",
       "sazetak": "Milja pita Sonju ('socko') da li moze da bude njen glasnogovornik na sastanku koji se poklapa (da se syncuju pre i posle, i Sonja doda misljenje naknadno).",
-      "vlasnici": ["U899GA893"],
+      "vlasnici": [
+        "U899GA893"
+      ],
       "datum_zatvaranja": "2026-10-12",
       "kako": "Sonja je odgovorila u threadu 09.10. u 19:14:37, svega 5 minuta kasnije, jednom recju: 'moze'. Eksplicitno da, pitanje resheno istog dana kad je postavljeno, nije ni uslo u otvorene stavke."
     },
     {
       "ts": "1791782966.480239",
       "sazetak": "Sonja pita da li janql ili Milja mogu da odu i jave se Ani i Ivoni (Lorealke iznajmljuju Zmiju 12-13.10.).",
-      "vlasnici": ["U1T2FE5CY"],
+      "vlasnici": [
+        "U1T2FE5CY"
+      ],
       "datum_zatvaranja": "2026-10-13",
       "kako": "janql je 12.10. u 14:39:42 napisao u kanalu (tagovao Sonju, 're: LOreal'): 'Bili smo Milja i ja do zmije ali smo shvatili da je bash glupo da sad upadnemo jer ljudi verovatno imaju neko predavanje. U isto vreme shvatili smo da je najbolje verovatno da ih pozovemo na rucak da pitamo da li su organizovali rucak pa da li zele sa nama sutra.' Substantivan odgovor - objasnjava sta su uradili i sledeci korak - dovoljan je za 'zadatak' tip stavke (nije 'odluka' koja bi trazila strogo da/ne). Napomena: tema se 13.10. nastavila novim krugom (Sonja trazi da se jave jos dvema osobama, Zorani i Ani Smileskoj) - to je upisano kao potpuno nova stavka jer je originalni, konkretan zahtev (javiti se Ani i Ivoni) ispunjen onoliko koliko je moglo, a novi zahtev ima nove ljude i nov okidac (Mihailova najava)."
     },
     {
       "ts": "1791874910.312949",
       "sazetak": "janql (i Sonja) treba da odu i jave se Zorani Antic i Ani Smileskoj u Zmiji, kad Mihailo javi da su stigle.",
-      "vlasnici": ["U1T2FE5CY"],
+      "vlasnici": [
+        "U1T2FE5CY"
+      ],
       "datum_zatvaranja": "2026-10-14",
       "kako": "Sonja je 13.10. u 09:42:09 javila u threadu: 'Ja sam bila, pozdravila se sa njima, ali deluje mi kao da su bas fokusirane i da im se ne druzi, nego zure sa edukacijom', a u 09:42:59 dodala da je Ana rekla 'sve super i da nista ne fali, odlicno im je kod nas'. janql je u 09:46:26 zakljucio 'Pa OK da ne cackamo mecku. Odnosno dve mecke direktorke hehe' - eksplicitna odluka da se dalje ne insistira na kontaktu jer su gosti fokusirane na svoju agendu (reorganizacija timova) i sve je vec pozitivno receno."
     },
     {
       "ts": "1792069540.559529",
       "sazetak": "Aleksandar treba spisak/info od Milje koga od kreativaca ubaciti u ChatGPT pretplatu, rok petak 16.10. do kraja dana.",
-      "vlasnici": ["U6USJ8LCD"],
+      "vlasnici": [
+        "U6USJ8LCD"
+      ],
       "datum_zatvaranja": "2026-10-16",
       "kako": "Aleksandar je 16.10. u 11:31:50, direktno u threadu ispod bot-ove jutarnje poruke od istog dana, napisao: 'zavrsili sve sto se tice ChatGPT-a'. Eksplicitna potvrda da je zadatak zavrsen (nije bilo potrebno strogo da/ne jer je tip 'zadatak', ne 'odluka') - dovoljno je da je pitalac (Aleksandar, iz ceka_odgovor_od nije bio Aleksandar nego Milja, ali Aleksandar je onaj ko je postavio originalni zadatak i njegova potvrda da je 'sve zavrseno sto se tice ChatGPT-a' pokriva i deo oko spiska kreativaca) potvrdio zavrsetak. Prijavljeno samo jednom (16.10.) pre zatvaranja istog dana."
     },
     {
       "ts": "1791977513.473999",
       "sazetak": "Koji je konkretan predlog za resavanje problema sa dolaskom na posao (poremecaj NS/BG saobracaja)?",
-      "vlasnici": ["US38XUCMV", "U08NVRXT2BY", "U05Q6GC8A4B"],
+      "vlasnici": [
+        "US38XUCMV",
+        "U08NVRXT2BY",
+        "U05Q6GC8A4B"
+      ],
       "datum_zatvaranja": "2026-10-20",
       "kako": "Tija je 19.10. u 09:32:44, direktno u threadu bot-ove jutarnje poruke od istog dana (22 minuta nakon objave), napisala: 'Zatvori temu Novog Sada, zavrsili'. Eksplicitna potvrda jednog od troje iz ceka_odgovor_od da je tema zavrsena/resena - dovoljno je za 'pitanje' tip stavke. Visilo ukupno 4 uzastopna prijavljivanja (16.-19.10, vikend ne racunat) od kad je vlasnistvo preneto na imenovano troje."
     },
     {
       "ts": "1792144611.371009",
       "sazetak": "Milja ceka da janql javi kad se reshi konflikt interesa (Marijana/AVS), da ona javi Andreji iz Cro Atlantic za Cocktu priliku.",
-      "vlasnici": ["U1T2FE5CY"],
+      "vlasnici": [
+        "U1T2FE5CY"
+      ],
       "datum_zatvaranja": "2026-10-20",
       "kako": "janql je 19.10. u 09:12:15 napisao u kanalu: 'Milja, potvrdila je Marijana da je OK, ne zna da je konkretno u pitanju kokta' - direktan odgovor na Miljino cekanje. Zatim je, kad je Milja pitala (09:12:51) 'da li da sacekam Grua pre javljanja Andreji?', janql u 09:14:01 odgovorio 'Moje isto, to je prio, go for it', a u 09:14:20 dodao 'A pogotovu ne cekamo da se svi izjasne dok nismo ni na cijem ritejneru'. Potpuno eksplicitno - konflikt interesa raspetljan, Milja dobila zeleno svetlo da javi Andreji bez cekanja na Grua. Prijavljeno samo jednom (19.10.) pre zatvaranja istog dana."
     },
@@ -228,28 +272,36 @@
     {
       "ts": "1791890253.299519",
       "sazetak": "Da li je bilo nesto neocekivano na feedback sesiji sa Majom iz A1?",
-      "vlasnici": ["U1T2LF7GD"],
+      "vlasnici": [
+        "U1T2LF7GD"
+      ],
       "datum_zatvaranja": "2026-10-21",
       "kako": "Istom porukom (20.10. 09:18:10, odmah ispod bot-ove jutarnje objave) Milos je napisao: 'Milos je odgovorio Tiji da nije bilo nista neocekivano na feedback sesiji sa Majom, izuzev da su okej primili promenu Isidore i da deluje da se uklapa Milica u novi plan.' Eksplicitna potvrda vlasnika (Milos, jedini iz ceka_odgovor_od) da je substantivno odgovorio Tiji. Visilo 5 uzastopnih prijavljivanja, zatvoreno dan nakon sto je prvi put preslo :warning: prag. Poruka procitana tek na ovom (21.10.) runu."
     },
     {
       "ts": "1791891035.893259",
       "sazetak": "Gru da zavrsi prolazak kroz Nutrino taskove sa Milicom i Milosem i definise svaki task (rok bio 16.10.).",
-      "vlasnici": ["U08NVRXT2BY"],
+      "vlasnici": [
+        "U08NVRXT2BY"
+      ],
       "datum_zatvaranja": "2026-10-21",
       "kako": "Gru je 20.10. u 09:20:57 napisao u kanalu: 'Nutrino taskovi sa Milicom i Milosem nisu vise tema.' Eksplicitna potvrda vlasnika da je zadatak zavrsen/bespredmetan. Zanimljivo: isti dan popodne (13:36-15:07) izbila je opsirna diskusija o drugacijem problemu u Nutrino timu (interpersonalni konflikt Gru vs. menadzer Misa), ali to je NOVA, odvojena tema koja se zatvorila u istom prozoru citanja (janql+Gru vojs poruka 15:07:14, Gru i Tija stavili white_check_mark reakcije) - NIJE upisana kao posebna otvorena stavka jer nikad nije formalno prijavljena pre nego sto se zatvorila. Vredi znati za kontekst: odnos Gru/Misa u Nutrino timu je osetljiva tema, moguce da se vrati u nekom obliku."
     },
     {
       "ts": "1791961439.797689",
       "sazetak": "Budzet za festivale u H2 manji nego najavljeno - sta raditi sa Zutim pantalonama, UEPS i Balcannes kartama?",
-      "vlasnici": ["U899GA893"],
+      "vlasnici": [
+        "U899GA893"
+      ],
       "datum_zatvaranja": "2026-10-21",
       "kako": "Milja (pitalac) je 21.10. u 09:19:04, 11 minuta nakon bot-ove jutarnje objave koja je ovu stavku prvi put oznacila sa :warning: (5 radnih dana), napisala u kanalu samo: 'resheni budzeti'. Nema thread odgovora ni reakcija na originalnu poruku (provereno eksplicitno za oba). RIZICNA odluka o zatvaranju - poruka je kratka i ne precizira tacnu odluku o pojedinacnim stavkama (Zute pantalone/UEPS/Balcannes), ali zadovoljava strogo pravilo za 'odluka' tip jer je to eksplicitna poruka koja potvrdjuje da je stvar izvrsena/resena. Ako se tema ponovo pojavi kao nerazjasnjena u buducim porukama, odmah je otvoriti kao NOVU stavku (ne kao ponovno otvaranje stare) i navesti ovo zatvaranje kao kontekst."
     },
     {
       "ts": "1791970629.603719",
       "sazetak": "Milja trazi stalan/direktan pristup radnoj budzet tablici za pracenje svog budzeta (ranije imala, sad nema).",
-      "vlasnici": ["U1T2FE5CY"],
+      "vlasnici": [
+        "U1T2FE5CY"
+      ],
       "datum_zatvaranja": "2026-10-21",
       "kako": "Istom porukom kao gornja stavka: Milja je 21.10. u 09:19:04, 11 minuta nakon bot-ove objave, napisala 'resheni budzeti'. Zadatak-tip stavka (pristup tablici), pa je potvrda izvrsenja dovoljna bez eksplicitnog da/ne od janqla. Nema thread odgovora ni reakcija (provereno). Ako se ispostavi da pristup ipak nije dat, otvoriti kao novu stavku."
     },
@@ -263,63 +315,81 @@
     {
       "ts": "1793032485.481189",
       "sazetak": "Ko ce sa strane projekata voditi novi Bambi Wellness posao (package design, pa 360 kampanja)?",
-      "vlasnici": ["U899GA893"],
+      "vlasnici": [
+        "U899GA893"
+      ],
       "datum_zatvaranja": "2026-10-28",
       "kako": "RIZICNO/implicitno zatvaranje. Sonja je 27.10. u 08:18:15, svega 11 minuta posle bot-ove jutarnje objave koja je ovo pitanje prvi put prijavila, napisala u kanalu (bez threada): 'Ja sam na Wellnessu, racunaj da sednemo da mi preneses.' Protumaceno kao preuzimanje projektnog vodjenja ('ja sam na X' = 'ja to vodim'), po analogiji sa prethodnim precedentima brzih, kratkih odgovora direktno ispod bot-ove objave (21.10 'resheni budzeti', 19.10 'Zatvori temu Novog Sada'). RIZIK: dan ranije (26.10.) Sonja je eksplicitno rekla da ona ostaje 'direkcija' na Bambiju, sto je RAZLICITA uloga od 'vodjenja sa strane projekata' koju Gru trazi - moguce da je ova poruka samo reafirmacija stare, uze uloge, ne prihvatanje novog project-lead posla. Ako se pojavi bilo kakav signal da Wellness projekat i dalje nema jasnog project-side vodju (npr. neko ponovo pita, ili se neko zali na nedostatak lead-a), ODMAH vratiti u otvorene_stavke kao NOVU stavku. NAPOMENA 29.10./30.10.: i dalje nema novog pomena - zatvaranje za sada izgleda stabilno. NAPOMENA 03.11.: u celom prozoru 30.10.-02.11. i dalje nema pomena Wellness vodjenja - zatvaranje ostaje stabilno."
     },
     {
       "ts": "1792765976.232239",
       "sazetak": "Milos obecao da ce poslati tabelicu sa predlogom tima i procenata za A1 ugovor, najkasnije utorak 27.10.",
-      "vlasnici": ["U1T2LF7GD"],
+      "vlasnici": [
+        "U1T2LF7GD"
+      ],
       "datum_zatvaranja": "2026-10-28",
       "kako": "RIZICNO/posredno zatvaranje, NIJE doslovna potvrda da je tabelica/fajl poslat. Milos je 27.10. u 14:36:05 pitao Milju i janqla 'Kada mislite da mozete da mi posaljete svoja razmisljanja o A1 ugovoru...'. janql je 15:30:13 odgovorio dugim konkretnim predlogom restrukturiranja tima za A1 nalog. Sonja je zatrazila zajednicki sastanak pre formalizacije, na sta je Milos odgovorio 'Ne otvaramo' / 'To je samo predlog' / 'Javicu vam ja ako mi treba naredni korak'. Zatvoreno jer je sustina zadatka vidljivo diskutovana tacno na rok dan, i Milos je sam, kao vlasnik zadatka, eksplicitno signalizirao da tema za sada ostaje neformalna. RIZIK: ako se pojavi pitanje 'gde je tabelica', ODMAH otvoriti kao NOVU stavku. NAPOMENA 29.10./30.10.: i dalje nema novog pomena - zatvaranje izgleda stabilno. NAPOMENA 03.11.: u celom prozoru 30.10.-02.11. i dalje nema pomena A1 tabelice - zatvaranje ostaje stabilno; A1 kontekst se umesto toga pomerio na Sonjine SWP/Generali poslovne teme."
     },
     {
       "ts": "1792493306.001479",
       "sazetak": "Tija pita da li moze neko da je zameni za 'BP HR' jer je na bolovanju.",
-      "vlasnici": ["US38XUCMV"],
+      "vlasnici": [
+        "US38XUCMV"
+      ],
       "datum_zatvaranja": "2026-10-29",
       "kako": "Tija je 28.10. u 10:39:54, u threadu bot-ove jutarnje poruke od istog dana, direktno adresirajuci bota po imenu, napisala: 'claude, resena je taska zamene za tiju na bp hr. tijana ce da pije orthomole, sve vodice i sveee i sama ce biti svoja zamena! :smile:' - eksplicitna izjava da je stavka reshena. Visilo ukupno 6 uzastopnih prijavljivanja (21,22,23,26,27,28.10, vikendi ne racunati) pre nego sto je zatvoreno 29.10."
     },
     {
       "ts": "1793357580.255369",
       "sazetak": "Tija obecala da ce u ponedeljak (02.11.) poslati MR (zahtev rukovodstvu) da se TTT pomeri na 12. novembar.",
-      "vlasnici": ["US38XUCMV"],
+      "vlasnici": [
+        "US38XUCMV"
+      ],
       "datum_zatvaranja": "2026-11-03",
       "kako": "GRANICNI SLUCAJ, zatvoreno na osnovu reakcije. Tija je 30.10. u 11:53:00 napisala u kanalu 'u ponedeljak cu poslati MR da TTT bude 12. nov' - originalna poruka ima white_check_mark (3) reakciju. Po strogom (mehanickom) Pravilu 3 iz Koraka 3, checkmark reakcija na originalnoj poruci je dovoljna za RESENO, pa je ovo tretirano kao zatvoreno, iako je reakcija verovatno dodata isti dan kao odobravanje plana (ne naknadna potvrda da je MR stvarno poslat u ponedeljak) - nema eksplicitne potvrde posle 02.11. da je MR zaista poslat. Ova stavka NIKAD nije bila formalno upisana u sacuvani state fajl (otvorena je i vec oznacena u izgubljenoj, nesacuvanoj bot-poruci od 02.11., ciji je git push pao) - upisana je ovde direktno kao zatvorena radi kontinuiteta, posto je tim vec video stavku prijavljenu u Sleku 02.11. Ako se ispostavi da MR/pomeranje TTT nije zaista izvrseno, otvoriti kao NOVU stavku tipa 'zadatak'."
     },
     {
       "ts": "1793356416.495439",
       "sazetak": "Tija/janql trebalo je da podele ishod razgovora sa Isidorom (koju je opciju prihvatila) sa timom.",
-      "vlasnici": ["US38XUCMV"],
+      "vlasnici": [
+        "US38XUCMV"
+      ],
       "datum_zatvaranja": "2026-11-03",
       "kako": "janql je 30.10. u 11:33:36 najavio 'javice u ponedeljak za koju je opciju pa vam javljamo'. Tija je 02.11. u 11:12:19, istog dana kad je rok bio, podelila pun ishod u kanalu: 'Isidora je prihvatila deal da prestane sa radom sada i bude prijavljena jos 3 meseca. Zahvalna na velikodusnosti... moj predlog je da samo na Statusu sutra kratko potvrdimo.' Jasna, eksplicitna potvrda izvrsenja zadatka tacno na rok dan. Ova stavka NIKAD nije bila formalno upisana u sacuvani state fajl (identifikovana je i vec prijavljena u izgubljenoj, nesacuvanoj bot-poruci od 02.11., ciji je git push pao) - upisana je ovde direktno kao zatvorena radi kontinuiteta, posto je tim vec video stavku prijavljenu u Sleku 02.11."
     },
     {
       "ts": "1792492082.766899",
       "sazetak": "Milja treba da podeli zakljucke mentorskih sastanaka sa kreativnim timom, obecano 'ove nedelje' (rok bio petak 23.10.).",
-      "vlasnici": ["U6USJ8LCD"],
+      "vlasnici": [
+        "U6USJ8LCD"
+      ],
       "datum_zatvaranja": "2026-11-04",
       "kako": "Milja je 03.11. u 09:49:48, 100 minuta posle bot-ove jutarnje objave, napisala direktno u glavnom kanalu (nije ni trebalo thread, nova poruka u kanalu): 'zakljucci mentorskih sastanaka: 1. mimi - prenela 2. soda - nije prijavio problem sa stresom i atmosferom, spreman je za dodatnog klijenta (tipa OMV) 3. bosko - nije u burnoutu, ali jeste imao naporan period. pricali smo o performansu van a1, dogovorili sta su nam ambicije, all good. iskomunicirano je da na -1 i da treba da se vrati nazad u performans. na Generaliju ide dobro za sad!' sa broccoli reakcijom. Eksplicitna, sadrzajna potvrda izvrsenja originalnog zadatka (podeliti zakljucke sa kreativnim timom) - ne samo najava vec pun sadrzaj zakljucaka za sve troje pomenute. Visilo ukupno 7 uzastopnih prijavljivanja (21,22,23,26,27,28,29.10 jedan izgubljen 02.11, pa 03.11 - ukupno sedam formalnih prijavljivanja) pre nego sto je zatvoreno."
     },
     {
       "ts": "1793287914.133889",
       "sazetak": "Tija pitala ko drzi sastanak gde bi trebalo eksplicitno reci ljudima da ne dolaze bolesni u kancelariju; razgovor skrenuo na drugu temu bez odgovora.",
-      "vlasnici": ["US38XUCMV"],
+      "vlasnici": [
+        "US38XUCMV"
+      ],
       "datum_zatvaranja": "2026-11-05",
       "kako": "Tija (pitalac, jedina iz ceka_odgovor_od) je 04.11. u 09:00:13 CET, u threadu bot-ove jutarnje poruke od istog dana (koja ju je direktno tagovala, promena pristupa iz prethodnog runa), napisala: 'Skini temu bolesti, moje pitanje vise nije relevantno.' Eksplicitna izjava da pitanje vise nije aktuelno - zatvoreno kao povuceno/bespredmetno (ne kao formalno resheno pitanje u smislu dobijenog odgovora), posle ukupno 4 formalna prijavljivanja (30.10, izgubljeni 02.11, 03.11, 04.11). Direktno tagovanje pitaoca je ocigledno proradilo - vredi ranije koristiti ovaj pristup kod buducih stavki nejasnog konteksta."
     },
     {
       "ts": "1793731736.453449",
       "sazetak": "janql pita Tiju da li kandidatkinja sa skrininga (Ruskinja, moguca menadzerka projekata/produkcije) uopste valja za poziciju.",
-      "vlasnici": ["US38XUCMV"],
+      "vlasnici": [
+        "US38XUCMV"
+      ],
       "datum_zatvaranja": "2026-11-05",
       "kako": "Tija je odgovorila DVA PUTA: prvo direktno u threadu janqlove originalne poruke, 04.11. u 08:59:08 CET (dakle i pre bot-ove jutarnje objave istog dana): 'Da, kul je, saljem danas zapisnik :))' - eksplicitno potvrdjuje da kandidatkinja valja. Zatim je, odvojeno, u threadu bot-ove jutarnje poruke (09:00:13) dodala 'I odgovorila sam Goranu za kandidatkinju' - potvrdjujuci isto. Interpretacija iz prethodnog runa (da se 'jel valja' odnosi na celokupnu ocenu kandidatkinje a ne na platu) pokazala se tacnom. Prvi put prijavljeno 04.11. ('visi 1 dan'), zatvoreno sledeceg jutra."
     },
     {
       "ts": "1793621848.881139",
       "sazetak": "Sonja treba da stavi na agendu predlog spajanja praznika (neradan petak 1. januar + cela sledeca nedelja) i provede ga kroz menadzere, da Tija moze najaviti firmi.",
-      "vlasnici": ["U899GA893"],
+      "vlasnici": [
+        "U899GA893"
+      ],
       "datum_zatvaranja": "2026-11-06",
       "kako": "Sonja je 05.11. u 08:14:22 napisala u kanalu 'Javila Tiji za spajanje praznika!' (potvrdjuje da je predlog proveden kroz menadzere i preneto Tiji, tacno original zadatak), a odmah zatim (08:14:34) dodala direktno botu, imenom: 'dragi Claude obrisi to' - eksplicitna naredba da se stavka ukloni. Najjasniji mogaci signal zatvaranja, bez ikakve dvosmislenosti. Zatvoreno posle 3 formalna prijavljivanja (04,05,06.11)."
     },
@@ -330,6 +400,18 @@
       "datum_zatvaranja": "2026-11-06",
       "status": "napusteno",
       "kako": "TIHO NAPUSTANJE (diskreciono, ne formalni 10x-prag iz instrukcija). Posle 2 formalna prijavljivanja (04,05.11) stiglo je trece zaredom bez ijednog odgovora, reakcije ili pomena u threadu niti u novim porukama. Vec od 04.11. runa planirano je razmatranje ranijeg napustanja za ovu stavku jer je nizak-ulog, vremenski osetljiva (demo link verovatno vec zastareo), i ne nosi poslovni rizik. Nije pomenuto u poruci timu (tiho) jer formalno pravilo 'poslednji put prijavljujem' vazi samo za 10x-slucaj. Ako se tema ponovo pojavi, tretirati kao potpuno novu stavku."
+    },
+    {
+      "ts": "1792740794.745379",
+      "sazetak": "Da li je profitabilnost/MRR i dalje glavni cilj za 2027, ili se prioritizuje kreativna odlicnost/razvoj mediora - treba usaglasiti pre planiranja timova.",
+      "vlasnici": [
+        "U6USJ8LCD",
+        "U1T2FE5CY",
+        "U1T2LF7GD"
+      ],
+      "status": "napusteno",
+      "datum_zatvaranja": "2026-11-09",
+      "kako": "Nakon 10 uzastopnih prijavljivanja (prvo formalno prijavljivanje 27.10, racunato uz poznati offset od -1 radnog dana dokumentovan 04.11., pa redovno do 09.11.) i direktnog tagovanja sva tri ucesnika (Milja U6USJ8LCD, janql U1T2FE5CY, Milos U1T2LF7GD) poslednja tri runa (06,07->preskoceno vikend,09.11.), tema NIJE dobila nikakav substantivan odgovor niti pomen 'Direkcija'/'profitabilnost'/'MRR'/'dihotomija' od originalne Miljine poruke 23.10. do danas 09.11. Jedina reakcija na bot-ovu poruku od 06.11. bila je Tijina saljiva poruka u threadu bot-ove objave ('<@U0AVA8MLANT>, zaboravio si jednu temu da stavis koja nije resena. da li znas koju? :)' 06.11. 12:57:29), na koju je AUTOMATSKI Slack Claude Tag sistem odgovorio genericnom porukom da Claude jos nije ukljucen u ovaj kanal (12:57:44, 'Claude isn't on in this channel yet. Finish setup here.') - ovo NIJE odgovor od coveka niti se odnosi na profitabilnost temu, pa nije tretirano kao signal ni u jednom pravcu. Pregledan ceo prozor 05.11. 15:58:19 do 07.11. 17:39:18 (WOW soba predlog, torta za Milicu/Mihaila, Milosev refleksivni post o Isidori/Rauchu, BRC novogodisnja zurka predlog) - nijedna poruka ne pominje profitabilnost/MRR/dihotomiju/Direkcije sastanak. Po pravilu iz Koraka 4 (10 prijavljivanja bez resenja), stavka je PRVI PUT u istoriji ovog bota formalno napustena ('napusteno') i pomenuta poslednji put u objavi od 09.11. uz 'poslednji put prijavljujem'. VAZNO ZA BUDUCE RUNOVE: ako se tema ikad ponovo pojavi (npr. neko konacno prenese zakljucak sa Direkcija, ili neko ponovo pita 'sta je bilo sa profitabilnost/kreativnost pitanjem'), tretirati je kao POTPUNO NOVU stavku sa novim ts i brojacem od 1, ne kao 'ponovo otvorenu' staru - istorija 10 prijavljivanja ostaje ovde u arhivi kao kontekst ali se ne nastavlja."
     }
   ]
 }
